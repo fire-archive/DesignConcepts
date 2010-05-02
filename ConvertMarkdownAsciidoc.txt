@@ -20,3 +20,5 @@ _     = emphasis
 **text** -> *text text*
 
 Change block quote style.
+
+cat out.txt | python ConvertMarkdownAsciidoc.py > output.txt
