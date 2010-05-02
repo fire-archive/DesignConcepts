@@ -1,19 +1,12 @@
-\[(.*)\]\((.*)\) to $2[$1]
+\[(.*)\]\((.*)\) -> $2[$1]
 
-#### to ====
-### to ===
-## to ==
-# to =
+#### -> ====
+### -> ===
+## -> ==
+# -> =
 
-### Markdown
-
-*/_   = emphasis
-**/__ = strong
-
-### Asciidoc
-
-_     = emphasis
-*     = strong
+*/_   = emphasis -> _ = emphasis
+**/__ = strong -> * = strong
 
 *text* -> _text text_ # Check for missing space after *.s
 
