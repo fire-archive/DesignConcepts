@@ -1,0 +1,22 @@
+\[(.*)\]\((.*)\) to $2[$1]
+
+#### to ====
+### to ===
+## to ==
+# to =
+
+### Markdown
+
+*/_   = emphasis
+**/__ = strong
+
+### Asciidoc
+
+_     = emphasis
+*     = strong
+
+*text* -> _text text_ # Check for missing space after *.s
+
+**text** -> *text text*
+
+Change block quote style.
