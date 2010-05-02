@@ -8,13 +8,11 @@ expressions = [
         (re.compile(r"""##"""), """=="""),
         (re.compile(r"""#"""), """="""),
 
-        # first transform those with trailing space or punctuation
         (re.compile(r"""\*\*([^* ][^*]*)\*\*(?:\s|[[:punct:]])"""), r"""__\1__"""),
-        (re.compile(r"""\*([^* ][^*]*)\*(?:\s|[[:punct:]])"""), r"""_\1_"""),
+        (re.compile(r"""\*\*([^* ][^*]*)\*\*"""), r"""__\1__ """), # trailing text
 
-        # now deal with those remaining, i.e which have trailing text
-        (re.compile(r"""\*\*([^* ][^*]*)\*\*"""), r"""__\1__ """),
-        (re.compile(r"""\*([^* ][^*]*)\*"""), r"""_\1_ """),
+        (re.compile(r"""\*([^* ][^*]*)\*(?:\s|[[:punct:]])"""), r"""_\1_"""),
+        (re.compile(r"""\*([^* ][^*]*)\*"""), r"""_\1_ """), # trailing text
 ]
 
 for l in sys.stdin.readlines():
