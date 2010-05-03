@@ -2,11 +2,11 @@
 
 _Originally posted March 31, 2009 and April 21, 2009_
 
-My name is Ian Schreiber. I've been working in the video game industry since the turn of the millenium, first as a programmer and then as a game designer. I've taught college classes in game design since Fall 2006. For any other information, you can Google me.
+My name is Ian Schreiber. I've been working in the video game industry since the turn of the millennium, first as a programmer and then as a game designer. I've taught college classes in game design since Fall 2006. For any other information, you can Google me.
 
 === What is this book?
 
-This book is an experiment in game design and pedagogy. During Summer 2009, a series of lectures, course notes, read'ings, and challenges were posted to this blog on the subject of game design.
+This book is an experiment in game design and pedagogy. During Summer 2009, a series of lectures, course notes, readings, and challenges were posted to this blog on the subject of game design.
 
 This book is a course in game design (specifically, non-digital systems design).
 
