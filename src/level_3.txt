@@ -210,15 +210,15 @@ Here is your challenge:
 
 Most war-themed games have an objective of either territorial control or capture/destroy (as described earlier). For this challenge, you’ll be pushing beyond these traditional boundaries. You should design a non-digital game that includes the following:
 
-image:Level_3/greencircle.gif[alt="GreenCircle",float="left"]
+image:SkiingSymbols/greencircle.gif[alt="GreenCircle",float="left"]
 
 The theme must relate to *World War I*. The primary objective of players cannot be territorial control, or capture/destroy.
 
-image:Level_3/bluesquare.gif[alt="BlueSquare",float="left"]
+image:SkiingSymbols/bluesquare.gif[alt="BlueSquare",float="left"]
 
 You cannot use territorial control or capture/destroy as game dynamics. That is, your game is not allowed to contain the concepts of territory or death in any form.
 
-image:Level_3/blackdiamond.gif[alt="BlackDiamond",float="left"]
+image:SkiingSymbols/blackdiamond.gif[alt="BlackDiamond",float="left"]
 
 As above, and the players may not engage in direct conflict, only indirect.
 
