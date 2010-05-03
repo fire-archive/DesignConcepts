@@ -4,14 +4,7 @@ _Originally posted July 6, 2009_
 
 Today marks the last day that we continue in building a critical vocabulary from which to discuss games; this Thursday we will dive right in to the game design process. Today I want the last pieces to fall into place: we need a way to dissect and analyze a game by discussing its component parts and how they all fit together. This can be useful when discussing other people’s games (it would be nice if, for example, more professional game reviews could do this properly), but it is also useful in designing our own games. After all, how can you design a game if you don’t know how all the different parts fit together?
 
-*Course Announcements*
-
-As usual, there are a few things I’d like to announce and clarify:
-
--   I’m happy to announce that the http://gamedesignconcepts.pbworks.com/[course wiki] is now open to the public (read-only access). This wiki is pretty much entirely run by the participants who registered for this course. Among other things, the blog posts here have already been translated into five different languages. I am impressed and humbled at the level of participation going on there, and encourage casual viewers to stop by and check it out.
--   I noticed some confusion on this so I would like to clarify: for readings in the _Challenges_ text, you do not have to actually do all of the challenges at the end of the chapter. You certainly can if you want, but most chapters have five long challenges and ten short ones, and I would call that an extreme workload for a class of this pace. Repeat, *you do not have to do all of the challenges* (except where expressly noted on this blog).
-
-*A note on the reading for today*
+=== A note on the reading for today
 
 One of the readings for today was Doug Church’s _Formal Abstract Design Tools_. I want to mention a few things about this. First, he mentions three aspects of games that are worth putting in our design toolbox:
 
