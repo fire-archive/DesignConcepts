@@ -235,7 +235,7 @@ Then, after you have posted, *read at least two other posts from your difficulty
 
 *A note about research…*
 
-Note that you may have to do some actual research to complete this project (even if only looking to Wikipedia for inspiration). This is typical of much game design in the field. Many laypersons imagine game designers as these people that just sit and think at their desk all day, then eventually stand up and proclaim, “_I have this Great Idea for a game! Ninjas… and lasers… in space! Go forth and build it, my army of programmer and art lackeys. I shall sit here now until I come up with another Great Idea, while collecting royalties from my last five ideas._ ” This is not even close to reality. A great deal of design is the details: defining the rules, certainly, but also doing research to make sure that the rules fit the constraints and are appropriate for the project.
+Note that you may have to do some actual research to complete this project (even if only looking to Wikipedia for inspiration). This is typical of much game design in the field. Many laypersons imagine game designers as these people that just sit and think at their desk all day, then eventually stand up and proclaim, _“I have this Great Idea for a game! Ninjas… and lasers… in space! Go forth and build it, my army of programmer and art lackeys. I shall sit here now until I come up with another Great Idea, while collecting royalties from my last five ideas.”_ This is not even close to reality. A great deal of design is the details: defining the rules, certainly, but also doing research to make sure that the rules fit the constraints and are appropriate for the project.
 
 *A note about IP law…*
 
