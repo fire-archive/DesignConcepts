@@ -159,7 +159,7 @@ If you take away nothing else from this little activity, realize that you can ha
 
 Remember this as we move forward in this course. When we talk about iteration and rapid prototyping, many people are afraid to commit to a design, to actually build their idea. They are afraid it will take too long, or that the idea will not turn out to be as good as it seems in their head. Part of the process involves killing weak ideas and making them stronger, by actually making and playing your game. The faster you can have something up and running, and the more times that you can play it, the better a game you can make. If it takes you more than a few minutes to make your first prototype of a new idea, it is taking too long.
 
-=== Level 1 - Homeplay
+=== Homeplay
 
 Some classes assign "homework problems." I’m not sure what is less fun: the concept of work at home, or having problems. So, I call everything a "homeplay" because I want these to be fun and interesting.
 
