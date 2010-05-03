@@ -3,7 +3,7 @@
   <xsl:param name="column.count.body" select="2"/>
   <xsl:param name="column.count.back" select="2"/>
   <xsl:param name="chapter.autolabel" select="0"/>
-  <xsl:param name="section.autolabel.max.depth" select="0"/>
+  <xsl:param name="section.autolabel.max.depth" select="1"/>
   <xsl:param name="double.sided" select="1"/>
 
 <xsl:attribute-set name="book.titlepage.recto.style">
