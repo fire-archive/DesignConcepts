@@ -1,4 +1,4 @@
-== Level 2: Game Design / Iteration and Rapid Prototyping
+== Level 2: Game Design / Iteration and Rapid Prototyping [[level-2]]
 
 _Originally posted July 2, 2009_
 
