@@ -20,7 +20,7 @@ On another subject, Doug also included an interesting note at the end of the art
 
 Now, I’m sure this note was partly in jest, but let’s take it at face value. There’s a slight problem with this fix: you don’t see the note until you’ve already read all of the way through the article, and it’s too late to do anything about it. If Doug were to iterate on his design a second time, what would you suggest he do? (I’ve heard many suggestions from my students in the past.)
 
-*Qualities of Games*
+=== Qualities of Games
 
 It was rightly pointed out in the comments of this blog that on the first day of this course, I contradicted myself: I insisted that a critical vocabulary was important, and then I went on to say that completely defining the word “game” is impossible. Let’s reconcile this apparent paradox.
 
@@ -28,13 +28,13 @@ Take a quick look at the definitions listed on the http://gamedesignconcepts.wor
 
 I refer to these as “formal elements” again, not because they have anything to do with wearing a suit and tie, but because they are “formal” in the mathematical and scientific sense: something that can be explicitly defined. _Challenges_ refers to them as “atoms” — in the sense that these are the smallest parts of a game that can be isolated and studied individually.
 
-*What are atomic elements of games?*
+=== What are atomic elements of games?
 
 This depends on who you ask. I have seen several schemes of classification. Like the definition of “game,” none is perfect, but by looking at all of them we can see some emerging themes that can shed light on the kinds of things that we need to create as game designers if we are to make games.
 
 What follows are some parts of games, and some of the things designers may consider when looking at these atoms.
 
-*Players*
+==== Players
 
 How many players does the game support? Must it be an exact number (4 players only), or a variable number (2 to 5 players)? Can players enter or leave during play? How does this affect play?
 
@@ -50,7 +50,7 @@ What is the relationship between players: are there teams, or individuals? Can t
 -   Predator-Prey. Players form a (real or virtual) circle. Everyone’s goal is to attack the player on their left, and defend themselves from the player on their right. The college game _Assassination_ and the trading-card game _Vampire: the Eternal Struggle_ both use this structure.
 -   Five-pointed Star. I first saw this in a five-player _Magic: the Gathering_ variant. The goal is to eliminate both of the players who are _not_ on either side of you.
 
-*Objectives (goals)*
+==== Objectives (Goals)
 
 What is the object of the game? What are the players trying to do? This is often one of the first things you can ask yourself when designing a game, if you’re stuck and don’t know where to begin. Once you know the objective, many of the other formal elements will seem to define themselves for you. Some common objectives (again, this is not a complete list):
 
@@ -63,7 +63,7 @@ What is the object of the game? What are the players trying to do? This is often
 -   Build. The opposite of “destroy” — your goal is to advance your character(s) or build your resources to a certain point. _The Sims_ has strong elements of this; the board game _Settlers of Catan_ is an example also.
 -   Negation of another goal. Some games end when one player performs an act that is forbiden by the rules, and that player loses. Examples are the physical dexterity games _Twister_ and _Jenga_.
 
-*Rules (mechanics)*
+==== Rules (Mechanics)
 
 As mentioned last week, there are three categories of rules: setup (things you do once at the beginning of the game), progression of play (what happens during the game), and resolution (what conditions cause the game to end, and how is an outcome determined based on the game state).
 
@@ -87,7 +87,7 @@ Is it useful to make the distinction between these three types of rules? I think
 -   The distinction between “operational” and “constituative” rules helps us understand why one game is fun in relation to other games. The classic arcade game _Gauntlet_ has highly similar gameplay to the first-person shooter _DOOM_; the largest difference is the position of the camera. For those of you who play modern board games, a similar statement is that _Puerto Rico_ is highly similar to _Race for the Galaxy._ The similarity may not be immediately apparent because the games look so different on the surface, unless you are thinking in terms of game states and rules.
 -   Many first-person shooters contain a rule where, when a player is killed, they re-appear (“respawn”) in a specific known location. Another player can stand near that location and kill anyone that respawns before they have a chance to react. This is known as “spawn-camping” and can be rather annoying to someone on the receiving end of it. Is spawn-camping part of the game (since it is allowed by the rules)? Is it good strategy, or is it cheating? This depends on who you ask, as it is part of the “implied” rules of the game. When two players are operating under different implied rules, you will eventually get one player accusing the other of cheating (or just “being cheap”) while the other player will get defensive and say that they’re playing by the rules, and there’s no reason for them to handicap themselves when they are playing to win. The lesson here is that it is important for the game designer to define as many of these rules as possible, to avoid rules arguments during play.
 
-*Resources and resource management*
+==== Resources and resource management
 
 “Resources” is a broad category, and I use it to mean everything that is under control of a single player. Obviously this includes explicit resources (Wood and Wheat in _Settlers of Catan_, health and mana and currency in _World of Warcraft_), but this can also include other things under player control:
 
@@ -99,7 +99,7 @@ Is it useful to make the distinction between these three types of rules? I think
 
 What kinds of resources do the players control? How are these resources manipulated during play? This is something the game designer must define explicitly.
 
-*Game State*
+==== Game State
 
 Some “resource-like” things are not owned by a single player, but are still part of the game: unowned properties in _Monopoly_, the common cards in _Texas Hold ‘Em_. Everything in the game together, including the current player resources and everything else that makes up a snapshot of the game at a single point in time is called the _game state_.
 
@@ -107,7 +107,7 @@ In board games, explicitly defining the game state is not always necessary, but 
 
 In video games, someone must define the game state, because it includes all of the data that the computer must keep track of. Normally this task falls to a programmer, but if the game designer can explicitly define the entire game state it can greatly aid in the understanding of the game by the programming team.
 
-*Information*
+==== Information
 
 How much of the game state is visible to each player? Changing the amount of information available to players has a drastic effect on the game, even if all other formal elements are the same. Some examples of information structures in games:
 
@@ -117,7 +117,7 @@ How much of the game state is visible to each player? Changing the amount of inf
 -   The game itself can contain information that is hidden from all players. Games like _Clue_ and _Sleuth_ actually have the victory condition that a player discover this hidden information.
 -   These can be combined. Many “real-time strategy” computer games use what is called “fog of war” where certain sections of the map are concealed to any player that does not have a unit in sight range. Some information is therefore hidden from all players. Beyond that, players cannot see each other’s screens, so each player is unaware of what information is and isn’t available to their opponents.
 
-*Sequencing*
+==== Sequencing
 
 In what order do players take their actions? How does play flow from one action to another? Games can work differently depending on the turn structure that is used:
 
@@ -127,7 +127,7 @@ In what order do players take their actions? How does play flow from one action 
 -   There are additional variations. For a turn-based game, what order do players take their turns? Taking turns in clockwise order is common. Taking turns in clockwise order and then skipping the first player (to reduce the first-player advantage) is a modification found in many modern board games. I’ve also seen games where turn order is randomized for each round of turns, or where players pay other resources in the game for the privilege of going first (or last), or where turn order is determined by player standing (player who is currently winning goes first or last).
 -   Turn-based games can be further modified by the addition of an explicit time limit, or other form of time pressure.
 
-*Player Interaction*
+==== Player Interaction
 
 This is an often-neglected but highly important aspect of games to consider. How do players interact with one another? How can they influence one another? Here are some examples of player interactions
 
@@ -136,7 +136,7 @@ This is an often-neglected but highly important aspect of games to consider. How
 -   Trading (“I’ll give you a Wood in exchange for your Wheat”)
 -   Information sharing (“I looked at that tile last turn and I’m telling you, if you enter it a trap will go off”)
 
-*Theme (or narrative, backstory, or setting)*
+==== Theme (Or Narrative, Backstory, or Setting)*
 
 These terms do have distinct meanings for people who are professional story writers, but for our purposes they are used interchangeably to mean the parts of the game that do not directly affect gameplay at all.
 
@@ -144,7 +144,7 @@ If it doesn’t matter in terms of gameplay, why bother with this at all? There 
 
 The other reason is that a well-chosen theme can make a game easier to learn and easier to play, because the rules make sense. The piece movement rules in _Chess_ have no relation to the theme and must therefore be memorized by someone learning the game. By contrast, the roles in the board game _Puerto Rico_ have some relation to their game function: the builder lets you build buildings, the mayor recruits new colonists, the captain ships goods off to the Old World, and so on. It is easy to remember what most actions do in the game, because they have some relation to the theme of the game.
 
-*Games as Systems*
+=== Games as Systems
 
 I’d like to call two things about these formal elements to your attention.
 
@@ -160,7 +160,7 @@ Another property of systems is that it is hard to fully understand or predict th
 
 Games are like this, too. You can read the rules and define all the formal elements of a game, but to truly understand a game you need to play it. This is why most people do not immediately see the parallel between _Tic-Tac-Toe_ and _Three-to-Fifteen_ until they have played them.
 
-*Critical Analysis of Games*
+=== Critical Analysis of Games
 
 What is a critical analysis, and why do we care?
 
@@ -187,7 +187,7 @@ Some questions to ask yourself during a critical analysis at various stages:
 -   What is the game’s intended audience? Is the game appropriate for that audience?
 -   What is the “core” of the game — the one thing you do over and over that represents the main “fun” part?
 
-*Lessons Learned*
+=== Lessons Learned
 
 We covered a lot of content today. The main takeaways I offer:
 
@@ -196,7 +196,7 @@ We covered a lot of content today. The main takeaways I offer:
 -   Analyzing a game requires looking at all of the game’s working parts, and figuring out how they fit together and how a play experience arises from them.
 -   Designing a game requires the creation of all of the game’s parts. If you haven’t defined the formal elements of your game in some way, then you don’t really have a game… you just have the seed of an idea. This is fine, but to make it into a _game_ you must actually design it.
 
-*Homeplay*
+=== Homeplay
 
 It was brought to my attention that I have been using the word “homeplay” to refer to the reading, and that reading is not play no matter how I dress it up. This criticism is valid; normally in my classroom courses I use “homeplay” to refer to actual game design assignments and not readings, and I mixed the terms up here. I will make an attempt to avoid this confusion in the future, because I believe that trying to treat learning as an inherently Not-Fun activity (as evidenced by the need to use fancy fun-sounding words to describe it) is damaging to our collective long-term well being. As we will see when we get into flow theory, the reality is actually the opposite.
 
@@ -210,15 +210,15 @@ Here is your challenge:
 
 Most war-themed games have an objective of either territorial control or capture/destroy (as described earlier). For this challenge, you’ll be pushing beyond these traditional boundaries. You should design a non-digital game that includes the following:
 
-image:Level_3/greencircle.gif[alt="GreenCircle"]
+image:Level_3/greencircle.gif[alt="GreenCircle",float="left"]
 
 The theme must relate to *World War I*. The primary objective of players cannot be territorial control, or capture/destroy.
 
-image:Level_3/bluesquare.gif[alt="BlueSquare"]
+image:Level_3/bluesquare.gif[alt="BlueSquare",float="left"]
 
 You cannot use territorial control or capture/destroy as game dynamics. That is, your game is not allowed to contain the concepts of territory or death in any form.
 
-image:Level_3/blackdiamond.gif[alt="BlackDiamond"]
+image:Level_3/blackdiamond.gif[alt="BlackDiamond",float="left"]
 
 As above, and the players may not engage in direct conflict, only indirect.
 
@@ -226,11 +226,11 @@ I have created three new areas on the http://gamedesignconcepts.aceboard.com/[f
 
 Then, after you have posted, *read at least two other posts from your difficulty level* and offer a constructive analysis and critique. If you are at blue-square or black-diamond difficulty, *also read at least two other posts from the difficulty level immediately below yours* and offer the benefit of your experience to those who you could mentor. Try to choose posts that have no responses already, so that everyone can get at least some feedback. Also complete this by Thursday, noon GMT.
 
-*A note about research…*
+=== A note about research…
 
 Note that you may have to do some actual research to complete this project (even if only looking to Wikipedia for inspiration). This is typical of much game design in the field. Many laypersons imagine game designers as these people that just sit and think at their desk all day, then eventually stand up and proclaim, _“I have this Great Idea for a game! Ninjas… and lasers… in space! Go forth and build it, my army of programmer and art lackeys. I shall sit here now until I come up with another Great Idea, while collecting royalties from my last five ideas.”_ This is not even close to reality. A great deal of design is the details: defining the rules, certainly, but also doing research to make sure that the rules fit the constraints and are appropriate for the project.
 
-*A note about IP law…*
+=== A note about IP law…
 
 At this point, some of you may be thinking that by posting your game to the forum, you run the risk that someone will Steal Your Great Idea. How can you protect yourself from the threat of someone taking your basic idea, turning it into a working, sellable game, and leaving you with nothing?
 
