@@ -14,4 +14,6 @@
 
 Change block quote style.
 
+!http://image.png[img] -> image:img/img.jpg[alt="Img"]
+
 cat out.txt | python ConvertMarkdownAsciidoc.py > output.txt
