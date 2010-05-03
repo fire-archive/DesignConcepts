@@ -5,8 +5,8 @@
    dryrun=""
 fi
 
-a2x --fop -f $1 $dryrun -d book ./src/game-design-concepts.txt
-mv ./src/game-design-concepts.$1 .
+a2x --fop -f $1 $dryrun -d book ./src/GameDesignConcepts.txt
+mv ./src/GameDesignConcepts.$1 .
 
 # -n for dry run
 # --xsltproc-opts "./style.xsl"
