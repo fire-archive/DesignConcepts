@@ -20,17 +20,15 @@ This book is a course in game design (specifically, non-digital systems design).
 
 === Course Description
 
-This course provides students with a theoretical and concep'tual understanding of the field of game design, along with practical exposure to the process of creating a game. Topics covered include iteration, rapid prototyping, mechanics, dy'namics, flow theory, the nature of fun, game balance, and user interface design. Primary focus is on non-digital games.
+This course provides students with a theoretical and conceptual understanding of the field of game design, along with practical exposure to the process of creating a game. Topics covered include iteration, rapid prototyping, mechanics, dynamics, flow theory, the nature of fun, game balance, and user interface design. Primary focus is on non-digital games.
 
 === Course Objectives
 
-In this class, we will discuss games and game design. We will
-
-discover what the components of games are, and what parts of games are influenced by their design. We will learn several ways to approach the design of a game, and processes and best practices for prototyping, playtesting and balancing a game after it has been designed.
+In this class, we will discuss games and game design. We will discover what the components of games are, and what parts of games are influenced by their design. We will learn several ways to approach the design of a game, and processes and best practices for prototyping, playtesting and balancing a game after it has been designed.
 
 === Student Learning Outcomes
 
-By the end of this course, you will be familiar with the (rela'tively small) body of work that is accepted in the game in'dustry as the theoretical foundation of game design. You will also be comfortable enough in processes to start designing your own games, as well as critically analyzing other people's games.
+By the end of this course, you will be familiar with the (relatively small) body of work that is accepted in the game industry as the theoretical foundation of game design. You will also be comfortable enough in processes to start designing your own games, as well as critically analyzing other people's games.
 
 === Why are you doing this?
 
@@ -38,9 +36,7 @@ I have many motivations for starting this project, some selfish and some altrusi
 
 * Game design is my passion, and I love to share it with anyone and everyone.
 
-* I have taught some classes in a traditional classroom and others online, and I want to experiment with alternate methods of teaching. By exposing my course content and viewing
-
-* the comments and discussions, I can improve the course when I teach it for money.It is a career move. If this course is successful, it gives me greater exposure in my field and promotes my name as a brand.
+* I have taught some classes in a traditional classroom and others online, and I want to experiment with alternate methods of teaching. By exposing my course content and viewing the comments and discussions, I can improve the course when I teach it for money. It is a career move. If this course is successful, it gives me greater exposure in my field and promotes my name as a brand.
 
 === Is this really, totally, 100% free?
 
@@ -52,22 +48,21 @@ The book is free. There are some minor costs:
 
 === Textbooks
 
-This course has one required text, and two recommended texts that will be referenced in several places and provide good 'next steps' after the summer course ends.
+This course has one required text, and two recommended texts that will be referenced in several places and provide good "next steps" after the summer course ends.
 
 ==== Required Text
 
-_Challenges for Game Designers_ by Brathwaite & Schreiber. This book covers a lot of basic information on both practical and theoretical game design, and we will be using it heavily, supplemented with some readings from other online sources. Yes, I am one of the authors. The reason Brenda and I wrote this book was because we wanted a text to use in our classes, and nothing like it existed at the time' so we made our own.
+_Challenges for Game Designers_ by Brathwaite & Schreiber. This book covers a lot of basic information on both practical and theoretical game design, and we will be using it heavily, supplemented with some readings from other online sources. Yes, I am one of the authors. The reason Brenda and I wrote this book was because we wanted a text to use in our classes, and nothing like it existed at the time... so we made our own.
 
 ==== Recommended Texts
 
-_Understanding Comcs: The Invisible Art_ by McCloud. While this book claims to be about comics, many of the lessons with'in can be applied to game design and other forms of art. It also happens to be a comic book itself, and fun to read.
+_Understanding Comcs: The Invisible Art_ by McCloud. While this book claims to be about comics, many of the lessons within can be applied to game design and other forms of art. It also happens to be a comic book itself, and fun to read.
 
 _A Theory of Fun for Game Design_ by Koster. This book shows the similarities between game design and education, with a good discussion of the concept of Flow. Half text and half cartoons, this short book flows nicely and can be read in an afternoon or two.
 
 === Syllabus
 
-The following syllabus is a reprinting of the syllabus as it ap'peared on the original site during the course. It is reprinted here to give you an idea of the pacing of the original course, in addition to acting as a summary of the upcoming course.
-== Level 0: Syllabus and Schedule
+The following syllabus is a reprinting of the syllabus as it appeared on the original site during the course. It is reprinted here to give you an idea of the pacing of the original course, in addition to acting as a summary of the upcoming course.
 
 === Schedule:
 
