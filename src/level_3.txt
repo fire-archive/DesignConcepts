@@ -211,21 +211,21 @@ With that said, here is an activity that I hope you will find fun. It is based o
 
 Here’s how it works. First, choose your difficulty level based on your previous experience with game design. Skiiers may find this familiar:
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/skiingsymbols.gif?w=218&h=70 "SkiingSymbols"[SkiingSymbols]
+image:Level_3/skiingsymbols.gif[alt="SkiingSymbols"]
 
 Here is your challenge:
 
 Most war-themed games have an objective of either territorial control or capture/destroy (as described earlier). For this challenge, you’ll be pushing beyond these traditional boundaries. You should design a non-digital game that includes the following:
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/greencircle.gif?w=65&h=43 "GreenCircle"[GreenCircle]
+image:Level_3/greencircle.gif[alt="GreenCircle"]
 
 The theme must relate to *World War I*. The primary objective of players cannot be territorial control, or capture/destroy.
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/bluesquare.gif?w=65&h=43 "BlueSquare"[BlueSquare]
+image:Level_3/bluesquare.gif[alt="BlueSquare"]
 
 You cannot use territorial control or capture/destroy as game dynamics. That is, your game is not allowed to contain the concepts of territory or death in any form.
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/blackdiamond.gif?w=65&h=43 "BlackDiamond"[BlackDiamond]
+image:Level_3/blackdiamond.gif[alt="BlackDiamond"]
 
 As above, and the players may not engage in direct conflict, only indirect.
 
