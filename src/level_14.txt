@@ -77,7 +77,7 @@ Do keep in mind that the people that know you are far less likely to give strong
 
 Your homeplay this past Monday was to arrange for a playtest session with other designers. You may have already performed this playtest, or you may have just scheduled it to take place over the weekend, but that playtest session should be concluded before next Monday, August 17, noon GMT.
 
-In addition, over the weekend, you should *_arrange a playtest session with non-designers, to take place _after_ the designer playtest._ *This session can take place at any time on or before next Thursday (August 20), but it should be _arranged_ (that is, you should have made plans with specific people) on or before next Monday (August 17).
+In addition, over the weekend, you should *arrange a playtest session with non-designers, to take place _after_ the designer playtest.* This session can take place at any time on or before next Thursday (August 20), but it should be _arranged_ (that is, you should have made plans with specific people) on or before next Monday (August 17).
 
 Time permitting, you may continue to run additional playtest sessions, either with designers or non-designers.
 
