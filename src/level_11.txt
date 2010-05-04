@@ -2,9 +2,6 @@
 
 _Originally posted August 3, 2009_
 
-== Level 11: Design Project Overview
-
-By ai864
 You made a game on the first day of this course. It took you all of 15 minutes. It probably wasn’t very good. At this point, with your current understanding of flow states, feedback loops and kinds of decisions, you can probably isolate the reasons _why_ it wasn’t very good.
 
 You made a few other games after that one. You might be proud of some of them, and embarrassed of others. Looking back, you might find one that you _were_ proud of that you now realize could have been better. Or maybe not.
