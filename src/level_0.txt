@@ -64,37 +64,37 @@ _A Theory of Fun for Game Design_ by Koster. This book shows the similarities be
 
 The following syllabus is a reprinting of the syllabus as it appeared on the original site during the course. It is reprinted here to give you an idea of the pacing of the original course, in addition to acting as a summary of the upcoming course.
 
-=== Schedule:
+=== Schedule
 
 This class runs from *Monday, June 29* through *Sunday, September 6*. Posts appear on the blog Mondays and Thursdays each week at *noon GMT*. Discussions and sharing of ideas happen on a continual basis.
 
-=== Textbooks:
+=== Textbooks
 
 This course has one required text, and two recommended texts that will be referenced in several places and provide good "next steps" after the summer course ends.  
 
-==== Required Text:
+==== Required Text
 
 _Challenges for Game Designers_, by Brathwaite & Schreiber. This book covers a lot of basic information on both practical and theoretical game design, and we will be using it heavily, supplemented with some readings from other online sources. Yes, I am one of the authors. The reason Brenda and I wrote this book was because we wanted a text to use in our classes, and nothing like it existed at the time… so we made our own.  
  
-==== Recommended Texts:
+==== Recommended Texts
 
 _Understanding Comics: The Invisible Art_, by McCloud. While this book claims to be about comics, many of the lessons within can be applied to game design and other forms of art. It also happens to be a comic book itself, and fun to read.  
 
 _A Theory of Fun for Game Design_, by Koster. This book shows the similarities between game design and education, with a good discussion of the concept of Flow. Half text and half cartoons, this short book flows nicely and can be read in an afternoon or two.
 
-=== Course Description:
+=== Course Description
 
 This course provides students with a theoretical and conceptual understanding of the field of game design, along with practical exposure to the process of creating a game. Topics covered include iteration, rapid prototyping, mechanics, dynamics, flow theory, the nature of fun, game balance, and user interface design. Primary focus is on non-digital games.
 
-=== Course Objectives:
+=== Course Objectives
 
 In this class, we will discuss games and game design. We will discover what the components of games are, and what parts of games are influenced by their design. We will learn several ways to approach the design of a game, and processes and best practices for prototyping, playtesting and balancing a game after it has been designed.
 
-=== Student Learning Outcomes:
+=== Student Learning Outcomes
 
 By the end of this course, you will be familiar with the (relatively small) body of work that is accepted in the game industry as the theoretical foundation of game design. You will also be comfortable enough in processes to start designing your own games, as well as critically analyzing other people’s games.
 
-=== A Note About Change:
+=== A Note About Change
 
 As this entire course is an experiment, the schedule in this syllabus is subject to change based on the needs of the students and the overall pace of the course.
 
