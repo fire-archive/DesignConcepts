@@ -4,6 +4,20 @@ _Originally posted June 29, 2009_
 
 Welcome to Game Design Concepts! I am Ian Schreiber, and I will be your guide through this whole experiment. I’ve heard a lot of excitement throughout all of the registration process these last few months, and be assured that I am just as excited (and intimidated) at this whole process as anyone else. So let me say that I appreciate your time, and will do my best to make the time you spend on this worthwhile.
 
+=== Course Announcements
+
+Before we begin, I’d like to get a few quick administrative things out of the way:
+
+-   Registration. As I’m writing this, there is a large backlog of registrations sent in at the last minute. So, if you sent an email and have not yet received a reply, check your inbox in the next day or two. If you still haven’t received a response by Wednesday, it means I did not receive your email and you should find your previous one and forward it. Double-check the email address: mailto:gamedesignconcepts@yahoo.com[gamedesignconcepts@yahoo.com]
+-   On that subject, keep in mind there are over a thousand people actively participating here. I value all of your feedback and contributions, but if you send an email directly to me, understand that I may receive a lot and it may take some time to get back to you.
+-   I’ve set up two resources for this course, a wiki and a blog.
+-   The wiki is at http://gamedesignconcepts.pbworks.com[http://gamedesignconcepts.pbworks.com]and is intended for two things: as a resource for group collaboration (for those of you who are taking this course with friends), and as an area for people to post translations of this blog into other languages (as some of you have offered). If you think of other uses, feel free! Right now it is a closed wiki and requires an email address and password. If you registered, expect to receive an email in the next few days giving you login information.
+-   The discussion board is at http://gamedesignconcepts.aceboard.com[http://gamedesignconcepts.aceboard.com] and is the primary place for interactive discussion. I’ve created separate discussion areas by interest group (such as: an area for college students, another for professional educators, another for professional video game designers, and so on). I will create forums by geographic region soon, to allow you to find others in your area and arrange to meet in person, if you’d like. This is also where you’ll be able to post the work you do for this course, and give and receive peer review (these will become available as they are assigned). Lastly, there is a forum at the top called Meta Discussion, which is discussion for the course itself — what is working and what is not, in terms of using blog, wiki, forum and so on in order to communicate. *You will have to create an account and then wait for the moderator to add you. This process may take a couple of days, so please be patient.*
+-   If you twitter, use the tag https://twitter.com/=search?q==GDCU[#GDCU] for any course-related tweets.
+-   If you have something to say about the course content itself, feel free to leave it as a comment here on this blog.
+
+And with all of that out of the way, let’s talk about game design!
+
 === Course Overview
 
 Most fields of study have been around for thousands of years. Game design has been studied for not much more than ten. We do not have a vast body of work to draw upon, compared to those in most other arts and sciences.
