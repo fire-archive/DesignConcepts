@@ -26,7 +26,7 @@ Read the following:
 
 We can roughly classify different stories by their overall structure. The structure is determined by what kinds of choices are available to the player, how open or constrained those choices are, and what effect those choices have on both the ongoing story and the final ending. Each structure has its advantages and disadvantages, which we will discuss below.
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/storylinear.jpg?w=450&h=43 "StoryLinear"[StoryLinear]
+image:Level_10/storylinear.jpg[alt="StoryLinear"]
 
 ==== _Linear_
 
@@ -36,7 +36,7 @@ Linear stories have one major advantage over all other story structures: it is e
 
 Linear stories have the obvious disadvantage that, due to a lack of decisions, they are not very game-like. As stated above, there is a natural barrier between linear stories and game mechanics, which limits the effect the story can have.
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/storybranching.jpg?w=436&h=388 "StoryBranching"[StoryBranching]
+image:Level_10/storybranching.jpg[alt="StoryBranching"]
 
 ==== _Branching_
 
@@ -48,7 +48,7 @@ However, there is one major drawback of using a branching story: it is expensive
 
 To make things worse, note that a player that goes through the game once will never even see the vast majority of content. It requires multiple replays just to see every path through the story… and even then, the player must decide which is the "real" story and which are the alternate timelines that didn’t actually happen. (If the developers ever make a sequel to the game, they must deal with this problem as well.)
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/storyparallel.jpg?w=450&h=91 "StoryParallel"[StoryParallel]
+image:Level_10/storyparallel.jpg[alt="StoryParallel"]
 
 ==== _Parallel Paths_
 
@@ -62,7 +62,7 @@ One potential solution is to have the player decisions alter the game’s ending
 
 And, we still have the problem that the player must replay through the entire game multiple times just to see all the endings.
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/storythreaded.jpg?w=450&h=178 "StoryThreaded"[StoryThreaded]
+image:Level_10/storythreaded.jpg[alt="StoryThreaded"]
 
 ==== _Threaded_
 
@@ -78,7 +78,7 @@ Writing a threaded narrative is hard, because events can happen in any order, le
 
 Lastly, a threaded narrative runs the risk of confusing the player, if there are too many concurrent plots happening at a single time and the player does not immediately see the relationships between them. This is also a danger with books and movies that try to tell several stories at once.
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/storydynamic.jpg?w=450&h=311 "StoryDynamic"[StoryDynamic]
+image:Level_10/storydynamic.jpg[alt="StoryDynamic"]
 
 ==== _Dynamic Object-Oriented Narrative_
 
@@ -168,7 +168,7 @@ McKee says that story is about forms, not formulas. Archetypes are forms; stereo
 
 "Villain" is an archetype. The Snidely Whiplash-esque, mustache-twirling, top-hat-and-black-cape-wearing, purely-mean-for-its-own-sake bad guy is a stereotype.
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/snidelywhiplash.png?w=293&h=400 "SnidelyWhiplash"[SnidelyWhiplash]
+image:Level_10/snidelywhiplash.png[alt="SnidelyWhiplash"]
 
 Archetypes are useful. They allow us to tell a story with believable characters that fit familiar forms. Stereotypes are overused, and typically make a story _less_ believable because the audience has seen these same characters before from other stories, so they do not seem unique. Generally, avoid stereotypes, unless there is very good reason (such as if your story is a parody that is making fun of a particular character stereotype).
 
