@@ -4,8 +4,6 @@ _Originally posted July 13, 2009_
 
 Until this point, we have made lots of games and game rules, but at no point have we examined what makes a _good_ rule from a _bad_ one. Nor have we really examined the different _kinds_ of rules that form a game designer’s palette. Nor have we talked about the relationship between the game rules and the player experience. These are the things we examine today.
 
-* *
-
 *Course Announcements*
 
 No major announcements today, but for your curiosity I did compile a list of tweets for the last challenge (add or change a rule to _Battleship_ to make it more interesting):
