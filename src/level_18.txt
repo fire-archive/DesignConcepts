@@ -6,11 +6,11 @@ We are nearing the end of this adventure, so if you are still here, you deserve 
 
 At this point you have created a game. You have playtested your game multiple times, with multiple purposes (from fun to balance to usability). You have a list of materials that you need to assemble, and a list of things you must do to assemble them. All that is left in the Design Project is to complete it.
 
-*Readings / Viewings*
+=== Readings / Viewings
 
 None.
 
-*On Craftsmanship*
+=== On Craftsmanship
 
 One might wonder, why bother with assembling high-quality components for a game? The game is all about the mechanics, after all, and the game pieces are just a physical manifestation of the mechanics. Therefore, any pieces should be as good as any other. UI issues aside, why not just use the prototype you’ve been using and call _that_ the final project… handwritten cards and all?
 
@@ -24,7 +24,7 @@ Third, if you plan to eventually commercialize and sell your game, the quality o
 
 Lastly, keep in mind that your game represents you as a designer. If you ignore the one thing that every player is going to see, what does that say about you? Does it suggest that you don’t care about your projects enough to put in some extra effort? Does it mean you don’t take pride in your own work? Does it mean you lack confidence? If you are planning to use this game (or another one) as part of your professional design portfolio, think about how it will appear to prospective schools or employers. For the same reason that you might dress up for a job interview, dress your game up before you release it.
 
-*An Anti-Craftsmanship Aesthetic*
+=== An Anti-Craftsmanship Aesthetic
 
 You might press this even further. Some _commercial_ games were made with _intentionally_ poor production values. The first printing of http://www.boardgamegeek.com/boardgame/257[_Kill Doctor Lucky_] (and the rest of the games from the original publisher) had cards printed in one color on flimsy paper with just simple text and no art. The game didn’t even include common components like pawns or dice, and it was sold in a thin paper envelope with the rules printed right on the bag – there wasn’t even a separate printed manual. In the digital realm, http://www.kingdomofloathing.com/[_Kingdom of Loathing_] is an online browser game that uses badly-drawn stick figures for all of the game art. It’s as if these people aren’t even trying, and yet their games see many players. Why not just do that with your own game?
 
@@ -36,7 +36,7 @@ With _Kingdom of Loathing_, the game is a parody of similar games. As a parody, 
 
 So, if you have a game where "low" production values make sense – maybe you’re making a game about living in a trailer park, or a game about magpies where the object is to build a nest out of the shiniest junk, or something – then by all means, craft your game accordingly. But even in this case (or I should say, _especially_ in this case), make the quality and appearance of each component a _deliberate_ design decision. You’ll find that it may take more skill to pull this off in a way that looks genuine than it would to just make a game with standard high-quality components.
 
-*Quick Tips*
+=== Quick Tips
 
 For printing cards:
 
@@ -76,7 +76,7 @@ For printing your rules:
 -   And for the love of all that is holy, double- and triple-check your rules for spelling, grammar, and clarity of writing. You did this before, but do it again – this time it counts.
 -   Also check your written rules to make sure they are _correct_. You’ve likely made a lot of changes to the mechanics of the game over the course of the project, and the last thing you’d want is to accidentally print out an old copy of the rules before you made several key changes!
 
-*Everything is a Design Decision*
+=== Everything is a Design Decision
 
 If you just throw together a bunch of random components, that is a decision you made. If you hand-carved each component out of the branches of a tree in your backyard, that is also a deliberate decision. In short, everything you do for your game is a decision that you, as the designer, are responsible for.
 
@@ -84,7 +84,7 @@ So, make your decisions… but make them with both eyes open. Consider each comp
 
 Now, get out there and build the final version of your game.
 
-*Homeplay*
+=== Homeplay
 
 I generally give my students in my classroom courses a single weekend to build everything. They do it, and they usually come to class on Monday very tired, reporting that they stayed up until 3am or later the night before just finishing everything.
 
