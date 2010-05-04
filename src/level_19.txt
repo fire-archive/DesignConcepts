@@ -14,21 +14,21 @@ A game designer does not have to be an expert critic (nor vice versa), but an un
 
 Read the following:
 
--   http://playthisthing.com/game-criticism-why-we-need-it-and-why-reviews-arent-it[_Game Criticism, Why We Need It, and Why Reviews Aren’t It_], by Greg Costikyan. I could write at length about the difference between a “game review” and a “game critique” but Greg has already done so, and far more succinctly and clearly than I could.
+-   http://playthisthing.com/game-criticism-why-we-need-it-and-why-reviews-arent-it[_Game Criticism, Why We Need It, and Why Reviews Aren’t It_], by Greg Costikyan. I could write at length about the difference between a "game review" and a "game critique" but Greg has already done so, and far more succinctly and clearly than I could.
 
 *Critical Analysis*
 
 I have mentioned before that an important game design skill to have is the ability to critically analyze _other_ people’s games. I think about half of the reason why I am as far along as I am in my career, personally, is that I have the ability to play a game and offer direct constructive feedback that is useful to another designer. My usefulness to designers makes me friends in a lot of places, and I want you to have the same opportunity.
 
-Consider your own Design Project to be, if not finished, then at least “handed in” (if this were a normal class). Put it aside, and let us examine some other projects. It’s good practice, and it may even make you some friends that extend beyond this course.
+Consider your own Design Project to be, if not finished, then at least "handed in" (if this were a normal class). Put it aside, and let us examine some other projects. It’s good practice, and it may even make you some friends that extend beyond this course.
 
 This time, we will follow a process that is a bit different than before. We are going to take off our game designer hats for a moment, and put on our _game critic_ hats.
 
 *Review and Critique*
 
-We don’t hear the words “game critic” very often. Especially with video games, more often we see “game reviewer.” Review. Critique. Reviewer. Critic. Are these synonyms? What is the difference?
+We don’t hear the words "game critic" very often. Especially with video games, more often we see "game reviewer." Review. Critique. Reviewer. Critic. Are these synonyms? What is the difference?
 
-As Costikyan points out, the difference is in the purpose of the writing. In short, a _reviewer_ is aiding the consumer in making a buy-or-don’t-buy decision. A _critic_ is writing about a game and why it is or is not important, or valuable, or what have you. Since we often hear the term “game journalism” as well, I would add that a _journalist_ is writing about news in the field. Thus, a reviewer writing about _Settlers of Catan_ might say that it is an excellent game that you should buy right now; a critic might write of its historical importance in bringing Eurogames to the US, or an analysis of its mechanics and how the game deals with minimizing player downtime, balancing luck and skill to make it accessible to all ages, and so on; and a journalist might write about a new game in the series getting released, or a new publisher getting the rights to the game, or the designer getting married to a famous celebrity, if any of those things ever happened.
+As Costikyan points out, the difference is in the purpose of the writing. In short, a _reviewer_ is aiding the consumer in making a buy-or-don’t-buy decision. A _critic_ is writing about a game and why it is or is not important, or valuable, or what have you. Since we often hear the term "game journalism" as well, I would add that a _journalist_ is writing about news in the field. Thus, a reviewer writing about _Settlers of Catan_ might say that it is an excellent game that you should buy right now; a critic might write of its historical importance in bringing Eurogames to the US, or an analysis of its mechanics and how the game deals with minimizing player downtime, balancing luck and skill to make it accessible to all ages, and so on; and a journalist might write about a new game in the series getting released, or a new publisher getting the rights to the game, or the designer getting married to a famous celebrity, if any of those things ever happened.
 
 For game designers, it is critique that is the most important, because critique can directly inform our present and future designs.
 
@@ -51,7 +51,7 @@ Write this up. Include the following in your analysis:
 -   Describe the MDA dynamics and aesthetics, and show how they emerge from the mechanics (or guess, if you aren’t sure).
 -   State the game’s design goals. What was the designer trying to do? Then, say whether you feel the game met those goals, and why or why not.
 -   If there was anything else of note in the game (such as a particular issue with game balance or a unique use of game components), say that.
--   Lastly, if you were the designer, what would you change about the game (if anything)? Make specific recommendations. For example, don’t just say “I would make the game more interactive between players” or “I would fix the problem that I identified earlier” – say _how_ you would fix things. What rules would change, and what would they change to? Would you change any game objects or values?
+-   Lastly, if you were the designer, what would you change about the game (if anything)? Make specific recommendations. For example, don’t just say "I would make the game more interactive between players" or "I would fix the problem that I identified earlier" – say _how_ you would fix things. What rules would change, and what would they change to? Would you change any game objects or values?
 
 Remember, your audience is other game designers. Write your analysis so that other designers can learn from the mistakes and successes of the game you chose. Your goal is to educate and inform, and to discover new lessons about what makes games work or not work. Your goal is not to give a review score.
 

@@ -8,21 +8,21 @@ Last time we asked the question: what is a game? Today, we look into a related q
 
 Some administrative things that have come up since Monday:
 
--   First, I would like to apologize to those who are registered for the misbehavior of the http://gamedesignconcepts.pbworks.com/[wiki]. It was sending out hourly announcements of updates… and there were a lot of updates! I have attempted to turn off these updates, so you should hopefully not receive any more “wiki-spam” but if you do, you can shut it off manually by going to your own settings and changing notifications to “Never.”
+-   First, I would like to apologize to those who are registered for the misbehavior of the http://gamedesignconcepts.pbworks.com/[wiki]. It was sending out hourly announcements of updates… and there were a lot of updates! I have attempted to turn off these updates, so you should hopefully not receive any more "wiki-spam" but if you do, you can shut it off manually by going to your own settings and changing notifications to "Never."
 -   As of 5am GMT this morning, the http://gamedesignconcepts.aceboard.com/[discussion forums] are set up and operational. I look forward to seeing some really great discussion. There were quite a few spambots that tried to register, so I had to check every forum account against course registrations. If you got an email that your account was rejected, it just means I was unable to match it up to a course registration; please try again. If you have not yet created a forum account, you can make it easiest for me by using the same email on the forums that you used to register for this course… and if you’re unwilling to do that, at least put some kind of identifying information in there (like your name and location) so I can find you in the list. Thank you.
 -   Lastly, to those of you who sent in a registration email after the course started (that is, if your email was timestamped after Monday, noon GMT), I apologize for not being able to add you after the fact. Registration emails have taken a lot of my time prior to the start of the course, and if I accept late registrations I will not have the time to do other things for the course. Whether you are registered or not, this blog is free and open to the public (as is the https://twitter.com/=search?q==GDCU[Twitter feed]), and I hope you do still follow along and get a lot out of the experience.
 
 === Game Design
 
-We will use the word “design” a lot in this course, and unfortunately it is a term that is a bit overused, so I will clarify what I mean here. As it says in _Challenges_, game design is the creation of the rules and content of a game. It *does not* involve programming, art or animation, or marketing, or any of the other myriad tasks required to make a game. All of these tasks collectively can be called “game development” and game design is one part of development.
+We will use the word "design" a lot in this course, and unfortunately it is a term that is a bit overused, so I will clarify what I mean here. As it says in _Challenges_, game design is the creation of the rules and content of a game. It *does not* involve programming, art or animation, or marketing, or any of the other myriad tasks required to make a game. All of these tasks collectively can be called "game development" and game design is one part of development.
 
-Unfortunately, I have seen the term “design” used (particularly in some college curricula) to refer to all aspects of development. When used in the video game industry (or the board game industry), “game design” has a very specific meaning, and that is the meaning that we will use for this course.
+Unfortunately, I have seen the term "design" used (particularly in some college curricula) to refer to all aspects of development. When used in the video game industry (or the board game industry), "game design" has a very specific meaning, and that is the meaning that we will use for this course.
 
 === Multiple Types of Game Design
 
-As mentioned in _Challenges_, there are many tasks associated with game design: system design, level design, content design, user interface design, world building, and story writing. You could fill several 10-week courses with any one of these, so this summer course will _not_ be a full treatment of the entire range of game design. We will touch lightly on UI, story writing and content when relevant, but the majority of this course focuses on *system design* (also sometimes called “systems design” or “core systems design”).
+As mentioned in _Challenges_, there are many tasks associated with game design: system design, level design, content design, user interface design, world building, and story writing. You could fill several 10-week courses with any one of these, so this summer course will _not_ be a full treatment of the entire range of game design. We will touch lightly on UI, story writing and content when relevant, but the majority of this course focuses on *system design* (also sometimes called "systems design" or "core systems design").
 
-System design is about defining the basic rules of the game. What are the pieces? What can you control? What actions can you take on your turn (if there are “turns” at all)? What happens when you take each action, and how does it affect the game state? In general, system design is the creation of three things:
+System design is about defining the basic rules of the game. What are the pieces? What can you control? What actions can you take on your turn (if there are "turns" at all)? What happens when you take each action, and how does it affect the game state? In general, system design is the creation of three things:
 
 -  Rules for setup. How does the game begin?
 
@@ -36,9 +36,9 @@ If you look back at _Three-to-Fifteen_ from Monday, you’ll notice those very s
 
 As you may have noticed, game design is an incredibly broad field. Those of us who are professional designers sometimes have trouble explaining what we do to our families and friends. Part of the reason for this is that we do so many things. Here are some analogies I’ve seen when trying to explain what it is like to be a game designer:
 
--  Game designers are *artists*. The term “art” is just as difficult to define as the word “game”… but if games can be a form of art (as we saw in Costikyan’s definition, at least), then designers would be artists.
+-  Game designers are *artists*. The term "art" is just as difficult to define as the word "game"… but if games can be a form of art (as we saw in Costikyan’s definition, at least), then designers would be artists.
 
--  Game designers are *architects*. Architects do not build physical structures; they create blueprints. Video game designers also create “blueprints” which are referred to as “design docs.” Board game designers create “blueprints” as well — in the form of prototypes — which are then mass-produced by publishers.
+-  Game designers are *architects*. Architects do not build physical structures; they create blueprints. Video game designers also create "blueprints" which are referred to as "design docs." Board game designers create "blueprints" as well — in the form of prototypes — which are then mass-produced by publishers.
 
 -  Game designers are *party hosts*. As designers, we invite players into our space and try our best to show them a good time.
 
@@ -52,7 +52,7 @@ As you may have noticed, game design is an incredibly broad field. Those of us w
 
 If game design is all these things, where would it fit in a college curriculum? It could be justified in the school of education, or art, or architecture, or theology, or recreation management, or law, or engineering, or applied sciences, or half a dozen other things.
 
-Is a game designer all of these things? None of them? It is open for discussion, but I think that game design has _elements_ of many other fields, but it is still its own field. And you can see just how broad the field is! As the field of game design advances, we may see a day where game designers are so specialized that “game design” will be like the field of “science” — students will need to pick a specialty (Chemistry, Biology, Physics, etc.) rather than just “majoring in Science.”
+Is a game designer all of these things? None of them? It is open for discussion, but I think that game design has _elements_ of many other fields, but it is still its own field. And you can see just how broad the field is! As the field of game design advances, we may see a day where game designers are so specialized that "game design" will be like the field of "science" — students will need to pick a specialty (Chemistry, Biology, Physics, etc.) rather than just "majoring in Science."
 
 === Speaking of Science…
 
@@ -70,13 +70,13 @@ image:Level_2/image002.jpg[alt="Iterative"]
 
 If this sounds familiar, it is because this is more or less the http://en.wikipedia.org/wiki/Scientific_method[Scientific Method]
 
-1.  Make an observation. (“My experience in playing/making games has shown me that certain types of mechanics are fun.”)
+1.  Make an observation. ("My experience in playing/making games has shown me that certain types of mechanics are fun.")
 
-2.  Make a hypothesis. (“I think that this particular set of rules I am writing will make a fun game.”)
+2.  Make a hypothesis. ("I think that this particular set of rules I am writing will make a fun game.")
 
-3.  Create an experiment to prove or disprove the hypothesis. (“Let’s organize a playtest of this game and see if it is fun or not.”)
+3.  Create an experiment to prove or disprove the hypothesis. ("Let’s organize a playtest of this game and see if it is fun or not.")
 
-4.  Perform the experiment. (“Let’s play!”)
+4.  Perform the experiment. ("Let’s play!")
 
 5.  Interpret the results of the experiment, forming a new set of observations. Go back to the first step.
 
@@ -116,7 +116,7 @@ Take that 15-minute game you made last time, and play it, if you haven’t alrea
 
 Then, after playing once, make at least one change. Maybe you’ll change the rules for movement, or add a new way for players to interact. Maybe you’ll change some of the spaces on the board. Whatever you do, for whatever reason, make a change and then play again. Note the differences. Has the change made the game better, or worse? Has this one change made you think of additional changes you could make? If the game got worse, would you just change the rule back, or would you change it again in a different way?
 
-We will be looking at the playtest process in detail later in this course. For now, I just want everyone to get over that fear: “what if I play my game and it sucks?” With the game you designed on Monday, the odds are very high that your game _does_ suck (seriously, did you expect to make the next _Gears of War_ in 15 minutes?). This does not make you a “bad designer” by any means — but it should make it clear that the more time you put into a game and the more iterations you make, the better it gets.
+We will be looking at the playtest process in detail later in this course. For now, I just want everyone to get over that fear: "what if I play my game and it sucks?" With the game you designed on Monday, the odds are very high that your game _does_ suck (seriously, did you expect to make the next _Gears of War_ in 15 minutes?). This does not make you a "bad designer" by any means — but it should make it clear that the more time you put into a game and the more iterations you make, the better it gets.
 
 === Lessons Learned
 
@@ -132,7 +132,7 @@ This has two corollaries:
 
 Before next Monday, read the following. I will be referencing these in Monday’s content when we talk about the formal elements of games:
 
--  _Challenges for Game Designers_, Chapter 2 (Atoms). This will act as a bridge between last Monday when we talked about a critical vocabulary, and next Monday when we will start breaking down the concept of a “game” into its component parts.
+-  _Challenges for Game Designers_, Chapter 2 (Atoms). This will act as a bridge between last Monday when we talked about a critical vocabulary, and next Monday when we will start breaking down the concept of a "game" into its component parts.
 
 -  http://www.gamasutra.com/features/19990716/design_tools_01.htm[_Formal Abstract Design Tools_], by Doug Church. This article builds on Costikyan’s _I Have No Words_, offering some additional tools by which we can analyze and design games. While he does use many examples from video games, think about how the core concepts in the article can apply to other kinds of games as well.
 

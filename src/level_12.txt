@@ -12,13 +12,13 @@ There are no readings for today, other than this blog post. Take the time that y
 
 *Different Kinds of Playtesting*
 
-The word “playtesting,” like the word “game,” is overused and can mean different things to different people. In general, the term covers any activity where you are playing a game in progress for the purpose of improving it. But different playtests may have different goals, and it is important to know what your goals are before you do anything.
+The word "playtesting," like the word "game," is overused and can mean different things to different people. In general, the term covers any activity where you are playing a game in progress for the purpose of improving it. But different playtests may have different goals, and it is important to know what your goals are before you do anything.
 
 I’ll be playing a bit fast and loose with terminology here, so in this case the concepts are more important than the labels I’m giving them.
 
 _Bug Testing (or Quality Assurance)_
 
-The purpose of QA is to find errors in the game’s behavior relative to its design. “Fun” does not enter the equation. If the designer says that the game should do one thing and it actually does another (even if what the game _is_ doing may be superior), that is a bug that needs to be identified.
+The purpose of QA is to find errors in the game’s behavior relative to its design. "Fun" does not enter the equation. If the designer says that the game should do one thing and it actually does another (even if what the game _is_ doing may be superior), that is a bug that needs to be identified.
 
 Normally, we think of bug testing as specific to video games. Board games do have a corresponding kind of testing, where the purpose is to find holes in the rules and dead ends in gameplay – gaps in the game that the designer did not cover.
 
@@ -38,7 +38,7 @@ A fun game can quickly become boring if some kind of play exploit exists that le
 
 _Fun Testing_
 
-A game can be usable, balanced and functional and still be uninteresting. That elusive “fun factor” may be hard to design intentionally, but when people are playing the game it is pretty obvious whether they are having fun or not. Certain aspects of the game may be more fun than others, so it is also important to figure out what parts of the game need to stay the same… not just what to change.
+A game can be usable, balanced and functional and still be uninteresting. That elusive "fun factor" may be hard to design intentionally, but when people are playing the game it is pretty obvious whether they are having fun or not. Certain aspects of the game may be more fun than others, so it is also important to figure out what parts of the game need to stay the same… not just what to change.
 
  
 
@@ -52,8 +52,8 @@ The reason is that each is appropriate at different stages of completion in a pr
 
 When should you do which kind of playtesting? What order do you do them in? A lot depends on your particular project, so some of this will be up to your judgment as the designer. However, there are some rules of thumb.
 
--   Very early on in the project, you need to make sure your project will meet its design goals (usually the “design goal” is to make a game that’s fun to play). Testing for fun is necessary to make sure you do not spend a lot of time building on the wrong foundation. If you are making a game for a specific market, focus testing may be involved at an early stage as well, simply to ask the target audience if a game with a particular concept sounds interesting to them at all.
--   Once you know that you have something, you need to solidify the mechanics. Design the whole game, making sure that all the details are taken care of. Test for “bugs.” (Note that bug testing in software projects is often done continually throughout the project, increasing in intensity toward the end. Non-digital games are easier to “debug” though, and a “bug” can stop a playtest in its tracks, so it is important for us to have a complete set of rules early in the process.)
+-   Very early on in the project, you need to make sure your project will meet its design goals (usually the "design goal" is to make a game that’s fun to play). Testing for fun is necessary to make sure you do not spend a lot of time building on the wrong foundation. If you are making a game for a specific market, focus testing may be involved at an early stage as well, simply to ask the target audience if a game with a particular concept sounds interesting to them at all.
+-   Once you know that you have something, you need to solidify the mechanics. Design the whole game, making sure that all the details are taken care of. Test for "bugs." (Note that bug testing in software projects is often done continually throughout the project, increasing in intensity toward the end. Non-digital games are easier to "debug" though, and a "bug" can stop a playtest in its tracks, so it is important for us to have a complete set of rules early in the process.)
 -   Once the game is fun and the design is complete, gradually shift from testing for fun to testing for game balance. Make sure that all the numeric values and player abilities are where you want them to be.
 -   When the game is working and balanced, towards the end, you’ll want to think more about the usability of the game. When you change usability you are not changing any mechanics, merely the way those mechanics are presented visually to the players. This is an important step that is often neglected. If you’ve ever encountered a game that you could only learn by being taught by another player (as opposed to reading the rules yourself), that is the kind of usability failure you want to avoid in your own projects. You may also do additional focus testing at this time, to make sure that the theme and visual elements of the game appeal to the target audience.
 
@@ -93,23 +93,23 @@ Is it fun, at least for you? While you are not the ideal playtester to judge eff
 
 _Are there any holes in the rules?_
 
-A “hole” is a situation where the rules simply do not say how to proceed. For example, perhaps one of your rules is that a player’s army can attack another player’s army, but you don’t yet have rules for resolving the attack. What happens in this case? In practice, what happens is that the players sit around and wait while the designer figures out what to do!
+A "hole" is a situation where the rules simply do not say how to proceed. For example, perhaps one of your rules is that a player’s army can attack another player’s army, but you don’t yet have rules for resolving the attack. What happens in this case? In practice, what happens is that the players sit around and wait while the designer figures out what to do!
 
 As an example, consider these rules for Tic-Tac-Toe played on a 4×4 grid:
 
 -   Players: 2
 -   Objective: Get a straight line of symbols.
 -   Setup: Draw a 4×4 square grid.
--   Progression of play: On your turn, place your symbol (“X” or “O”) on an empty square.
+-   Progression of play: On your turn, place your symbol ("X" or "O") on an empty square.
 -   Resolution: If either player on their turn has a set of four of their symbol in a straight line (across, down, or diagonally), they win.
 
 If you try to play this game just following the rules, you’ll quickly realize that you can’t even start – nowhere does it say which player is X or O, or who takes the first turn! To fix this, you would add a situation to handle this. For example:
 
-Setup: Draw a 4×4 square grid. Choose a player to go first, who is assigned the symbol “X”. The other player is given the symbol “O”.
+Setup: Draw a 4×4 square grid. Choose a player to go first, who is assigned the symbol "X". The other player is given the symbol "O".
 
 _Are there any dead ends?_
 
-A “dead end” is a game state where there is no way to proceed further, but the game is not resolved. Consider our revised _4×4 Tic-Tac-Toe_ rules above. Suppose that both players fill up all squares on the board without anyone winning. At this point the game cannot proceed, because the rules say a player must place their symbol on an empty square. There is no empty square, so the player cannot take a turn. But there is also no resolution, because neither player has won. In this case, a new rule would have to be added (such as: in the resolution, if neither player can make a legal move and no one has won, then the game ends in a tie).
+A "dead end" is a game state where there is no way to proceed further, but the game is not resolved. Consider our revised _4×4 Tic-Tac-Toe_ rules above. Suppose that both players fill up all squares on the board without anyone winning. At this point the game cannot proceed, because the rules say a player must place their symbol on an empty square. There is no empty square, so the player cannot take a turn. But there is also no resolution, because neither player has won. In this case, a new rule would have to be added (such as: in the resolution, if neither player can make a legal move and no one has won, then the game ends in a tie).
 
 _Are any of the rules unclear?_
 
@@ -139,7 +139,7 @@ The simplest answer here is, for the purposes of this project, to not use mechan
 
 *Let It Grow*
 
-Experienced designers often talk of a game “making itself” – as if the game has a life of its own, and the designer is merely guiding it rather than creating it. On the surface, this seems strange because really, the game is just sitting there and doing nothing unless the designer is playing it or changing it. What’s going on here?
+Experienced designers often talk of a game "making itself" – as if the game has a life of its own, and the designer is merely guiding it rather than creating it. On the surface, this seems strange because really, the game is just sitting there and doing nothing unless the designer is playing it or changing it. What’s going on here?
 
 I think that what is _really_ happening is that the creation of a game is a learning process. You may have some idea of where you want your game to end up, but the final version may be very different from what you originally envisioned. The reason why it changes is that at the beginning, you don’t know very much about your game. You have some basic ideas, but you don’t actually know how the mechanics will interact, or what the actual dynamics and aesthetics will be. As you playtest, you learn more about how your game’s systems are working. As you learn, you become more able to predict the effects that changes will have on the system.
 

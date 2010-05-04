@@ -2,7 +2,7 @@
 
 _Originally posted August 20, 2009_
 
-When veteran gamers or game designers are playing a game, if they are doing too well or too poorly, they will often comment on the game’s *balance*. This word is important, but I fear it is often overused. Like the word “fun,” there are different kinds of balance, and understanding what game balance is and why it’s important is what we cover today.
+When veteran gamers or game designers are playing a game, if they are doing too well or too poorly, they will often comment on the game’s *balance*. This word is important, but I fear it is often overused. Like the word "fun," there are different kinds of balance, and understanding what game balance is and why it’s important is what we cover today.
 
 Why are we only covering this now and not earlier (like, say, at the _start_ of the Design Project)? As mentioned earlier, balancing the game is something that is best left until _after_ you have a good set of core mechanics. Balancing a game that is simply not meeting its design goals is a waste of time, and when you change the core mechanics you’ll just have to balance the game again. So here we are, with a work-in-progress that has survived multiple rounds of playtesting, and it is time to take it to the next level.
 
@@ -20,24 +20,24 @@ No additional readings for today. There is plenty of material here in this blog 
 
 *What is Game Balance?*
 
-In a two-player game, saying it is “balanced” usually means that one player does not have an unfair advantage over the other. But we also hear the term used in relation to single-player games, where there is no opponent other than the game itself, and any “unfair advantage” the game may have could just be considered a challenge. And then we may talk of individual cards in a game like _Magic: the Gathering_ as being “balanced” even when all players have access to that card, so it does not give an advantage to any individual. What’s going on here?
+In a two-player game, saying it is "balanced" usually means that one player does not have an unfair advantage over the other. But we also hear the term used in relation to single-player games, where there is no opponent other than the game itself, and any "unfair advantage" the game may have could just be considered a challenge. And then we may talk of individual cards in a game like _Magic: the Gathering_ as being "balanced" even when all players have access to that card, so it does not give an advantage to any individual. What’s going on here?
 
-In my experience, when we talk of “game balance” we are generally talking about one of four things. Context usually makes it clear which one we are talking about:
+In my experience, when we talk of "game balance" we are generally talking about one of four things. Context usually makes it clear which one we are talking about:
 
-1.  In single-player games, we use “balance” to describe whether the challenge level is appropriate to the audience;
-2.  In multi-player games where there is *asymmetry* (that is, where players do not start with exactly equal positions and resources), we use “balance” to describe whether one starting position is easier to win with than another.
-3.  Within a game, if there are multiple strategies or paths to victory that can be followed within the game, we use “balance” to describe whether following one strategy is better or worse than following another.
-4.  Within a system that has several similar game objects (such as cards in a trading-card game, weapons in a role-playing game, and so on), we use “balance” to describe the objects themselves, specifically whether different objects have the same cost/benefit ratio.
+1.  In single-player games, we use "balance" to describe whether the challenge level is appropriate to the audience;
+2.  In multi-player games where there is *asymmetry* (that is, where players do not start with exactly equal positions and resources), we use "balance" to describe whether one starting position is easier to win with than another.
+3.  Within a game, if there are multiple strategies or paths to victory that can be followed within the game, we use "balance" to describe whether following one strategy is better or worse than following another.
+4.  Within a system that has several similar game objects (such as cards in a trading-card game, weapons in a role-playing game, and so on), we use "balance" to describe the objects themselves, specifically whether different objects have the same cost/benefit ratio.
 
 Let us examine each of these more closely, and then we will go over some practical techniques for balancing your game.
 
 *Balance in Single-Player Games*
 
-_In single-player games, we use “balance” to describe whether the challenge level is appropriate to the audience._
+_In single-player games, we use "balance" to describe whether the challenge level is appropriate to the audience._
 
 Note that, by simply playing the game and getting experience with it, your audience will eventually become more skilled at the game. This is one reason why the later levels of video games are usually harder than the earlier levels. (Recall that another reason is so that the gameplay matches the dramatic tension in the narrative.) The change in difficulty over time in a single game has a name: we call it *pacing*.
 
-There is one obvious problem here that we face as game designers: how do we know what an “appropriate” challenge level is? Sure, we can say that a logic/puzzle game for adults is probably going to be harder than a similar game for young children, but beyond that… how are we supposed to know what is too easy or too hard? The obvious answer: playtest!
+There is one obvious problem here that we face as game designers: how do we know what an "appropriate" challenge level is? Sure, we can say that a logic/puzzle game for adults is probably going to be harder than a similar game for young children, but beyond that… how are we supposed to know what is too easy or too hard? The obvious answer: playtest!
 
 There is another problem, however: not all players are exactly the same. Even within a narrow target audience, players fall along a bell curve, with a few that will be highly skilled and a few that are the opposite. In your playtests, how do you know where your testers fall on that bell curve? If you are just starting out, the ideal thing to do is to use _lots and lots_ of playtesters. When you have dozens or hundreds of people giving feedback on your game, you can get a pretty good idea of what the overall ranges are. As you gain experience as a game designer, you will get a better feel for your audience, and you will need progressively fewer and fewer playtesters to give you the same good results. (If you’re starting out but you don’t have the time or resources to do lots of playtests, you can sometimes fake it if you have some idea of where your own playtesters fall on the curve. Do they consider themselves above-average or below-average skill level, compared to the other kinds of people you’re making your game for?)
 
@@ -45,7 +45,7 @@ Even if you have a pretty good idea of how to modify the difficulty of your game
 
 *Balance in Asymmetric Games*
 
-_In multi-player games where there is asymmetry (that is, where players do not start with exactly equal positions and resources), we use “balance” to describe whether one starting position is easier to win with than another._
+_In multi-player games where there is asymmetry (that is, where players do not start with exactly equal positions and resources), we use "balance" to describe whether one starting position is easier to win with than another._
 
 Truly symmetric games are rare. We think of classic games like _Chess_ and _Go_ as symmetric, since each player starts with the same set of pieces and plays by the same rules, but there is one asymmetry: one player goes first! If you modify _Chess_ so that both players secretly write a move on a piece of paper and then the moves are performed simultaneously, it becomes fully symmetric (and plays very differently).
 
@@ -59,9 +59,9 @@ Sometimes, players are so different that direct comparisons are impossible. Some
 
 *Balance between Strategies in a Game*
 
-_Within a game, if there are multiple strategies or paths to victory that can be followed within the game, we use “balance” to describe whether following one strategy is better or worse than following another._
+_Within a game, if there are multiple strategies or paths to victory that can be followed within the game, we use "balance" to describe whether following one strategy is better or worse than following another._
 
-One might wonder, why bother with this? If a game allows for multiple strategies but one is more powerful than the others, doesn’t exploiting the best strategy just equate to players trying to win? As long as no individual _player_ has an unfair advantage, isn’t it okay for your game to simply be “whoever finds the most powerful strategy wins”?
+One might wonder, why bother with this? If a game allows for multiple strategies but one is more powerful than the others, doesn’t exploiting the best strategy just equate to players trying to win? As long as no individual _player_ has an unfair advantage, isn’t it okay for your game to simply be "whoever finds the most powerful strategy wins"?
 
 The problem here is that, once a dominant strategy is discovered, astute players will ignore all suboptimal strategies. Everything in the game that is not part of the dominant strategy becomes extraneous noise. There is nothing inherently wrong with a game that has a single winning strategy, but in this case the suboptimal ones should be removed to make the game more streamlined. If you include options for players that are suboptimal, these become false decisions, because really there is only one decision (follow the dominant strategy).
 
@@ -71,7 +71,7 @@ Playtesting alone is not automatic proof that a particular strategy is unbalance
 
 *Balance Between Game Objects*
 
-_Within a system that has several similar game objects (such as cards in a trading-card game, weapons in a role-playing game, and so on), we use “balance” to describe the objects themselves, specifically whether different objects have the same cost/benefit ratio._
+_Within a system that has several similar game objects (such as cards in a trading-card game, weapons in a role-playing game, and so on), we use "balance" to describe the objects themselves, specifically whether different objects have the same cost/benefit ratio._
 
 This kind of balance is specific to games that give players a choice between different game objects. Some examples:
 
@@ -87,7 +87,7 @@ Two objects are balanced if they have the same *cost/benefit ratio*. That is, wh
 
 *Three Ways to Balance Game Objects: Transitive, Intransitive, and Fruity*
 
-I have encountered three general methods for balancing game objects. The first is technically referred to as a *transitive relationship*. In more colloquial (but still geeky) circles, it is called a *cost curve*. This is the most direct way to balance objects. The general idea is to find some desired proportion of costs to benefits. This may be a linear proportion (something twice as costly is exactly twice as powerful) or it may be curved in some way (perhaps there is a law of diminishing returns, where you have to pay progressively more for each additional bit of benefit; or perhaps there are increasing returns, where you essentially get a “bulk discount” for paying a lot at once). It all depends on your particular game, but playtesting, experimentation and instinct will help you to figure out what kind of relationship there should be.
+I have encountered three general methods for balancing game objects. The first is technically referred to as a *transitive relationship*. In more colloquial (but still geeky) circles, it is called a *cost curve*. This is the most direct way to balance objects. The general idea is to find some desired proportion of costs to benefits. This may be a linear proportion (something twice as costly is exactly twice as powerful) or it may be curved in some way (perhaps there is a law of diminishing returns, where you have to pay progressively more for each additional bit of benefit; or perhaps there are increasing returns, where you essentially get a "bulk discount" for paying a lot at once). It all depends on your particular game, but playtesting, experimentation and instinct will help you to figure out what kind of relationship there should be.
 
 The next step is to reduce every cost and every benefit to a single number that can be compared. Take all the costs of an object and add them together; also sum the benefits. Compare the two, and see if the object is giving the correct numerical benefit for the cost.
 
@@ -101,20 +101,20 @@ Note that transitive and intransitive relationships can be combined, as in the p
 
 Intransitive relationships can actually be solved, using matrices and some basic linear algebra. For example, the solution to rock-paper-scissors is that you expect the proportion of each throw to be equal to the others: there should be a 1:1:1 ratio. Now, suppose you modify the game slightly, so that each win with Rock scores 3 points, a win with Paper scores 2 points, and a win with Scissors scores 1 point. What is the expected ratio now? (It turns out the ratio is not what you’d expect; with optimal play on both sides, you would see 1 Rock for every 3 Paper and every 2 Scissors. The math required to do this is outside the scope of this course.) If you are looking for players to use objects in a certain proportion (with some being more commonly used than others), a well-balanced intransitive relationship is a good way to guarantee this.
 
-A third method of balancing game objects is to make each one so different and unique from the others, that direct comparisons are impossible. (I call this “fruity” in the sense that the designer, and later the players, can only compare apples to oranges.) Since formal and numerical comparisons between objects cannot work, the only way to balance this is through excessive playtesting.
+A third method of balancing game objects is to make each one so different and unique from the others, that direct comparisons are impossible. (I call this "fruity" in the sense that the designer, and later the players, can only compare apples to oranges.) Since formal and numerical comparisons between objects cannot work, the only way to balance this is through excessive playtesting.
 
 There are challenges associated with all three of these methods. For transitive relationships, everything relies on the designer finding the correct cost curve. If your math is wrong, it will be wrong for every object in the game; if you find one thing that is unbalanced, you’ll probably have to change _everything_. Transitive relationships are much easier to develop in retrospect after playtesting, than developing them ahead of time. Since so much relies on getting the math right, it also tends to take a lot of trial-and-error and therefore a lot of time.
 
 Intransitive relationships, as noted above, take some tricky math to solve. Another drawback is that, unless done very carefully, their presence can make the entire game feel like glorified _Rock-Paper-Scissors_, which some players find to be a turnoff – many have the perception that intransitive relationships are nothing but guessing games, where every decision is based not on strategy but on luck and randomness. (A full discussion of whether this is or is not the case is also outside the scope of this course.)
 
-“Fruity” relationships are really hard to balance, because one of the most important tools in doing so – mathematics – is no longer available.
+"Fruity" relationships are really hard to balance, because one of the most important tools in doing so – mathematics – is no longer available.
 
 *Three General Game Balance Techniques*
 
 In general, there are three ways to balance games:
 
 -   Use math. Create transitive or intransitive relationships in your game, and make sure that everything is in line with the cost.
--   Use your instincts as a game designer. Change the balance in the game until it “feels right” to you.
+-   Use your instincts as a game designer. Change the balance in the game until it "feels right" to you.
 -   Use playtesting. Adjust the game based on the results of playtests, where the players are experienced gamers who have been instructed to play to exploit and win.
 
 There are challenges with each of these ways:
@@ -141,10 +141,10 @@ Here are a few other random bits of advice I’ve picked up, in no particular or
 -   Excel makes it easy to keep lists of things and organize them. List all of your game objects and their stats. In a role-playing game, list all weapons, items and monsters; in a tabletop war game, list all units and their stats. Anything that you’d find in a reference chart in the instructions (or a strategy guide) probably started off its life in a designer’s Excel sheet.
 -   Excel is great for keeping track of tasks and status, which is useful for a complicated game with lots of systems and components. If you’ve got a table with a couple hundred monsters and all their stats, it might also have an entry for whether the art for that monster is done, or whether the stats for that monster have been balanced or playtested yet.
 -   Spreadsheets are good for collecting and manipulating statistics in your game. In a sports game where each player has a list of stats, are all of the teams balanced with one another? Sum or average all of the stats on the team, and you can get some idea of the overall strengths and weaknesses of each team. In a game with transitive relationships, is each game object balanced? Add up the costs and benefits in a spreadsheet.
--   You can use spreadsheets to run statistical simulations. By generating random numbers (in Excel you can use the _RAND()_ function and press F9 to reroll), you can generate random die-rolls for things like damage within a range, many times, to see the overall range and distribution of outcomes. (Statisticians call this a “Monte Carlo” simulation, in case you were wondering.)
+-   You can use spreadsheets to run statistical simulations. By generating random numbers (in Excel you can use the _RAND()_ function and press F9 to reroll), you can generate random die-rolls for things like damage within a range, many times, to see the overall range and distribution of outcomes. (Statisticians call this a "Monte Carlo" simulation, in case you were wondering.)
 -   Spreadsheets help you to see causes and effects of changes in the game. By creating formulas based on specific values that you want to change, you can change one value and see what happens to the _other_ values that depend on that one. For example, if you’re working on a Massively-Multiplayer Online RPG, you could use Excel to compute the damage-per-second of a weapon and then instantly see how that changes when you modify the base damage, accuracy, or attack speed.
 
-*Use the Rule of 2.* Suppose you have some number in your game that you know is too high, but you don’t know how much. Maybe it’s _just a little bit_ too high, or maybe it’s quite a bit off. In either case, cut it in half. Likewise, if you have a value that you know is too low, regardless of _how much_ too low it is, double it. If you aren’t 100% sure of what the correct value is, double it or cut it in half. This is the “Rule of 2.”
+*Use the Rule of 2.* Suppose you have some number in your game that you know is too high, but you don’t know how much. Maybe it’s _just a little bit_ too high, or maybe it’s quite a bit off. In either case, cut it in half. Likewise, if you have a value that you know is too low, regardless of _how much_ too low it is, double it. If you aren’t 100% sure of what the correct value is, double it or cut it in half. This is the "Rule of 2."
 
 At face value, this sounds rather ridiculous. If the cost of a gemstone is only 10 to 20 percent too low, what could be gained by taking the drastic measure of _doubling_ it? In practice, there are some reasons why this works. First, you might _think_ that it’s only slightly off, and you might be wrong; if you only make minor adjustments and the value really did need to be doubled, it will take you much iteration to get to where you needed to be in the first place.
 
@@ -154,16 +154,16 @@ Occasionally, you will also find that by making such a large change to your game
 
 *Balancing the first-turn advantage.* In turn-based games in particular, it is common for there to be a very slight advantage (or disadvantage) to going first. This is not always the case, but when it is, there are a few common techniques for compensating:
 
--   Rotate who the first player is. In a four-player game, for example, after each complete round (where every player has a turn), rotate the starting player to the left for the next round. In this way, the player who goes first on this round will go _last_ on the next round. (When I was growing up, my game group used a pencil to mark the first player, so we dubbed this the “Pencil of Power” technique.)
+-   Rotate who the first player is. In a four-player game, for example, after each complete round (where every player has a turn), rotate the starting player to the left for the next round. In this way, the player who goes first on this round will go _last_ on the next round. (When I was growing up, my game group used a pencil to mark the first player, so we dubbed this the "Pencil of Power" technique.)
 -   Give the disadvantaged players some extra resources. For example, if the objective of the game is to score the most points by the end of the game, give each player a different number of points to start the game, with the last player having slightly more points to compensate for the disadvantage of going last.
 -   Reduce the effectiveness of early turns for the first players. In a card game, maybe players typically draw four cards at the start of their turn. You could modify this so that the first player only gets to draw one card, the next player draws two, and so on until all players are drawing four.
 -   For very short games, play a series of games where each player gets to go first once. This is common with card games, where a complete game is played in a series of hands.
 
-*Write down your own rules as you learn them.* As you design games, you will have successes and mistakes. You will learn from both (especially your mistakes). When you find a “law” of game design or a new game balance technique, record it and review your notes periodically. Tragically, very few designers actually do this; as a result, they cannot pass on their experience to other designers, and they sometimes end up making the same mistakes on multiple games because they forget the lessons learned from earlier ones.
+*Write down your own rules as you learn them.* As you design games, you will have successes and mistakes. You will learn from both (especially your mistakes). When you find a "law" of game design or a new game balance technique, record it and review your notes periodically. Tragically, very few designers actually do this; as a result, they cannot pass on their experience to other designers, and they sometimes end up making the same mistakes on multiple games because they forget the lessons learned from earlier ones.
 
 *The Role of Balance*
 
-In my early days as a designer, I was very passionate about game balance. “A fun game is a balanced game, and a balanced game is a fun game” was my mantra. I’m sure I annoyed many of my seniors with my rantings on the imbalances in our games and why we needed to fix them immediately. Such is the privilege of youth.
+In my early days as a designer, I was very passionate about game balance. "A fun game is a balanced game, and a balanced game is a fun game" was my mantra. I’m sure I annoyed many of my seniors with my rantings on the imbalances in our games and why we needed to fix them immediately. Such is the privilege of youth.
 
 While I still believe balance is important and a key skill for any game designer, I now take a more moderate line. I have seen some games that are fun in spite of being unbalanced. I’ve seen other games that are fun _specifically because_ they are _intentionally_ unbalanced. I have seen some games that have done astoundingly well in the marketplace, despite having egregious imbalances. These are rare and special cases, to be sure. But let this serve as a reminder to you that the techniques and concepts discussed today should never take priority over the ultimate design goals for your game. Let these techniques be your tools, not your master.
 

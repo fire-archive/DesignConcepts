@@ -2,7 +2,7 @@
 
 _Originally posted August 24, 2009_
 
-If you have made it to this point, your game is hopefully coming along nicely and you are approaching the final stages of design. You may still have temptations to mess around with the mechanics, especially given the short time period allotted for the Design Project, but at this point I want you to settle on something that is at least “good enough” so that you can experience the later stages of design.
+If you have made it to this point, your game is hopefully coming along nicely and you are approaching the final stages of design. You may still have temptations to mess around with the mechanics, especially given the short time period allotted for the Design Project, but at this point I want you to settle on something that is at least "good enough" so that you can experience the later stages of design.
 
 Once your mechanics are complete and the game is playable, balanced, and meets your design goals, the last thing to do is figure out how to construct the final version. This is not simply a matter of drawing up some art for your cards and board and sending it off to the printer. There are some considerations to be made concerning the user interface of your game, and those considerations are what we will talk about today.
 
@@ -28,11 +28,11 @@ What makes one UI better than another? We generally talk of two things:
 -   Ease-of-use. If you already know what you want to do, how fast and easy is it to perform your desired task correctly?
 -   Ease-of-learning. If you are new to the game, how easy is it to figure out what you are allowed to do and what information is available to you?
 
-In practice, there is often a tradeoff between these two. For example, on computers, the presence of special “hotkeys” (Shift/Alt/Ctrl/Cmd key combinations and the like) saves time by making it fast and easy to perform common tasks like saving a file or switching between applications. But if these are the _only_ way to perform that task (as is the case with some older word processors that lacked menus), it makes the applications difficult to learn for the first time.
+In practice, there is often a tradeoff between these two. For example, on computers, the presence of special "hotkeys" (Shift/Alt/Ctrl/Cmd key combinations and the like) saves time by making it fast and easy to perform common tasks like saving a file or switching between applications. But if these are the _only_ way to perform that task (as is the case with some older word processors that lacked menus), it makes the applications difficult to learn for the first time.
 
 In board games, you often see this tradeoff with how information is presented. Charts, tables, keywords, special symbols and icons – all of these make it much easier for an experienced player to get a quick summary of the game state, but they can be confusing and intimidating to the novice player who does not know what these things mean. The alternative, writing everything out in longhand, makes it much easier for a new player to see immediately what everything does… but it also makes the game take longer for players who already know the rules and do not need them repeated in full on every card.
 
-Sometimes you can include both. Modern software applications include hotkeys _and_ menu items, and some even have a “beginner” mode that hides advanced functionality to keep the menus simple, making the software much easier to learn. Card games like _Magic: the Gathering_ include keywords, but then explain those keywords in parentheses for players who do not know what the keyword means.
+Sometimes you can include both. Modern software applications include hotkeys _and_ menu items, and some even have a "beginner" mode that hides advanced functionality to keep the menus simple, making the software much easier to learn. Card games like _Magic: the Gathering_ include keywords, but then explain those keywords in parentheses for players who do not know what the keyword means.
 
 !http://gamedesignconcepts.files.wordpress.com/2009/08/magiccards.jpg?w=450&h=210 "MagicCards"[Magic Cards]
 
@@ -40,11 +40,11 @@ Look at all the mechanics in your game, and what players must do in order to fol
 
 *The Two Models of Usability*
 
-In usability for computer applications, there are two related concepts: the *user model* and the *program model*. The user model is how the user (i.e. the player) thinks that things should work. The program model is how the software _actually_ works. (In non-digital games, you can think of the “program model” as the actual rules of the game as intended by the designer, and the user model is what the players _think_ the rules are.)
+In usability for computer applications, there are two related concepts: the *user model* and the *program model*. The user model is how the user (i.e. the player) thinks that things should work. The program model is how the software _actually_ works. (In non-digital games, you can think of the "program model" as the actual rules of the game as intended by the designer, and the user model is what the players _think_ the rules are.)
 
-Here’s the thing. *The program model is always right.* If the user model and program model match one another, there is no problem. If the two are different, the player is going to do something, they’ll expect one thing to happen, but another thing happens instead. With computer games, this leads to frustration, and reviewers will say the game has “poor play control” (often without fully understanding why).
+Here’s the thing. *The program model is always right.* If the user model and program model match one another, there is no problem. If the two are different, the player is going to do something, they’ll expect one thing to happen, but another thing happens instead. With computer games, this leads to frustration, and reviewers will say the game has "poor play control" (often without fully understanding why).
 
-In board games, if the player model and the “program” model are different, the players will just play the game incorrectly. Sometimes, this means the players will have a suboptimal experience, because some aspects of the game will feel unbalanced. Other times, the players will have a perfectly good time, but when they later play the game with _other_ players who are playing the game the “right” way there will be rules arguments.
+In board games, if the player model and the "program" model are different, the players will just play the game incorrectly. Sometimes, this means the players will have a suboptimal experience, because some aspects of the game will feel unbalanced. Other times, the players will have a perfectly good time, but when they later play the game with _other_ players who are playing the game the "right" way there will be rules arguments.
 
 *Changing the User Model*
 
@@ -52,7 +52,7 @@ It is common to see a user/program model mismatch during playtesting. Here is wh
 
 A more serious case is an ease-of-use problem with the UI of your game. It looks like this: one or more players accidentally do something wrong in the rules. You point it out to them, and they correct their behavior. But then they forget, and they _do it wrong again_ on the next turn. And the next. And the next. And your players apologize to you for continuing to get it wrong, and they feel like idiots.
 
-In cases like this, it would be ideal to change the user model. That is, you’d like to change your players’ expectations or actions in order to match the “correct” model of the game itself. Unfortunately, in practice, this is effectively impossible to do. People are creatures of habit. We build up elaborate mental models of the world around us, and we rely on those models greatly. Changing a model is a slow process that requires great effort on the part of a person, and most people are not going to put that kind of effort into your game.
+In cases like this, it would be ideal to change the user model. That is, you’d like to change your players’ expectations or actions in order to match the "correct" model of the game itself. Unfortunately, in practice, this is effectively impossible to do. People are creatures of habit. We build up elaborate mental models of the world around us, and we rely on those models greatly. Changing a model is a slow process that requires great effort on the part of a person, and most people are not going to put that kind of effort into your game.
 
 To illustrate this in my classroom courses, I tell the story of the design of a fighter jet. Once upon a time, the military was noticing that one particular type of aircraft had a much higher-than-average number of accidental pilot ejections (that is, the pilot’s ejection seat was activated when the pilot did not intend for that to happen). Given the cost of military aircraft, it gets very expensive when something like this happens, so they had a lot of engineers study the problem to figure out why the seat was ejecting, but no mechanical or electrical problems could be identified. Eventually, someone got the bright idea to look at the aircraft that the accidentally-ejected pilots had trained on. It turned out that in all cases, they had trained on an aircraft where the positions of the throttle and the ejection seat controls were reversed! So, when the pilots got in this new aircraft, they had already formed a mental model of where all the controls were, and no amount of training on the new aircraft could change it.
 
@@ -119,7 +119,7 @@ In no particular order:
 
 -   Likewise, if you use icons in the game to represent certain abilities, choose icons that look like the concept they’re representing (if you can).
 -   Be consistent with similar games. In an RPG, red hearts probably mean life or hit points, while blue drops probably represent mana or magic power. Why? Because that’s how everyone else does it, and your players will assume by default that you do it that way too.
--   *Don’t* just say “well, this is confusing, so we’ll explain it in the manual.” Remember, your players may not have the manual and they may not read it. Try to make your UI intuitive enough that your game doesn’t even _need_ a manual.
+-   *Don’t* just say "well, this is confusing, so we’ll explain it in the manual." Remember, your players may not have the manual and they may not read it. Try to make your UI intuitive enough that your game doesn’t even _need_ a manual.
 
 *Lessons Learned*
 
@@ -140,8 +140,8 @@ Your other task, also before this Thursday, is to critically analyze your game *
 Come up with a *user interface plan* for the final version of your game. This plan should involve the following:
 
 -   A complete list of all game components that will be included in the final game.
--   For each component, a detailed description of what you are planning to use. If you have, say, “one pawn to represent each player”, how many pawns are included? What colors will they be? What shapes? Will they be made of metal, plastic, wood, or something else?
--   If there are cards, describe a sample card. What information will be displayed on each card? Will the card be oriented as “portrait” or “landscape”? How will the information be laid out – where on the card will each item go? How will it be displayed – what colors, shapes, and keywords do you plan to use (if any)? If there are several _kinds_ of cards, do this for each.
+-   For each component, a detailed description of what you are planning to use. If you have, say, "one pawn to represent each player", how many pawns are included? What colors will they be? What shapes? Will they be made of metal, plastic, wood, or something else?
+-   If there are cards, describe a sample card. What information will be displayed on each card? Will the card be oriented as "portrait" or "landscape"? How will the information be laid out – where on the card will each item go? How will it be displayed – what colors, shapes, and keywords do you plan to use (if any)? If there are several _kinds_ of cards, do this for each.
 -   If there is a board, describe the layout of the board. As with cards, consider what information will be displayed on the board, how it is laid out, and how it is displayed.
 -   If there are other components, give similar information to that listed here.
 
