@@ -80,6 +80,7 @@ Go there and fill out the survey. I’m asking you to do this as a personal favo
 
 === Final Words
 
+[quote, Ian Schreiber]
+____
 I would like to thank you for your interest, your participation, and your time. I wish you well, in games and in life. Keep playing, keep designing, and keep learning.
-
-- Ian Schreiber
+____
