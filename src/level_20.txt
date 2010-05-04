@@ -2,9 +2,6 @@
 
 _Originally posted September 3, 2009_
 
-== Level 20: Course Summary and Next Steps
-
-By ai864
 Here we are, at the end of the course. I appreciate the time that you have put in, if you have read this far and stayed with me from beginning to end. I hope that you got out of this course something of more value than what you put in.
 
 We’ve covered a lot of topics in this course. We started by building the beginnings of a critical vocabulary to allow us to talk about games and game design. We looked at the process of designing games, particularly the advantages of rapid prototyping and iteration. We broke down the concept of “game” into its formal elements, and learned to analyze each element individually. We talked about common concepts that come up in game design: the MDA framework, feedback loops, emergence and intentionality, flow theory, kinds of decisions, kinds of fun and player types. We looked at narrative and the various roles it can play in a nonlinear game experience. We looked at games not only as entertainment, but also as an art form and an educational medium.
