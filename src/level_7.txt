@@ -27,8 +27,6 @@ Here are a small selection of the answers to the mini-challenge from last time (
 -   A first-person shooter where players are only shown a single line showing the player’s line-of-sight, showing the view of a 2D hero in a Flatland world.
 -   A sorcery-themed game where the effects of spells are designed during play.
 
-* *
-
 *Readings*
 
 Read the following:
@@ -36,8 +34,6 @@ Read the following:
 -   _Challenges for Game Designers_, Chapters 5 and 6 (Chance / Strategic Skill)
 -   _A Theory of Fun for Game Design_, Chapters 1, 2 and 3 (Why Write This Book / How the Brain Works / What Games Are)… if you chose to acquire this book. In an earlier comment, someone suggested only reading the cartoons on each page first, then going back and reading the text afterward.
 -   http://lostgarden.com/Mixing_Games_and_Applications.pdf[Building a Princess Saving App] (PDF), by Dan Cook. This article is actually written for an audience of interaction designers to explain what productivity applications can learn from games. In the process, though, it also happens to touch on some core concepts of game design and the nature of “fun” which is exactly what we’re talking about today.
-
-* *
 
 *Decisions*
 

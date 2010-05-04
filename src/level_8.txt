@@ -6,13 +6,9 @@ On Monday, we discovered that “fun” is really just another word for “learn
 
 We currently have an idea of _what_ is fun, but it would help to know _why_ these things are fun. What if there are new kinds of fun waiting to be discovered?
 
-* *
-
 *Course Announcements*
 
 I will be at http://www.protospiel.org/[Protospiel] this weekend, so I may be a bit slow in responding to email or validating forum accounts. Likewise, next Monday’s lesson may be slightly delayed in posting, depending on what shape I’m in when I return.
-
- 
 
 *Mini-Challenge Results*
 
@@ -25,8 +21,6 @@ Here are a small selection of the answers to the mini-challenge from last time (
 -   You can get more than one wedge of the same color. You may trade with opponents at any time.
 -   You read your own question. After looking at the answer, if you are incorrect, you can bluff and claim you were correct anyway. If no one else challenges you, then proceed as if you had answered correctly. If you are challenged… well, the original tweet didn’t specify, but presumably the winner of the challenge gains something and the loser loses something. I’d recommend, loser of a challenge loses their next turn, and if the challenger was correct it immediately becomes their turn (possibly skipping other players in the process).
 
-* *
-
 *Readings*
 
 Read the following:
@@ -34,8 +28,6 @@ Read the following:
 -   http://www.gamasutra.com/features/20041110/falstein_01.shtml[_Natural Funativity_], by Noah Falstein. We’ve talked a lot about what is fun, and from the MDA Framework we know there are different kinds of fun. But why are these things fun in the first place, and not other things? Noah provides a useful theory.
 -   http://www.mud.co.uk/richard/hcds.htm[_Clubs, Diamonds, Hearts, Spades: Players Who Suit MUDs_], by Richard Bartle. If you’re too young to know what a MUD is, it is basically a precursor to today’s MMO. Replace the word “MUD” with “World of Warcraft” and it will still make perfect sense.
 -   You may also find it useful to review the http://www.cs.northwestern.edu/~hunicke/MDA.pdf[_MDA Framework_], specifically the part that talks about the 8 kinds of fun.
-
-* *
 
 *Kinds of Fun*
 
@@ -128,8 +120,6 @@ So, that premise that I started with last Monday – “a game designer’s job 
 
 Fun just happens to be a convenient and easy way to do this. But never forget that it is not the _only_ way.
 
-* *
-
 *Another Problem*
 
 Koster points out in _A Theory of Fun_ that players are, at their core, lazy. They tend to seek games similar to those that they’re already good at, so they are not learning something that is new, which reduces the amount of learning-pleasure they can receive. They tend to look for loopholes, exploits, and cheats, which likewise circumvent the pleasurable learning process. Players make the game less fun – but they do it anyway.
@@ -137,8 +127,6 @@ Koster points out in _A Theory of Fun_ that players are, at their core, lazy. Th
 In fairness, game designers do this too. We probably do this even moreso than most players, since we are so experienced at finding patterns in games and we see the forms so quickly. This leads to lots of derivative work. Personally, the first game I ever worked on was a collectible card game, and even now I instinctively want to add cards, custom decks, cost/benefit decisions, and the concept of rarity to every game I make. Another designer I know sees everything in terms of RPGs. Another one of my colleagues tries to turn everything into a Sim game. Most of us, I think, tend to think in terms of one genre even if we’re working in another. In my experience, it’s usually the genre of the first game we work on professionally.
 
 Is there something about us that makes us like one kind of game over another? If it is as simple as “personal taste” then why do we see so much overlap among gamers?
-
- 
 
 *Player Types*
 

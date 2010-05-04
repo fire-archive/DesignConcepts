@@ -10,8 +10,6 @@ Today I’d like to cover the general concept of playtesting. As we will see, th
 
 There are no readings for today, other than this blog post. Take the time that you would have spend reading, and use it to work on your Design Project.
 
-* *
-
 *Different Kinds of Playtesting*
 
 The word “playtesting,” like the word “game,” is overused and can mean different things to different people. In general, the term covers any activity where you are playing a game in progress for the purpose of improving it. But different playtests may have different goals, and it is important to know what your goals are before you do anything.

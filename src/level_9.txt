@@ -16,15 +16,11 @@ What makes for good stories? Game designers often reference three works in parti
 
 Today we will look at these works and their effect on game design. We will build up a set of guidelines for how to tell a good story within a game. And then, at the end, we will tear it all down again.
 
-* *
-
 *Course Announcements*
 
 As I’ve been out of town and offline since early Friday morning, I have not had time to validate new user accounts for the forums, read email, moderate comments on this blog, etc.
 
 I will catch up on these things later today, or tomorrow morning at the latest, after I have fully recovered from a nearly-sleepless (in a good way) weekend. I’ll say this: playtesting your games with skilled game designers is very different from playtesting with typical gamers.
-
- 
 
 *Mini-Challenge Results*
 
@@ -33,8 +29,6 @@ Here are some new kinds of fun that were proposed from last time:
 -   “Servant”: opposite of a griefer, someone who gets pleasure out of making sure other people have a _good_ time. (I would actually call this something else, like “Party Host”… and yes, it makes sense that this would be valuable to a hunter-gatherer. You are showing value to your tribe. I understand that Disney has identified this as a customer archetype, usually associated with the mom in the family.)
 -   “Maker”: someone who gets joy out of constructing and building things. (The example given was user-generated content for video games, but you sometimes see this in standalone board games as well, like _Settlers of Catan_. Certainly, building and construction are useful to survival, even if all you’re making is a tool or a crude hut.)
 
-* *
-
 *Readings*
 
 Read the following:
@@ -42,8 +36,6 @@ Read the following:
 -   http://www.gamasutra.com/features/20050617/bates_01.shtml[_Into the Woods: a Practical Guide to the Hero’s Journey_] by Bob Bates. This article summarizes Joseph Campbell’s work, as it is relevant to game design.
 -   http://www.gamasutra.com/features/20050727/sutherland_01.shtml[_What Every Game Developer Needs to Know about Story_], by John Sutherland. This article summarizes the book _Story_ by Robert McKee (which itself is essentially a practical guide to Aristotle’s _Poetics_), rounding out the Holy Trinity of storytelling for game designers.
 -   _Understanding Comics_, Chapters 2 and 3, if you have a copy of that book. As you read, pay particular attention to how any of this might apply to games. Scott McCloud isn’t going to come out and say it, so you will have to connect the dots yourself.
-
- 
 
 *Aristotle*
 
@@ -218,8 +210,6 @@ Remember that there is a difference between the embedded narrative that the stor
 If you have time, before beginning the Homeplay below, please take the time to offer *constructive feedback* to at least two other posts at your skill level from the Griefing challenge from Level 8 (posted on the http://gamedesignconcepts.aceboard.com/[forum]), and also at least three other posts at a skill level below yours (unless you posted in Green Circle).
 
 Try to complete your feedback on or before Thursday, July 30, noon GMT.
-
- 
 
 *Homeplay*
 

@@ -18,15 +18,11 @@ No major announcements today, but for your curiosity I did compile a list of twe
 
 We will revisit some of these when we talk about the kinds of decisions that are made in a game, next Monday.
 
-* *
-
 *Readings*
 
 This week I’m trying something new and putting one of the readings up front, because I want you to look at this first, before reading the rest of this post.
 
 -   http://www.cs.northwestern.edu/~hunicke/MDA.pdf[_MDA Framework_] by LeBlanc, Hunicke and Zabek. This is one of the few academic papers that achieved wide exposure within the game industry (it probably helps that the authors are experienced game designers). There are two parts of this paper that made it really influential. The first is the Mechanics/Dynamics/Aesthetics (MDA) conceptualization, which offers a way to think about the relationship of rules to player experience, and also the relationship between player and designer. The second part to pay attention to is the “8 kinds of fun” which we will return to a bit later in the course (Thursday of next week).
-
-* *
 
 *Now, About That MDA Framework Thing…*
 
@@ -69,8 +65,6 @@ How do you know _what_ change to make, if the effects of mechanics changes are s
 *“If the computer or the game designer is having more fun than the player, you have made a terrible mistake.”*
 
 This seems as good a time as any to quote game designer Sid Meier. His warning is clearly directed at video game designers, but applies just as easily to non-digital projects. It is a reminder that we design the Mechanics of the game, and designing the Mechanics is fun for us. But it is _not_ the Mechanics that are fun for our _players_. A common design mistake is to create rules that are fun to create, but that do not necessarily translate into fun gameplay. Always remember that you are creating games for the players and not yourself.
-
-* *
 
 *Mechanics, Dynamics and Complexity*
 

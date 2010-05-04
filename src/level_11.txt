@@ -15,15 +15,11 @@ So, let’s make a _good_ game. You have all the knowledge and theory you need.
 
 We will spend the next month making a game. If you’re a student, that may sound like an incredibly long time to you, and you will be surprised at how fast it flies by. If you’re a little more experienced, it may sound like an unreasonably _short_ time, but I promise you will manage. Do not fear; we will take things one step at a time, through the entire process. You will not have to complete everything all at once. (Nor should you. That is not how games are made.)
 
- 
-
 *Readings*
 
 Read the following:
 
 -   _Challenges for Game Designers_, Chapter 11 (Targeting a Market). We have discussed the importance designing for the player (as opposed to the designer) earlier in this course. This chapter goes into more detail, giving some considerations when designing a game for target-demographic or mass-market appeal.
-
-* *
 
 *Design Project: an Overview*
 
