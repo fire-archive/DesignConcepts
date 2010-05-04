@@ -1,0 +1,4 @@
+#!/bin/bash
+
+OUTPUT=`python urlLast.py $1`
+pandoc -s --no-wrap -f html -t markdown $1 | python ConvertMarkdownAsciidoc.py > $OUTPUT.txt
