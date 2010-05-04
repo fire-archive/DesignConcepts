@@ -39,8 +39,8 @@ Here are some new kinds of fun that were proposed from last time:
 
 Read the following:
 
--   _http://www.gamasutra.com/features/20050617/bates_01.shtml[Into the Woods: a Practical Guide to the Hero’s Journey]_ by Bob Bates. This article summarizes Joseph Campbell’s work, as it is relevant to game design.
--   _http://www.gamasutra.com/features/20050727/sutherland_01.shtml[What Every Game Developer Needs to Know about Story]_, by John Sutherland. This article summarizes the book _Story_ by Robert McKee (which itself is essentially a practical guide to Aristotle’s _Poetics_), rounding out the Holy Trinity of storytelling for game designers.
+-   _http://www.gamasutra.com/features/20050617/bates%5f01.shtml[Into the Woods: a Practical Guide to the Hero’s Journey]_ by Bob Bates. This article summarizes Joseph Campbell’s work, as it is relevant to game design.
+-   _http://www.gamasutra.com/features/20050727/sutherland%5f01.shtml[What Every Game Developer Needs to Know about Story]_, by John Sutherland. This article summarizes the book _Story_ by Robert McKee (which itself is essentially a practical guide to Aristotle’s _Poetics_), rounding out the Holy Trinity of storytelling for game designers.
 -   _Understanding Comics_, Chapters 2 and 3, if you have a copy of that book. As you read, pay particular attention to how any of this might apply to games. Scott McCloud isn’t going to come out and say it, so you will have to connect the dots yourself.
 
  

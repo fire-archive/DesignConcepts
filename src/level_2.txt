@@ -126,6 +126,6 @@ Before next Monday, read the following. I will be referencing these in Monday’
 
 -  _Challenges for Game Designers_, Chapter 2 (Atoms). This will act as a bridge between last Monday when we talked about a critical vocabulary, and next Monday when we will start breaking down the concept of a “game” into its component parts.
 
--  _http://www.gamasutra.com/features/19990716/design_tools_01.htm[Formal Abstract Design Tools]_, by Doug Church. This article builds on Costikyan’s _I Have No Words_, offering some additional tools by which we can analyze and design games. While he does use many examples from video games, think about how the core concepts in the article can apply to other kinds of games as well.
+-  _http://www.gamasutra.com/features/19990716/design%5ftools%5f01.htm[Formal Abstract Design Tools]_, by Doug Church. This article builds on Costikyan’s _I Have No Words_, offering some additional tools by which we can analyze and design games. While he does use many examples from video games, think about how the core concepts in the article can apply to other kinds of games as well.
 
 

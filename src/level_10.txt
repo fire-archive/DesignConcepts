@@ -23,7 +23,7 @@ I will be at http://www.siggraph.org/s2009/[SIGGRAPH] all next week. While I wil
 Read the following:
 
 -   _http://www.theinspiracy.com/ArPOV.htm[A Point of View]_, by Noah Falstein. We talk of the point of view of a story as “first person” or “third person” – and we also talk of the point of view of a video game in similar terms (First Person shooter, Third Person stealth, etc.). It is easy to assume that the two are equivalent, but they are not. This article makes the differences clear.
--   _http://onlyagame.typepad.com/only_a_game/2005/08/diversity_in_ga.html[Diversity in Game Narrative]_, by Chris Bateman. This is a brief overview of the different kinds of story structures encountered in games.
+-   _http://onlyagame.typepad.com/only%5fa%5fgame/2005/08/diversity_in_ga.html[Diversity in Game Narrative]_, by Chris Bateman. This is a brief overview of the different kinds of story structures encountered in games.
 -   _Challenges for Game Designers_, Chapter 13 (Designing a Game to Tell a Story). This short chapter covers today’s topic and can also serve as a review of some topics from last time.
 
  

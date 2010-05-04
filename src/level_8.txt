@@ -34,7 +34,7 @@ Here are a small selection of the answers to the mini-challenge from last time (
 
 Read the following:
 
--   _http://www.gamasutra.com/features/20041110/falstein_01.shtml[Natural Funativity]_, by Noah Falstein. We’ve talked a lot about what is fun, and from the MDA Framework we know there are different kinds of fun. But why are these things fun in the first place, and not other things? Noah provides a useful theory.
+-   _http://www.gamasutra.com/features/20041110/falstein%5f01.shtml[Natural Funativity]_, by Noah Falstein. We’ve talked a lot about what is fun, and from the MDA Framework we know there are different kinds of fun. But why are these things fun in the first place, and not other things? Noah provides a useful theory.
 -   _http://www.mud.co.uk/richard/hcds.htm[Clubs, Diamonds, Hearts, Spades: Players Who Suit MUDs]_, by Richard Bartle. If you’re too young to know what a MUD is, it is basically a precursor to today’s MMO. Replace the word “MUD” with “World of Warcraft” and it will still make perfect sense.
 -   You may also find it useful to review the _http://www.cs.northwestern.edu/~hunicke/MDA.pdf[MDA Framework]_, specifically the part that talks about the 8 kinds of fun.
 
