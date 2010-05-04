@@ -60,7 +60,7 @@ Suppose you are designing a new FPS and you notice this frustration aesthetic in
 
 How do you know if your change worked? Playtest, of course!
 
-How do you know _what_ change to make, if the effects of mechanics changes are so unpredictable? We will get into some basic tips and tricks near the end of this course. For now, the most obvious way is designer intuition. The more you practice, the more you design games, the more you make rules changes and then playtest and see the effects of your changes, the better you will get at making the right changes when you notice problems… and occasionally, even creating the right mechanics in the first place. There are few substitutes for experience… which, incidentally, is why so much of this course involves getting you off your butt and making games :)
+How do you know _what_ change to make, if the effects of mechanics changes are so unpredictable? We will get into some basic tips and tricks near the end of this course. For now, the most obvious way is designer intuition. The more you practice, the more you design games, the more you make rules changes and then playtest and see the effects of your changes, the better you will get at making the right changes when you notice problems… and occasionally, even creating the right mechanics in the first place. There are few substitutes for experience… which, incidentally, is why so much of this course involves getting you off your butt and making games :).
 
 *"If the computer or the game designer is having more fun than the player, you have made a terrible mistake."*
 
