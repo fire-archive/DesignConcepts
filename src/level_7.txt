@@ -122,7 +122,7 @@ I find it ironic, when a typical kid is in their "not now, I’m playing a game"
 
 Simplifying this a bit, we know that to be in a flow state, an activity must be *challenging*. If it is too easy, then the brain has no reason to waste extraneous mental cycles, as a positive outcome is already assured. If it is too difficult, the brain _still_ has no reason to try hard, because it knows it’s just going to fail anyway. The goal is to hit that sweet spot where the player can succeed… but only if they try hard. You’ll often see a graph that looks like this, to demonstrate:
 
- !http://gamedesignconcepts.files.wordpress.com/2009/07/czikszentmihalyi.jpg?w=450&h=439 "Czikszentmihalyi"[Czikszentmihalyi]
+image:Level_7/czikszentmihalyi.jpg[alt="Czikszentmihalyi"]
 
 All this says is that if you have a high skill level and are given an easy task, you’re bored; if you have a low skill level and are given a difficult task, you’re frustrated; but if the challenge level of an activity is comparable to your current skill level… flow state! And this is good for games, because this is where a lot of the fun of games comes from.
 
@@ -205,11 +205,11 @@ Change the rules so that the game outcome is determined primarily by *skill*, an
 
 Post in the forum that most closely resembles your skill and experience level as a designer:
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/greencircle.gif?w=65&h=43 "GreenCircle"[GreenCircle]Beginner, little or no experience prior to taking this course.
+image:SkiingSymbols/greencircle.gif[alt="GreenCircle",float="left"] Beginner, little or no experience prior to taking this course.
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/bluesquare.gif?w=65&h=43 "BlueSquare"[BlueSquare]Intermediate, some coursework or exposure to game design but little or no professional experience.
+image:SkiingSymbols/bluesquare.gif[alt="BlueSquare",float="left"] Intermediate, some coursework or exposure to game design but little or no professional experience.
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/blackdiamond.gif?w=65&h=43 "BlackDiamond"[BlackDiamond]Advanced, at least some professional experience as a published game designer.
+image:SkiingSymbols/blackdiamond.gif[alt="BlackDiamond",float="left"] Advanced, at least some professional experience as a published game designer.
 
 Make your post on or before Thursday, July 23, noon GMT. Then, *offer constructive feedback* to at least two other posts in the same forum, _and_ at least three posts in one forum "below" yours if you posted in Blue Square or Black Diamond.
 
