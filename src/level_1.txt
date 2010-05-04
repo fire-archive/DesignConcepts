@@ -46,9 +46,9 @@ Also, it’s important to make distinctions between different games. Consider th
 
 * Progression of Play: on your turn, choose a number that has not been chosen by either player. You now control that number. Cross it off the list of numbers, and write the number on your side of the paper to show that it is now yours.
 
-  * Resolution: if either player collects a set of exactly three numbers that add up to exactly 15, the game ends, and that player wins. If all nine numbers are collected and neither player has won, the game is a draw.
+* Resolution: if either player collects a set of exactly three numbers that add up to exactly 15, the game ends, and that player wins. If all nine numbers are collected and neither player has won, the game is a draw.
 
-  * Go ahead and play this game, either against yourself or against another player. Do you recognize it now?
+* Go ahead and play this game, either against yourself or against another player. Do you recognize it now?
 
 The numbers 1 through 9 can be arranged in a 3x3 grid known as a "magic square" where every row, column and diagonal adds up to exactly 15.
 
