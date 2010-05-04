@@ -6,8 +6,6 @@ When veteran gamers or game designers are playing a game, if they are doing too 
 
 Why are we only covering this now and not earlier (like, say, at the _start_ of the Design Project)? As mentioned earlier, balancing the game is something that is best left until _after_ you have a good set of core mechanics. Balancing a game that is simply not meeting its design goals is a waste of time, and when you change the core mechanics you’ll just have to balance the game again. So here we are, with a work-in-progress that has survived multiple rounds of playtesting, and it is time to take it to the next level.
 
-******
-
 *About the Pace of this Course*
 
 At this point, I realize from the comments and some forum posts that many of you are falling behind. As a reminder, this course is going at a brisk pace, and I recognize that many participants may not have the time to devote to this one hundred percent. On the bright side, the playtesting part of designing a game can go at a fast or slow pace; for your own hobby projects, time may not be of the essence, so you can continue to follow along at your own pace.
@@ -19,8 +17,6 @@ I would recommend keeping up with the readings on this blog, however, if you hav
 *Readings*
 
 No additional readings for today. There is plenty of material here in this blog post.
-
-****
 
 *What is Game Balance?*
 

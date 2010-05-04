@@ -14,8 +14,6 @@ This may not be a class on giving constructive criticism, but it is something I�
 
 This article may not be particularly comprehensive, but it is short, and after doing a Google search for “constructive criticism” it is the one that I found that fits best with the advice I give in my classes.
 
-****
-
 *The Time Barter System*
 
 At http://www.protospiel.org/[Protospiel], an annual gathering of non-digital game designers, participants are encouraged to give as much playtesting time as they take. For example, if your prototype takes two hours of play and discussion and it requires four players (other than yourself), a single playtest consumes eight person-hours of time; in exchange for that playtest, you are then expected to playtest other people’s prototypes for eight hours of your own time. This system prevents there from being an extreme shortage (or surplus) of testers relative to games, and it gives people incentive to respect each other’s time.
@@ -61,8 +59,6 @@ As other people playtest your game, keep in mind the following:
 -   Not all people are tactful. Sometimes people will say things about your game (or even about you, personally) that are downright hateful. Sometimes people will make fun of your game, or will taunt or berate you for a problem with your design. Keep in mind that, no matter how it is delivered, this is still extremely useful content.
 -   It takes a strong person to hear a statement like “your game sucks, it is the worst game I’ve ever played, and by extension _you_ suck and you are nothing better than a waste of space” and to genuinely reply: “You have just helped me identify some major flaws in my game. *Thank you.* ” Getting to the point in your life where you are emotionally strong enough to have an exchange like this should be one of your long-term goals as a game designer. You do not have to be like this right now. I’m not. But I have seen an exchange like this before from a great designer, and it made me realize how far I have to go.
 -   If it sounds like I’m repeating myself here, it’s because I’ve seen this go horribly wrong so many times, that I think it is worth repeating.
-
-****
 
 *Running a Great Playtest Session*
 

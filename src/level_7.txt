@@ -4,8 +4,6 @@ _Originally posted July 13, 2009_
 
 I’m excited about this week, because this is where we’re going to really get into the essence of game design, starting today with decision-making and continuing this Thursday with the nature of fun. These are some of my favorite topics to discuss, because it is the interactivity between players and systems that sets games apart from most other traditional media. This is where the magic of play happens, and as a systems designer, this strikes at the heart of what I deal with when making a game.
 
-* *
-
 *Course Announcements*
 
 I understand that with 1400+ people, there will be a wide variance in free time. Some of you are students on holiday and can throw yourselves full-bore into this course with all its challenges. Others of you have day jobs and must focus on providing for yourself and your family first. Some of you are going through transitions of a personal nature, such as moving to a new city or dealing with the death of a loved one. This is all understandable, and expected.

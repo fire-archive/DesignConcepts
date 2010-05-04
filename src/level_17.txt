@@ -6,16 +6,12 @@ If you have made it to this point, your game is hopefully coming along nicely an
 
 Once your mechanics are complete and the game is playable, balanced, and meets your design goals, the last thing to do is figure out how to construct the final version. This is not simply a matter of drawing up some art for your cards and board and sending it off to the printer. There are some considerations to be made concerning the user interface of your game, and those considerations are what we will talk about today.
 
-******
-
 *Readings / Viewings*
 
 Read the following:
 
 -   _Challenges for Game Designers_, Chapter 16 (Creating a User Interface)
 -   _http://www.youtube.com/watch?v=cdTVcFo2EQw[Cooperation and Engagement]_, a Google tech talk by game designer Matt Leacock. This video actually ties together a lot of the concepts we’ve talked about in this course, from difficulty levels and flow states to the iterative process to game narrative, and it should serve to solidify those concepts using the concrete example of _Pandemic_, one of the best-selling hobby games of last year. But what I really want you to pay attention to is how Matt presents his iterative work on the design of the game components themselves, such as how he determined the shape, orientation and color of the cards. The actual talk is only 30 minutes long, although there are an extra 20 minutes at the end from audience Q&A.
-
-****
 
 *What is a User Interface?*
 

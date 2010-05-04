@@ -8,8 +8,6 @@ When your game is playtested without you (or another of the game’s designers) 
 
 No readings for today. As before, if you know of any relevant readings you have encountered, post it as comments to this blog post, or on Twitter with the \=GDCU tag.
 
-****
-
 *The Challenges with Blindtesting*
 
 As you might imagine, blindtesting has a lot of problems compared with a playtest that you run in person:
@@ -21,8 +19,6 @@ As you might imagine, blindtesting has a lot of problems compared with a playtes
 -   Setting up a blindtest takes a bit more time. You cannot simply bring your prototype with you to a friend’s house and play right then. You have to find a way to get a copy of your game into the hands of your testers, and then _you have to leave_. Then you have to wait while your testers play your game, _on their schedule_, and then finally get back to you with some results. Even in the best case, blindtest results may take a day or two to get back to you, which is far more than an in-person playtest which you can conduct in a matter of minutes or hours.
 
 Blindtesting is therefore limited in the type of information it can provide, and the schedule on which it can provide it.
-
-****
 
 *Why Blindtesting?*
 
