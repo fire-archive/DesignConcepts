@@ -233,7 +233,7 @@ Make a post http://gamedesignconcepts.aceboard.com/[on the Forums] before next M
 
 *Mini-Challenge*
 
-Here’s another quick thing you can try if you get through all of that. Propose a rule change to _Battleship_ that will make it better than the original, and find a way to express it in less than 135 characters. Post to Twitter with the \=GDCU tag. You have until Monday. One rule change per participant, please!
+Here’s another quick thing you can try if you get through all of that. Propose a rule change to _Battleship_ that will make it better than the original, and find a way to express it in less than 135 characters. Post to Twitter with the #GDCU tag. You have until Monday. One rule change per participant, please!
 
 *Additional Resources*
 

@@ -129,7 +129,7 @@ Giving your game a good UI is a skill that is separate from core systems design,
 
 There are many great books on UI design. If this topic interests you, I would recommend Donald Norman’s _Design of Everyday Things_, which gets into the details of how the design of something as simple as a door or a stove can go horribly wrong… with lessons that can be applied directly to games, both digital and non. Also, for ways to show game data to players in efficient and innovative ways, I would recommend any of Edward Tufte’s books: _The Visual Display of Quantitative Information_, _Envisioning Information_, and _Visual Explanations_.
 
-If you are primarily interested in video games, there are so many great sources on computer UI that it would be hard to list them all here. If you have any personal favorites, leave as a comment on this blog post, or post on Twitter using \=GDCU.
+If you are primarily interested in video games, there are so many great sources on computer UI that it would be hard to list them all here. If you have any personal favorites, leave as a comment on this blog post, or post on Twitter using #GDCU.
 
 *Homeplay*
 
