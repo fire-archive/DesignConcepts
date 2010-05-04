@@ -1,4 +1,11 @@
 #!/bin/bash
 
-OUTPUT=`python urlLast.py $1`
-pandoc -s --no-wrap -f html -t markdown $1 | python ConvertMarkdownAsciidoc.py > $OUTPUT.txt
+# for each url in urlList.txt assign it to $1
+
+for o in `cat urlList.txt`
+do 
+	OUTPUT=`python urlLast.py $o`
+	echo $o
+	echo $OUTPUT.txt
+	#pandoc -s --no-wrap -f html -t markdown $0 | python ConvertMarkdownAsciidoc.py > $OUTPUT.txt
+done
