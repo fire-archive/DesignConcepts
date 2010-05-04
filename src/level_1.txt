@@ -157,7 +157,7 @@ We are going to make what is referred to as a race-to-the-end board game. You ha
 
 First, draw some kind of path. It can be straight or curved. All it takes is drawing a line. Now divide the path into spaces. You have now completed the first step out of four. See how easy this is?
 
-Second, come up with a theme or objective. The players need to get from one end of the path to the other; why? You are either *running towards*something or *running away from*something. What are the players represented as in the game? What is their goal? In the design of many games, it is often helpful to start by asking what the objective is, and a lot of rules will fall into place just from that. You should be able to come up with something (even if it is extremely silly) in just a few minutes. You’re now half way done!
+Second, come up with a theme or objective. The players need to get from one end of the path to the other; why? You are either *running towards* something or *running away from* something. What are the players represented as in the game? What is their goal? In the design of many games, it is often helpful to start by asking what the objective is, and a lot of rules will fall into place just from that. You should be able to come up with something (even if it is extremely silly) in just a few minutes. You’re now half way done!
 
 Third, you need a set of rules to allow the players to travel from space to space. How do you move? The simplest way, which you’re probably familiar with, is to roll a die on your turn and move that many spaces forward. You also need to decide exactly how the game ends: do you have to land on the final space by exact count, or does the game end as soon as a player reaches or passes it?
 
