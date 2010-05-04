@@ -73,8 +73,6 @@ If you want your playtesters to keep coming back for your future designs, be as 
 -   End your playtest as soon as you can. If you have received as much useful information as you are likely to after a half hour of play, stop there (even if the full game would last three hours). Remember that the purpose of the playtest is to identify problems, not to “play games.” If you’re not identifying problems, you are wasting everyone’s time.
 -   Bring your playtest notebook and take good notes. You _will_ forget everything that takes place, no matter how obvious your playtest results seem at the time, so make sure you write down every piece of information that you don’t want to lose.
 
-****
-
 *Being a Great Playtester*
 
 Here are some of the things you should keep in mind when testing other people’s games:
