@@ -39,8 +39,8 @@ Here are some new kinds of fun that were proposed from last time:
 
 Read the following:
 
--   _http://www.gamasutra.com/features/20050617/bates%5f01.shtml[Into the Woods: a Practical Guide to the Hero’s Journey]_ by Bob Bates. This article summarizes Joseph Campbell’s work, as it is relevant to game design.
--   _http://www.gamasutra.com/features/20050727/sutherland%5f01.shtml[What Every Game Developer Needs to Know about Story]_, by John Sutherland. This article summarizes the book _Story_ by Robert McKee (which itself is essentially a practical guide to Aristotle’s _Poetics_), rounding out the Holy Trinity of storytelling for game designers.
+-   http://www.gamasutra.com/features/20050617/bates_01.shtml[_Into the Woods: a Practical Guide to the Hero’s Journey_] by Bob Bates. This article summarizes Joseph Campbell’s work, as it is relevant to game design.
+-   http://www.gamasutra.com/features/20050727/sutherland_01.shtml[_What Every Game Developer Needs to Know about Story_], by John Sutherland. This article summarizes the book _Story_ by Robert McKee (which itself is essentially a practical guide to Aristotle’s _Poetics_), rounding out the Holy Trinity of storytelling for game designers.
 -   _Understanding Comics_, Chapters 2 and 3, if you have a copy of that book. As you read, pay particular attention to how any of this might apply to games. Scott McCloud isn’t going to come out and say it, so you will have to connect the dots yourself.
 
  
@@ -225,7 +225,7 @@ Try to complete your feedback on or before Thursday, July 30, noon GMT.
 
 The point of this homeplay is to give you some experience understanding the relationship of story to game mechanics, and what happens when the two are or are not aligned.
 
-We start with a simplified version of the abstract game of _http://en.wikipedia.org/wiki/Pente[Pente]_:
+We start with a simplified version of the abstract game of http://en.wikipedia.org/wiki/Pente[_Pente_]:
 
 -   Players: 2
 -   Objective: place your stones to either create five-in-a-row, or to capture five pairs of your opponent’s pieces.

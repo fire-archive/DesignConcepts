@@ -101,7 +101,7 @@ You can call it “paper” or “cardboard” or “non-digital” or “analog
 
 Paper prototypes do have some limitations that you should be aware of:
 
--   They cannot always handle “twitch” (dexterity or timing based) mechanics… although be aware that there are many dexterity-based non-digital games. Consider the similarities and differences between the _http://en.wikipedia.org/wiki/Street%5fFighter%5f2[Street Fighter]_ series of video games, and James Ernest’s real-time card battle game _http://en.wikipedia.org/wiki/Brawl%5f(game[Brawl])_. Some things carry over well… others, not so much.
+-   They cannot always handle “twitch” (dexterity or timing based) mechanics… although be aware that there are many dexterity-based non-digital games. Consider the similarities and differences between the http://en.wikipedia.org/wiki/Street_Fighter_2[_Street Fighter_] series of video games, and James Ernest’s real-time card battle game http://en.wikipedia.org/wiki/Brawl_(game)[_Brawl_]. Some things carry over well… others, not so much.
 -   Information that is hidden to both players but that still requires bookkeeping, such as the “Fog of War” mechanics prevalent in Real-Time Strategy video games. Again, note that this can sometimes be worked around — the classic children’s game _Battleship_ has “fog-of-war-like” mechanics, and the board game _Clue_ has information hidden from all players.
 -   Extremely complex calculations are tedious on paper, and the systems that use them may be better suited to “prototyping” in a spreadsheet program like _Excel_. However, if the complex systems are a necessary and core part of the game, it may be a sign that “the computer is having more fun than the player” (to quote Sid Meier), and that perhaps some simplification would make the game more accessible.
 -   “Eye candy” such as high-quality art and animation is obviously not prototyped easily with stick-figure drawings and handwritten cards. Then again, these are not part of the game mechanics. If your game relies on visuals rather than systems, that is a sign that you are not doing a strong enough job as the systems designer.
@@ -215,7 +215,7 @@ In making an actual game, the next step after the physical prototype (once you�
 There are some additional readings this week:
 
 -   _Challenges for Game Designers_, Chapter 4. This details the process of prototyping a video game in paper. Even if your interest is in board game design, note that many commercially-successful board games originated in the video game world (there are, for example, board-game versions of _DOOM_, _Warcraft 3_, _Civilization_, _Age of Empires_, and _World of Warcraft_, among many others). Some of them are even worth playing.
--   _http://www.costik.com/vidiot.html[Don’t Be a Vidiot]_, by Greg Costikyan. If you want to be a video game designer, this article provides both an incentive to study board games, and also a starting point for the kinds of games that are out there beyond _Monopoly_ and _RISK_.
+-   http://www.costik.com/vidiot.html[_Don’t Be a Vidiot_], by Greg Costikyan. If you want to be a video game designer, this article provides both an incentive to study board games, and also a starting point for the kinds of games that are out there beyond _Monopoly_ and _RISK_.
 
 *Homeplay*
 

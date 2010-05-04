@@ -14,7 +14,7 @@ A game designer does not have to be an expert critic (nor vice versa), but an un
 
 Read the following:
 
--   _http://playthisthing.com/game-criticism-why-we-need-it-and-why-reviews-arent-it[Game Criticism, Why We Need It, and Why Reviews Aren’t It]_, by Greg Costikyan. I could write at length about the difference between a “game review” and a “game critique” but Greg has already done so, and far more succinctly and clearly than I could.
+-   http://playthisthing.com/game-criticism-why-we-need-it-and-why-reviews-arent-it[_Game Criticism, Why We Need It, and Why Reviews Aren’t It_], by Greg Costikyan. I could write at length about the difference between a “game review” and a “game critique” but Greg has already done so, and far more succinctly and clearly than I could.
 
 *Critical Analysis*
 

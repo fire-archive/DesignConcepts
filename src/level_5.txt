@@ -24,7 +24,7 @@ We will revisit some of these when we talk about the kinds of decisions that are
 
 This week I’m trying something new and putting one of the readings up front, because I want you to look at this first, before reading the rest of this post.
 
--   _http://www.cs.northwestern.edu/~hunicke/MDA.pdf[MDA Framework]_ by LeBlanc, Hunicke and Zabek. This is one of the few academic papers that achieved wide exposure within the game industry (it probably helps that the authors are experienced game designers). There are two parts of this paper that made it really influential. The first is the Mechanics/Dynamics/Aesthetics (MDA) conceptualization, which offers a way to think about the relationship of rules to player experience, and also the relationship between player and designer. The second part to pay attention to is the “8 kinds of fun” which we will return to a bit later in the course (Thursday of next week).
+-   http://www.cs.northwestern.edu/~hunicke/MDA.pdf[_MDA Framework_] by LeBlanc, Hunicke and Zabek. This is one of the few academic papers that achieved wide exposure within the game industry (it probably helps that the authors are experienced game designers). There are two parts of this paper that made it really influential. The first is the Mechanics/Dynamics/Aesthetics (MDA) conceptualization, which offers a way to think about the relationship of rules to player experience, and also the relationship between player and designer. The second part to pay attention to is the “8 kinds of fun” which we will return to a bit later in the course (Thursday of next week).
 
 * *
 
@@ -183,7 +183,7 @@ Player intentionality, the concept from Church’s _Formal Abstract Design Tools
 
 *Another Reading*
 
--   _http://clicknothing.typepad.com/Design/hockingc%5fGDC06%5fIntentionality.zip[Designing to Promote Intentional Play]_ by Clint Hocking. This was a lecture given live at GDC in 2006, but Clint has kindly made his Powerpoint slides and speaker notes publicly available for download from his blog. It covers the concept of player intentionality and its relation to emergence, far better than I can cover here. The link goes to a Zip file that contains a number of files inside it; start with the Powerpoint and the companion Word doc, and the presentation will make it clear when the other things like the videos come into play. I will warn you that, like many video game developers, Clint tends to use a lot of profanity; also, the presentation opens with a joke about Jesus and Moses. It may be best to skip this one if you are around people who are easily offended by such things.
+-   http://clicknothing.typepad.com/Design/hockingc_GDC06_Intentionality.zip[_Designing to Promote Intentional Play_] by Clint Hocking. This was a lecture given live at GDC in 2006, but Clint has kindly made his Powerpoint slides and speaker notes publicly available for download from his blog. It covers the concept of player intentionality and its relation to emergence, far better than I can cover here. The link goes to a Zip file that contains a number of files inside it; start with the Powerpoint and the companion Word doc, and the presentation will make it clear when the other things like the videos come into play. I will warn you that, like many video game developers, Clint tends to use a lot of profanity; also, the presentation opens with a joke about Jesus and Moses. It may be best to skip this one if you are around people who are easily offended by such things.
 
  
 

@@ -156,12 +156,12 @@ I’ll give you a few games to play. Go ahead and play them first, if you can. T
 
 *Playings*
 
--   _http://hcsoftware.sourceforge.net/passage/[Passage]_ and/or _http://hcsoftware.sourceforge.net/gravitation/[Gravitation]_, by Jason Rohrer. (5 and 8 minute play times, respectively.)
--   _http://rodvik.com/rodgames/marriage.html[The Marriage]_, by Rod Humble. (Playable in just a few minutes.)
--   _http://www.rodvik.com/rodgames/SOHMB.html[Stars Over Half-Moon Bay]_, by Rod Humble. (Playable in just a few minutes.)
--   _http://www.newsgaming.com/games/index12.htm[September 12]_, by Gonzalo Frasca. (Plays indefinitely, but the mechanics are simple and immediately apparent within the first minute or two.)
--   _http://amanita-design.net/samorost-1/[Samarost]_, by Amanita. (Takes awhile to play through completely.)
--   _http://www.jenovachen.com/flowingames/cloud.htm[Cloud]_, by Jenova Chen. (Takes awhile to play to completion, but it shows you the major mechanics in the first level, which only takes a few minutes)
+-   http://hcsoftware.sourceforge.net/passage/[_Passage_] and/or http://hcsoftware.sourceforge.net/gravitation/[_Gravitation_], by Jason Rohrer. (5 and 8 minute play times, respectively.)
+-   http://rodvik.com/rodgames/marriage.html[_The Marriage_], by Rod Humble. (Playable in just a few minutes.)
+-   http://www.rodvik.com/rodgames/SOHMB.html[_Stars Over Half-Moon Bay_], by Rod Humble. (Playable in just a few minutes.)
+-   http://www.newsgaming.com/games/index12.htm[_September 12_], by Gonzalo Frasca. (Plays indefinitely, but the mechanics are simple and immediately apparent within the first minute or two.)
+-   http://amanita-design.net/samorost-1/[_Samarost_], by Amanita. (Takes awhile to play through completely.)
+-   http://www.jenovachen.com/flowingames/cloud.htm[_Cloud_], by Jenova Chen. (Takes awhile to play to completion, but it shows you the major mechanics in the first level, which only takes a few minutes)
 
  
 

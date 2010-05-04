@@ -22,8 +22,8 @@ I will be at http://www.siggraph.org/s2009/[SIGGRAPH] all next week. While I wil
 
 Read the following:
 
--   _http://www.theinspiracy.com/ArPOV.htm[A Point of View]_, by Noah Falstein. We talk of the point of view of a story as “first person” or “third person” – and we also talk of the point of view of a video game in similar terms (First Person shooter, Third Person stealth, etc.). It is easy to assume that the two are equivalent, but they are not. This article makes the differences clear.
--   _http://onlyagame.typepad.com/only%5fa%5fgame/2005/08/diversity_in_ga.html[Diversity in Game Narrative]_, by Chris Bateman. This is a brief overview of the different kinds of story structures encountered in games.
+-   http://www.theinspiracy.com/ArPOV.htm[_A Point of View_], by Noah Falstein. We talk of the point of view of a story as “first person” or “third person” – and we also talk of the point of view of a video game in similar terms (First Person shooter, Third Person stealth, etc.). It is easy to assume that the two are equivalent, but they are not. This article makes the differences clear.
+-   http://onlyagame.typepad.com/only_a_game/2005/08/diversity_in_ga.html[_Diversity in Game Narrative_], by Chris Bateman. This is a brief overview of the different kinds of story structures encountered in games.
 -   _Challenges for Game Designers_, Chapter 13 (Designing a Game to Tell a Story). This short chapter covers today’s topic and can also serve as a review of some topics from last time.
 
  
@@ -88,7 +88,7 @@ Lastly, a threaded narrative runs the risk of confusing the player, if there are
 
 _Dynamic Object-Oriented Narrative_
 
-This last structure is Bateman’s term that, as far as I can tell, he invented to describe the game _http://www.interactivestory.net/[Façade]_ (which you should absolutely download and play if you have not yet seen it). The idea is that there are several mini-stories, each with potentially several entry points and exit points. A single mini-story’s exit point may lead to a final ending, _or_ to another mini-story. The mini-stories may be thought of as “chapters” in a book or “acts” in a play (except that you may not “read” all of the chapters or may read them in a different order, depending on the choices you make and how you exit each chapter).
+This last structure is Bateman’s term that, as far as I can tell, he invented to describe the game http://www.interactivestory.net/[_Façade_] (which you should absolutely download and play if you have not yet seen it). The idea is that there are several mini-stories, each with potentially several entry points and exit points. A single mini-story’s exit point may lead to a final ending, _or_ to another mini-story. The mini-stories may be thought of as “chapters” in a book or “acts” in a play (except that you may not “read” all of the chapters or may read them in a different order, depending on the choices you make and how you exit each chapter).
 
 This kind of story has the advantages of parallel paths, but without a linear story arc. Each mini-story has its own choices, and the overall collection of mini-stories itself acts like a larger branching or parallel path story. Each individual mini-story is self-contained, which reduces the required time to write the complete story.
 
