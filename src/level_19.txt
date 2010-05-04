@@ -10,13 +10,13 @@ Today, we switch gears for a bit and turn our attention to game criticism. Why d
 
 A game designer does not have to be an expert critic (nor vice versa), but an understanding of how to critically analyze games is a useful skill to have. With this ability, a designer can learn more by playing other people’s games, figuring out what works and what doesn’t (and why), and applying those lessons to their own designs. It’s far cheaper to learn from _other_ people’s mistakes than your own.
 
-*Readings / Viewings*
+=== Readings / Viewings
 
 Read the following:
 
 -   http://playthisthing.com/game-criticism-why-we-need-it-and-why-reviews-arent-it[_Game Criticism, Why We Need It, and Why Reviews Aren’t It_], by Greg Costikyan. I could write at length about the difference between a "game review" and a "game critique" but Greg has already done so, and far more succinctly and clearly than I could.
 
-*Critical Analysis*
+=== Critical Analysis
 
 I have mentioned before that an important game design skill to have is the ability to critically analyze _other_ people’s games. I think about half of the reason why I am as far along as I am in my career, personally, is that I have the ability to play a game and offer direct constructive feedback that is useful to another designer. My usefulness to designers makes me friends in a lot of places, and I want you to have the same opportunity.
 
@@ -24,7 +24,7 @@ Consider your own Design Project to be, if not finished, then at least "handed i
 
 This time, we will follow a process that is a bit different than before. We are going to take off our game designer hats for a moment, and put on our _game critic_ hats.
 
-*Review and Critique*
+=== Review and Critique
 
 We don’t hear the words "game critic" very often. Especially with video games, more often we see "game reviewer." Review. Critique. Reviewer. Critic. Are these synonyms? What is the difference?
 
@@ -34,7 +34,7 @@ For game designers, it is critique that is the most important, because critique 
 
 Not all critique falls into this category. A critique of _Chess_ as a patriarchal game that pushes an anti-Feminist agenda would not be particularly useful if you’re just trying to design a compelling strategy game, _sans_ social commentary. But another critique of the same game might speak of the mechanics and dynamics, what is effective and what is not, and how it all fits together to make the kind of game that has persisted for centuries. And _that_ would be quite useful, wouldn’t you say?
 
-*Critical Analysis of a Game: the Process*
+=== Critical Analysis of a Game: the Process
 
 First, go to the course wiki and select any one game (other than yours). Feel free to browse the projects that are posted, looking at the brief descriptions and photos at the beginning, and pick one that looks like it might be interesting. *Do this even if you did not complete your own project yet.*
 
@@ -55,7 +55,7 @@ Write this up. Include the following in your analysis:
 
 Remember, your audience is other game designers. Write your analysis so that other designers can learn from the mistakes and successes of the game you chose. Your goal is to educate and inform, and to discover new lessons about what makes games work or not work. Your goal is not to give a review score.
 
-*Homeplay*
+=== Homeplay
 
 Post your critical analysis as a comment on the wiki. Go to the page of the game you chose, and leave a comment. I highly recommend writing out your analysis in something else like a word processor first, and then copying and pasting when you’re done. Do this on or before the end of the course (Sunday, September 6). You will not have any other homeplay this Thursday, so take your time on this and be thorough.
 
