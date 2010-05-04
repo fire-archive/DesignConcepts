@@ -15,8 +15,6 @@ Just a couple of comments based on feedback received from the first forum challe
 -   When the assignment is to design a game, I am looking for something that is in a state where you could print out the rules, create the components, and play. Some people posted, say, a card game and just handwaved over this: “The deck contains 50 cards, here are a couple of samples but I haven’t designed the others yet.” This is not a complete design. I encourage you to make complete designs, when you are designing a *game* and not just a concept. It is these details that are the essence of design.
 -   If there is confusion over what I am asking for, as I’m sure will happen just about every time, do feel free to ask for clarifications in the blog comments. However, I also encourage you to make your own interpretations to the best of your ability. In classroom courses (and usually in the Real World) you can ask for immediate clarification if a constraint is unclear; but in this course, since we go so quickly, there is not always time to post a comment, wait for me to respond, and then read the comment. Be creative but fair in your interpretations.
 
-* *
-
 *A Note on Constraints*
 
 An interesting thing happened for this Monday’s challenge: more people attempted the Black Diamond (highest difficulty) than those who did all of the other difficulties combined. By contrast, when signing up, only about a tenth of the participants identified themselves as experienced game designers. What is going on here?
@@ -37,8 +35,6 @@ Most of the challenges in this course will involve constraints. In fact, most de
 
 There is one other reason I mention constraints. For those rare times in your life when there are truly no constraints imposed on you by others (this is more common with “indie” development and hobbyist designers than with professionals), if you have trouble getting started, one way is to generate some constraints for yourself. Give yourself a time limit (“Game Jam” events typically challenge people to make a game in as little as 24 or 48 hours). Choose a subject matter that interests you and use it for the theme. Select a core mechanic that you’d like to explore. It can be completely arbitrary, but if you are stuck and don’t know what direction to take your game, go ahead and just choose an extra constraint to get yourself moving. (With iteration, you can always remove that arbitrary constraint later if you find it’s holding back your design.)
 
-* *
-
 *Generating Ideas*
 
 The first thing that happens in a design is that you must come up with the basic core of an idea. This isn’t necessarily fully-formed, but just a basic concept. There are many different starting points for a game’s design. Here are some examples, in no particular order:
@@ -53,8 +49,6 @@ The first thing that happens in a design is that you must come up with the basic
 -   Combinations of several of these. For example, starting with *core aesthetics* and *narrative* at the same time, you can make a game where the story and gameplay are highly integrated.
 
 When you think of new ideas for games, what kinds of ideas do you have? What are your starting points? What does this say about you as a designer, and the kinds of games you are likely to make?
-
-* *
 
 *Other Methods of Idea Generation*
 

@@ -154,9 +154,7 @@ By being aware of the mechanics causing a feedback loop, you can disrupt the eff
 
 If you do not want to remove the feedback loop from the game but you do want to reduce its effects, an alternative is to add _another_ feedback loop of the opposing type. Again returning to the kart-racing example, if you wanted to keep the “rubber-banding” negative feedback loop, you could add a positive feedback loop to counteract it. For example, if the opposing cars get speed boosts when the player is ahead, perhaps the player can go faster as well, leading to a case where being in the lead makes the entire race go faster (but not giving an advantage or disadvantage to anyone). Or maybe the player in the lead can find better power-ups to compensate for the opponents’ new speed advantage.
 
- 
-
-*Emergence***
+*Emergence*
 
 Another dynamic that game designers should be aware of is called *emergent gameplay* (or *emergent complexity*, or simply *emergence*). I’ve found this is a difficult thing to describe in my classroom courses, so I would welcome other perspectives on how to teach it. Generally, emergence describes a game with simple mechanics but complex dynamics. “Emergent complexity” can be used to describe _any_ system of this nature, even things that are not games.
 
