@@ -226,10 +226,10 @@ Post the following to the http://gamedesignconcepts.aceboard.com[forum]:
 
 Post in the forum that most closely resembles your skill and experience level as a designer:
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/greencircle.gif?w=65&h=43 "GreenCircle"[GreenCircle]Beginner, little or no experience prior to taking this course.
+image:SkiingSymbols/greencircle.gif[alt="GreenCircle",float="left"] Beginner, little or no experience prior to taking this course.
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/bluesquare.gif?w=65&h=43 "BlueSquare"[BlueSquare]Intermediate, some coursework or exposure to game design but little or no professional experience.
+image:SkiingSymbols/bluesquare.gif[alt="BlueSquare",float="left"] Intermediate, some coursework or exposure to game design but little or no professional experience.
 
-!http://gamedesignconcepts.files.wordpress.com/2009/07/blackdiamond.gif?w=65&h=43 "BlackDiamond"[BlackDiamond]Advanced, at least some professional experience as a published game designer.
+image:SkiingSymbols/blackdiamond.gif[alt="BlackDiamond",float="left"] Advanced, at least some professional experience as a published game designer.
 
 Make your post on or before Thursday, July 30, noon GMT. Then, *read at least five other posts* in the same forum, and five more in the skill level *above* yours (unless you posted in Black Diamond). *You do not have to respond*. What I want you to see is the variety of responses that people will have. Do this reading before Monday, August 3.
