@@ -22,21 +22,21 @@ You might wonder, then, what is the next step on this journey? I have created a 
 
 There are some questions I’ve been asked a bit during this course, about what happens when it all ends. Here are my answers.
 
-_*I want to pass some of this material along to other students/friends/colleagues. Can I get the rights to use it? Can I link to it from my own blog/course/whatever?*_
+*I want to pass some of this material along to other students/friends/colleagues. Can I get the rights to use it? Can I link to it from my own blog/course/whatever?*
 
 I’ve received a number of emails asking about permissions, and I have just upgraded the blog with a fresh new Creative Commons license that should make it clear. Bottom line: feel free to use any or all of the content that I’ve posted here. I created this class to share information, after all. However, please do credit me as the original source if you use my content. My name is Ian Schreiber, and the title of this course/blog is Game Design Concepts.
 
-_*I came to this class late / I fell behind, so now I’m on my own. What happens to this course now that it’s technically "over"?*_**
+*I came to this class late / I fell behind, so now I’m on my own. What happens to this course now that it’s technically "over"?*
 
 I plan to leave this blog right where it is for posterity. Anyone who finds it later can feel free to drop by, going through the course on their own time and at their own pace. They won’t be able to participate with other students as the course is happening, of course, but the material is still all here.
 
 The course wiki will remain exactly as it is, readable to the public. By popular demand, the course forums will remain as they are, allowing those of you who signed up to maintain a community.
 
-_*Are you teaching this class again?*_
+*Are you teaching this class again?*
 
 At present, I have no plans to do an _exact_ repeat of this summer. However, all of the information is here, so anyone wishing to go through Game Design Concepts can do so at their own pace at any time.
 
-_*Are you going to teach any other classes like this?*_
+*Are you going to teach any other classes like this?*
 
 YES. Next summer, I will do something similar to this one, but with new material.
 
