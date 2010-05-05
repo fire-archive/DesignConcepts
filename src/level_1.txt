@@ -67,7 +67,7 @@ When I say "vocabulary" what I mean is, a set of words that allows us to talk ab
 
 Vocabulary might not be as fascinating as that game you want to design with robot laser ninjas, but it is important, because it gives us the means to talk about games. Otherwise we’ll be stuck gesturing and grunting, and it becomes very hard to learn anything if we can’t communicate.
 
-One of the most common ways to talk about games is to describe them in terms of other games. "It’s like *Grand Theft Auto* meets *The Sims* meets *World of Warcraft* ." But this has two limitations. First, if I haven’t played World of Warcraft, then I won’t know what you mean; it requires us to both have played the same games. Second, and more importantly, it does not cover the case of a game that is very different. How would you describe *Katamari Damacy* in terms of other games?
+One of the most common ways to talk about games is to describe them in terms of other games. "It’s like *Grand Theft Auto* meets *The Sims* meets *World of Warcraft*." But this has two limitations. First, if I haven’t played World of Warcraft, then I won’t know what you mean; it requires us to both have played the same games. Second, and more importantly, it does not cover the case of a game that is very different. How would you describe *Katamari Damacy* in terms of other games?
 
 Another option, often chosen by those who write textbooks on game design, is to invent terminology as needed and then use it consistently within the text. I could do this, and we could at least communicate with each other about fundamental game design concepts. The problem here is what happens after this course is over; the jargon from this course would become useless when you were talking to anyone else. I cannot force or mandate that the game industry adopt my terminology.
 
@@ -91,13 +91,13 @@ Here are some definitions from various sources:
 
 * A game is an activity involving player decisions, seeking objectives within a "limiting context" [i.e. rules]. (Clark C. Abt)
 
-* A game has six properties: it is "free" (playing is optional and not obligatory), "separate" (fixed in space and time, in advance), has an uncertain outcome, is "unproductive" (in the sense of creating neither goods nor wealth — note that wagering *transfers*wealth between players but does not create it), is governed by rules, and is "make believe" (accompanied by an awareness that the game is not Real Life, but is some kind of shared separate "reality"). (Roger Callois)
+* A game has six properties: it is "free" (playing is optional and not obligatory), "separate" (fixed in space and time, in advance), has an uncertain outcome, is "unproductive" (in the sense of creating neither goods nor wealth — note that wagering *transfers* wealth between players but does not create it), is governed by rules, and is "make believe" (accompanied by an awareness that the game is not Real Life, but is some kind of shared separate "reality"). (Roger Callois)
 
 * A game is a "voluntary effort to overcome unnecessary obstacles." This is a favorite among my classroom students. It sounds a bit different, but includes a lot of concepts of former definitions: it is voluntary, it has goals and rules. The bit about "unnecessary obstacles" implies an inefficiency caused by the rules on purpose — for example, if the object of Tic Tac Toe is to get three symbols across, down or diagonally, the easiest way to do that is to simply write three symbols in a row on your first turn while keeping the paper away from your opponent. But you don’t do that, because the rules get in the way… and it is from those rules that the play emerges. (Bernard Suits)
 
 * Games have four properties. They are a "closed, formal system" (this is a fancy way of saying that they have rules; "formal" in this case means that it can be defined, not that it involves wearing a suit and tie); they involve interaction; they involve conflict; and they offer safety… at least compared to what they represent (for example, American Football is certainly not what one would call perfectly safe — injuries are common — but as a game it is an abstract representation of warfare, and it is certainly more safe than being a soldier in the middle of combat). (Chris Crawford)Games are a "form of art in which the participants, termed Players, make decisions in order to manage resources through game tokens in the pursuit of a goal." This definition includes a number of concepts not seen in earlier definitions: games are art, they involve decisions and resource management, and they have "tokens" (objects within the game). There is also the familiar concept of goals. (Greg Costikyan)
 
-* Games are a "system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome" ("quantifiable" here just means, for example, that there is a concept of "winning" and "losing"). This definition is from the book *Rules of Play*by Katie Salen and Eric Zimmerman. That book also lists the other definitions given above, and I thank the authors for putting them all in one place for easy reference.
+* Games are a "system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome" ("quantifiable" here just means, for example, that there is a concept of "winning" and "losing"). This definition is from the book *Rules of Play* by Katie Salen and Eric Zimmerman. That book also lists the other definitions given above, and I thank the authors for putting them all in one place for easy reference.
 
 By examining these definitions, we now have a starting point for discussing games. Some of the elements mentioned that seem to be common to many (if not all) games include:
 
@@ -113,17 +113,17 @@ By examining these definitions, we now have a starting point for discussing game
 
 * Games are *artificial*, they are *safe*, and they are *outside ordinary life*. This is sometimes referred to as the players stepping into the "Magic Circle" or sharing a "lusory attitude".
 
-* Games involve *no material gain*on the part of the players.
+* Games involve *no material gain* on the part of the players.
 
 * Games are *voluntary*. If you are held at gunpoint and forced into an activity that would normally be considered a game, some would say that it is no longer a game for you. (Something to think about: if you accept this, then an activity that is voluntary for some players and compulsory for others may or may not be a game… depending on whose point of view you are looking at.)
 
 * Games have an *uncertain outcome*.
 
-* Games are a *representation*or *simulation*of something real, but they are themselves *make believe*.
+* Games are a *representation* or *simulation* of something real, but they are themselves *make believe*.
 
 * Games are *inefficient*. The rules impose obstacles that prevent the player from reaching their goal through the most efficient means.
 
-* Games have *systems*. Usually, it is a *closed*system, meaning that resources and information do not flow between the game and the outside world.
+* Games have *systems*. Usually, it is a *closed* system, meaning that resources and information do not flow between the game and the outside world.
 
 * Games are a form of *art*.
 
