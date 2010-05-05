@@ -64,16 +64,6 @@ _A Theory of Fun for Game Design_ by Koster. This book shows the similarities be
 
 The following syllabus is a reprinting of the syllabus as it appeared on the original site during the course. It is reprinted here to give you an idea of the pacing of the original course, in addition to acting as a summary of the upcoming course.
 
-=== Schedule
-
-This class runs from *Monday, June 29* through *Sunday, September 6*. Posts appear on the blog Mondays and Thursdays each week at *noon GMT*. Discussions and sharing of ideas happen on a continual basis.
-
-=== A Note About Change
-
-As this entire course is an experiment, the schedule in this syllabus is subject to change based on the needs of the students and the overall pace of the course.
-
-=== Syllabus 
-
 [options="header",style="asciidoc"]
 |====
 |Original Date|Topics Covered
@@ -127,6 +117,14 @@ As this entire course is an experiment, the schedule in this syllabus is subject
 * Course summary
 * Next steps
 |====
+
+=== Schedule
+
+This class runs from *Monday, June 29* through *Sunday, September 6*. Posts appear on the blog Mondays and Thursdays each week at *noon GMT*. Discussions and sharing of ideas happen on a continual basis.
+
+=== A Note About Change
+
+As this entire course is an experiment, the schedule in this syllabus is subject to change based on the needs of the students and the overall pace of the course.
 
 === Where can I get more information?
 
