@@ -94,7 +94,7 @@ Is it useful to make the distinction between these three types of rules? I think
 -   The distinction between "operational" and "constituative" rules helps us understand why one game is fun in relation to other games. The classic arcade game _Gauntlet_ has highly similar gameplay to the first-person shooter _DOOM_; the largest difference is the position of the camera. For those of you who play modern board games, a similar statement is that _Puerto Rico_ is highly similar to _Race for the Galaxy._ The similarity may not be immediately apparent because the games look so different on the surface, unless you are thinking in terms of game states and rules.
 -   Many first-person shooters contain a rule where, when a player is killed, they re-appear ("respawn") in a specific known location. Another player can stand near that location and kill anyone that respawns before they have a chance to react. This is known as "spawn-camping" and can be rather annoying to someone on the receiving end of it. Is spawn-camping part of the game (since it is allowed by the rules)? Is it good strategy, or is it cheating? This depends on who you ask, as it is part of the "implied" rules of the game. When two players are operating under different implied rules, you will eventually get one player accusing the other of cheating (or just "being cheap") while the other player will get defensive and say that they’re playing by the rules, and there’s no reason for them to handicap themselves when they are playing to win. The lesson here is that it is important for the game designer to define as many of these rules as possible, to avoid rules arguments during play.
 
-==== Resources and resource management
+==== Resources and Resource Management
 
 "Resources" is a broad category, and I use it to mean everything that is under control of a single player. Obviously this includes explicit resources (Wood and Wheat in _Settlers of Catan_, health and mana and currency in _World of Warcraft_), but this can also include other things under player control:
 
@@ -233,11 +233,11 @@ I have created three new areas on the http://gamedesignconcepts.aceboard.com/[f
 
 Then, after you have posted, *read at least two other posts from your difficulty level* and offer a constructive analysis and critique. If you are at blue-square or black-diamond difficulty, *also read at least two other posts from the difficulty level immediately below yours* and offer the benefit of your experience to those who you could mentor. Try to choose posts that have no responses already, so that everyone can get at least some feedback. Also complete this by Thursday, noon GMT.
 
-=== A note about research…
+=== A Note About Research…
 
 Note that you may have to do some actual research to complete this project (even if only looking to Wikipedia for inspiration). This is typical of much game design in the field. Many laypersons imagine game designers as these people that just sit and think at their desk all day, then eventually stand up and proclaim, _"I have this Great Idea for a game! Ninjas… and lasers… in space! Go forth and build it, my army of programmer and art lackeys. I shall sit here now until I come up with another Great Idea, while collecting royalties from my last five ideas."_ This is not even close to reality. A great deal of design is the details: defining the rules, certainly, but also doing research to make sure that the rules fit the constraints and are appropriate for the project.
 
-=== A note about IP law…
+=== A Note About IP Law…
 
 At this point, some of you may be thinking that by posting your game to the forum, you run the risk that someone will Steal Your Great Idea. How can you protect yourself from the threat of someone taking your basic idea, turning it into a working, sellable game, and leaving you with nothing?
 

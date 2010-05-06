@@ -34,7 +34,7 @@ For game designers, it is critique that is the most important, because critique 
 
 Not all critique falls into this category. A critique of _Chess_ as a patriarchal game that pushes an anti-Feminist agenda would not be particularly useful if you’re just trying to design a compelling strategy game, _sans_ social commentary. But another critique of the same game might speak of the mechanics and dynamics, what is effective and what is not, and how it all fits together to make the kind of game that has persisted for centuries. And _that_ would be quite useful, wouldn’t you say?
 
-=== Critical Analysis of a Game: the Process
+=== Critical Analysis of a Game: The Process
 
 First, go to the course wiki and select any one game (other than yours). Feel free to browse the projects that are posted, looking at the brief descriptions and photos at the beginning, and pick one that looks like it might be interesting. *Do this even if you did not complete your own project yet.*
 

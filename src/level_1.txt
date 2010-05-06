@@ -28,7 +28,7 @@ Okay, that isn’t entirely fair. There is actually a huge body of material in t
 
 This course will be divided, roughly, into two parts. The first half of the course will focus on the theories and concepts of game design. We will learn what a game is, how to break the concept of a game down into its component parts, and what makes one game better or worse than another. In the second half of the course, the main focus is the practical aspect of how to create a good game out of nothing, and the processes that are involved in creating your own games. Throughout all of the course, there will be a number of opportunities to make your own games (all non-digital, no computer programming required), so that you can see how the theory actually works in practice.
 
-=== What is a game?
+=== What Is a Game?
 
 Those of you who have read a little into the Challenges text may think this is obvious. My preferred definition is a *play activity* with *rules* that involves *conflict*. But the question "what is a game?" is actually more complicated than that:
 
@@ -61,7 +61,7 @@ The numbers 1 through 9 can be arranged in a 3x3 grid known as a "magic square" 
 
 Now you may recognize it. It is the game of *Tic-Tac-Toe* (or *Noughts and Crosses* or several other names, depending on where you live). So, is Tic-Tac-Toe the same game as Three-to-Fifteen, or are they different games? (The answer is, it depends on what you mean… which is why it is important to define what a "game" is!)
 
-=== Working towards a Critical Vocabulary
+=== Working Towards a Critical Vocabulary
 
 When I say "vocabulary" what I mean is, a set of words that allows us to talk about games. The word "critical" in this case does not mean that we are being critical (i.e. finding fault with a game), but rather that we are able to analyze games critically (as in, being able to analyze them carefully by considering all of their parts and how they fit together, and looking at both the good and the bad).
 
@@ -81,7 +81,7 @@ Games are made of many parts, including the rules, story, physical components, a
 
 How can two things both be a *subset* the other? It seems like a paradox, and it’s something you are welcome to think about on your own. For our purposes, it doesn’t matter — the point here is that *games* and *play* are concepts that are related.
 
-=== So, what is a game, anyway?
+=== So, What Is a Game, Anyway?
 
 You might have noticed I never answered the earlier question of what a game is. This is because the concept is very difficult to define, at least in a way that doesn’t either leave things out that are obviously games (so the definition is too narrow), or accept things that are clearly not games (making the definition too broad)… or sometimes both.
 
