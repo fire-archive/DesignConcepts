@@ -211,6 +211,7 @@ With that said, here is an activity that I hope you will find fun. It is based o
 
 Here’s how it works. First, choose your difficulty level based on your previous experience with game design. Skiiers may find this familiar:
 
+.Different Difficulty Symbols
 image:Level_3/skiingsymbols.gif[alt="SkiingSymbols"]
 
 Here is your challenge:

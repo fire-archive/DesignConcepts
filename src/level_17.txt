@@ -34,6 +34,7 @@ In board games, you often see this tradeoff with how information is presented. C
 
 Sometimes you can include both. Modern software applications include hotkeys _and_ menu items, and some even have a "beginner" mode that hides advanced functionality to keep the menus simple, making the software much easier to learn. Card games like _Magic: the Gathering_ include keywords, but then explain those keywords in parentheses for players who do not know what the keyword means.
 
+.Magic: The Gathering Cards
 image:Level_17/magiccards.jpg[alt="Magic Cards"]
 
 Look at all the mechanics in your game, and what players must do in order to follow them. Are there any cases where your wording could be clearer for first-time players? Are there situations where experienced players of your game feel like they are doing excessive book-keeping or note-taking, or performing multiple automatic steps, where it would be possible to streamline the experience?
@@ -115,6 +116,7 @@ In no particular order:
 -   Automate or eliminate tasks that don’t involve interesting decisions, if possible. Every click or keypress in a video game, or die-roll or card flip in a board game, should involve the player doing something that is interesting to them. If the player first has to do a bunch of upkeep tasks just to have the privilege of making interesting decisions later, see what you can do to streamline the boring stuff.
 -   Use visual metaphors. They make it obvious what something represents. If your players control a bunch of pieces that represent people, using people-shaped pawns is clearer than using wooden cubes. Compare the pawn images below. Each has a very different effect on how the player views it.
 
+.Different Pawn Representations
 image:Level_17/woodpawns.jpg[alt="WoodPawns"]
 
 -   Likewise, if you use icons in the game to represent certain abilities, choose icons that look like the concept they’re representing (if you can).

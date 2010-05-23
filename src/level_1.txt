@@ -53,6 +53,7 @@ Also, it’s important to make distinctions between different games. Consider th
 The numbers 1 through 9 can be arranged in a 3x3 grid known as a "magic square" where every row, column and diagonal adds up to exactly 15.
 
 [grid="cols,rows", frame="none"]
+.Magic Square
 |====
 | 6 | 7 | 2
 | 1 | 5 | 9

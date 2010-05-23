@@ -122,6 +122,7 @@ I find it ironic, when a typical kid is in their "not now, I’m playing a game"
 
 Simplifying this a bit, we know that to be in a flow state, an activity must be *challenging*. If it is too easy, then the brain has no reason to waste extraneous mental cycles, as a positive outcome is already assured. If it is too difficult, the brain _still_ has no reason to try hard, because it knows it’s just going to fail anyway. The goal is to hit that sweet spot where the player can succeed… but only if they try hard. You’ll often see a graph that looks like this, to demonstrate:
 
+.Challenge Versus Skill in Flow States
 image:Level_7/czikszentmihalyi.jpg[alt="Czikszentmihalyi"]
 
 All this says is that if you have a high skill level and are given an easy task, you’re bored; if you have a low skill level and are given a difficult task, you’re frustrated; but if the challenge level of an activity is comparable to your current skill level… flow state! And this is good for games, because this is where a lot of the fun of games comes from.
