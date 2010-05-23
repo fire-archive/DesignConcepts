@@ -1,4 +1,4 @@
-= Game Design Concepts
+= Game Design Concepts: An Experiment in Game Design and Teaching
 :author: Ian Schreiber
 
 include::level_0.txt[]
