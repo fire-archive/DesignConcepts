@@ -59,7 +59,7 @@ This course has one required text, and two recommended texts that will be refere
 
 #### Recommended Texts
 
-*Understanding Comcs: The Invisible Art* by McCloud. While this book claims to be about comics, many of the lessons within can be applied to game design and other forms of art. It also happens to be a comic book itself, and fun to read.
+*Understanding Comics: The Invisible Art* by McCloud. While this book claims to be about comics, many of the lessons within can be applied to game design and other forms of art. It also happens to be a comic book itself, and fun to read.
 
 *A Theory of Fun for Game Design* by Koster. This book shows the similarities between game design and education, with a good discussion of the concept of Flow. Half text and half cartoons, this short book flows nicely and can be read in an afternoon or two.
 
