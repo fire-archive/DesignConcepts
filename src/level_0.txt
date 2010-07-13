@@ -69,62 +69,60 @@ The following syllabus is a reprinting of the syllabus as it appeared on the ori
 
 | Original Date | Topics Covered 
 | ------  | --------------------- 
-| M 6/29  | -   Overview of games and design 
-|         | -   Critical vocabulary: what is a game? 
+| M 6/29  | Overview of games and design 
+|         | Critical vocabulary: What is a game? 
 |
-| Th 7/2  | -   What is game design?
-|         | -   Iteration and rapid prototyping. 
+| Th 7/2  | What is game design?
+|         | Iteration and rapid prototyping. 
 |
-| M 7/6   | -   Formal elements of games 
+| M 7/6   | Formal elements of games 
 |
-| Th 7/9  | -   Overview of the game design process 
-|		      | -   Idea generation, brainstorming, and paper prototyping 
+| Th 7/9  | Overview of the game design process 
+|		      | Idea generation, brainstorming, and paper prototyping 
 |
-| M 7/13  | -   Mechanics and dynamics 
-|		      | -   Special dynamics: feedback loops, emergence and intentionality 
+| M 7/13  | Mechanics and dynamics 
+|		      | Special dynamics: Feedback loops, emergence and intentionality 
 |
-| Th 7/16 | -   Games and art 
+| Th 7/16 | Games and art 
 |
-| M 7/20  | -   Decision-making, types of decisions
-|         | -   Flow theory
+| M 7/20  | Decision-making, types of decisions
+|         | Flow theory
 |
-| Th 7/23 | -   Kinds of fun
-|         | -   Player types
+| Th 7/23 | Kinds of fun
+|         | Player types
 |
-| M 7/27  | -   Dramatic elements in games
-|         |
+| M 7/27  | Dramatic elements in games
+|         
+| Th 7/30 | Nonlinear storytelling
 |
-| Th 7/30 | -   Nonlinear storytelling
+| M 8/3   | Game design process in detail
+|         | Intro to the Design Project for this course
 |
-| M 8/3   | -   Game design process in detail
-|         | -   Intro to the Design Project for this course
+| Th 8/6  | Solo testing techniques
+|         | Design Project: Solo testing
 |
-| Th 8/6  | -   Solo testing techniques
-|         | -   Design Project: solo testing
+| M 8/10  | Designer testing techniques, critical analysis
+|         | Design Project: Designer testing
 |
-| M 8/10  | -   Designer testing techniques, critical analysis
-|         | -   Design Project: designer testing
+| Th 8/13 | Player testing techniques
+|         | Design Project: Player testing
 |
-| Th 8/13 | -   Player testing techniques
-|         | -   Design Project: player testing
+| M 8/17  | Blindtesting techniques
+|         | Design Project: Blindtesting
 |
-| M 8/17  | -   Blindtesting techniques
-|         | -   Design Project: Blindtesting
+| Th 8/20 | Game balance techniques
+|         | Design Project: Balancing
 |
-| Th 8/20 | -   Game balance techniques
-|         | -   Design Project: balancing
+| M 8/24  | User Interface design
+|         | Differences between digital and non-digital UI
 |
-| M 8/24  | -   User Interface design
-|         | -   Differences between digital and non-digital UI
+| Th 8/27 | Design Project: User Interface iteration
 |
-| Th 8/27 | -   Design Project: User Interface iteration
+| M 8/31  | Design Project: Final materials and presentation
+|         | Critical analysis of design projects
 |
-| M 8/31  | -   Design Project: final materials and presentation
-|         | -   Critical analysis of design projects
-|
-| Th 9/3  | -   Course summary
-|         | -   Next steps
-
+| Th 9/3  | Course summary
+|         | Next steps
 
 ### Schedule
 
