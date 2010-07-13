@@ -60,11 +60,11 @@ Also, it’s important to make distinctions between different games. Consider th
 
 The numbers 1 through 9 can be arranged in a 3x3 grid known as a "magic square" where every row, column and diagonal adds up to exactly 15.
 
-Table 1. Magic Square
-
-| 6 | 7 | 2
-| 1 | 5 | 9
-| 8 | 3 | 4
+| - | - | - |
+| 6 | 7 | 2 |
+| 1 | 5 | 9 |
+| 8 | 3 | 4 |
+[Magic Square]
 
 Now you may recognize it. It is the game of **Tic-Tac-Toe** (or **Noughts and Crosses** or several other names, depending on where you live). So, is Tic-Tac-Toe the same game as Three-to-Fifteen, or are they different games? (The answer is, it depends on what you mean… which is why it is important to define what a "game" is!)
 
