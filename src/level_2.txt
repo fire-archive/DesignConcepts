@@ -67,7 +67,7 @@ Historically, the first design methodology was known as the **waterfall** method
 
 ![Waterfall][]
 
-[Waterfall]: level_2_waterfall.pdf width=395px
+[Waterfall]: level_2_waterfall.pdf height=200px
 
 Waterfall is so named because, like water in a waterfall, you can only move in one direction. If you’re busy making the final art for the game and it occurs to you that one of the rules needs to change, too bad — the methodology does not include a way to go back to the design step once you are done.
 
@@ -75,7 +75,7 @@ At some point, someone figured out that it might be a good idea to at least have
 
 ![Iterative][]
 
-[Iterative]: level_2_iterative.pdf width=395px
+[Iterative]: level_2_iterative.pdf height=200px
 
 If this sounds familiar, it is because this is more or less the [Scientific Method](http://en.wikipedia.org/wiki/Scientific_method)
 
