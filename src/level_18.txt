@@ -1,18 +1,19 @@
-== Level 18: The Final Iteration [[level-18]]
 
-_Originally posted August 27, 2009_
+## Level 18: The Final Iteration
+
+*Originally posted August 27, 2009*
 
 We are nearing the end of this adventure, so if you are still here, you deserve some congratulations.
 
 At this point you have created a game. You have playtested your game multiple times, with multiple purposes (from fun to balance to usability). You have a list of materials that you need to assemble, and a list of things you must do to assemble them. All that is left in the Design Project is to complete it.
 
-=== Readings / Viewings
+### Readings / Viewings
 
 None.
 
-=== On Craftsmanship
+### On Craftsmanship
 
-One might wonder, why bother with assembling high-quality components for a game? The game is all about the mechanics, after all, and the game pieces are just a physical manifestation of the mechanics. Therefore, any pieces should be as good as any other. UI issues aside, why not just use the prototype you’ve been using and call _that_ the final project… handwritten cards and all?
+One might wonder, why bother with assembling high-quality components for a game? The game is all about the mechanics, after all, and the game pieces are just a physical manifestation of the mechanics. Therefore, any pieces should be as good as any other. UI issues aside, why not just use the prototype you’ve been using and call *that* the final project… handwritten cards and all?
 
 I have several responses to this.
 
@@ -20,63 +21,86 @@ First, if the pieces are a physical representation of the rules, you as the desi
 
 Second, you should take pride in your game. The physical pieces are as much a design statement as the rules. What the pieces say to a player is that the game designer felt that their game was high enough quality to deserve high-quality components. To use an analogy, if you are a chef and you’re making a simple peanut-butter sandwich, maybe you don’t mind eating off a flimsy paper plate; but if you’ve put together an elaborate nine-course gourmet dinner, find some better-quality plates to serve it on.
 
-Third, if you plan to eventually commercialize and sell your game, the quality of the components is one of the first things a prospective customer will see. Many Eurogames actually print a nice picture of the game components on the back of the box as a selling point. They are in essence saying, "if you buy this game, you will get these fine components." Even if you aren’t planning on selling the game you’re making _right now_, going through that process is good practice for future projects.
+Third, if you plan to eventually commercialize and sell your game, the quality of the components is one of the first things a prospective customer will see. Many Eurogames actually print a nice picture of the game components on the back of the box as a selling point. They are in essence saying, "if you buy this game, you will get these fine components." Even if you aren’t planning on selling the game you’re making *right now*, going through that process is good practice for future projects.
 
 Lastly, keep in mind that your game represents you as a designer. If you ignore the one thing that every player is going to see, what does that say about you? Does it suggest that you don’t care about your projects enough to put in some extra effort? Does it mean you don’t take pride in your own work? Does it mean you lack confidence? If you are planning to use this game (or another one) as part of your professional design portfolio, think about how it will appear to prospective schools or employers. For the same reason that you might dress up for a job interview, dress your game up before you release it.
 
-=== An Anti-Craftsmanship Aesthetic
+### An Anti-Craftsmanship Aesthetic
 
-You might press this even further. Some _commercial_ games were made with _intentionally_ poor production values. The first printing of http://www.boardgamegeek.com/boardgame/257[_Kill Doctor Lucky_] (and the rest of the games from the original publisher) had cards printed in one color on flimsy paper with just simple text and no art. The game didn’t even include common components like pawns or dice, and it was sold in a thin paper envelope with the rules printed right on the bag – there wasn’t even a separate printed manual. In the digital realm, http://www.kingdomofloathing.com/[_Kingdom of Loathing_] is an online browser game that uses badly-drawn stick figures for all of the game art. It’s as if these people aren’t even trying, and yet their games see many players. Why not just do that with your own game?
+You might press this even further. Some *commercial* games were made with *intentionally* poor production values. The first printing of [*Kill Doctor Lucky*](http://www.boardgamegeek.com/boardgame/257) (and the rest of the games from the original publisher) had cards printed in one color on flimsy paper with just simple text and no art. The game didn’t even include common components like pawns or dice, and it was sold in a thin paper envelope with the rules printed right on the bag – there wasn’t even a separate printed manual. In the digital realm, [*Kingdom of Loathing*](http://www.kingdomofloathing.com/) is an online browser game that uses badly-drawn stick figures for all of the game art. It’s as if these people aren’t even trying, and yet their games see many players. Why not just do that with your own game?
 
-I would argue that these games actually have very _high_ production values. Each offers a consistent visual aesthetic and a strong impact that is consistent with the values of the creator and the game mechanics.
+I would argue that these games actually have very *high* production values. Each offers a consistent visual aesthetic and a strong impact that is consistent with the values of the creator and the game mechanics.
 
-In the case of _Kill Doctor Lucky_, the whole _point_ of the entire line of games, in fact James Ernest’s _mission statement_, was that games were getting too expensive because they included all these extraneous components. Why bother paying an extra dollar for two dice when you’ve probably got dozens of dice lying around from other games you own? And sure, the cards are flimsy… but if you accidentally ruin them, oh well, go out and buy the game again. The game cost you less than that mocha latte you had at Starbucks this morning.
+In the case of *Kill Doctor Lucky*, the whole *point* of the entire line of games, in fact James Ernest’s *mission statement*, was that games were getting too expensive because they included all these extraneous components. Why bother paying an extra dollar for two dice when you’ve probably got dozens of dice lying around from other games you own? And sure, the cards are flimsy… but if you accidentally ruin them, oh well, go out and buy the game again. The game cost you less than that mocha latte you had at Starbucks this morning.
 
-With _Kingdom of Loathing_, the game is a parody of similar games. As a parody, the intentionally low-quality art style is a deliberate choice, standing in contrast to the focus on detailed visuals in other games. And any time that didn’t go into drawing stick figures went into the writing of the game, which is (frankly) of higher quality than many of the visually stunning games out there.
+With *Kingdom of Loathing*, the game is a parody of similar games. As a parody, the intentionally low-quality art style is a deliberate choice, standing in contrast to the focus on detailed visuals in other games. And any time that didn’t go into drawing stick figures went into the writing of the game, which is (frankly) of higher quality than many of the visually stunning games out there.
 
-So, if you have a game where "low" production values make sense – maybe you’re making a game about living in a trailer park, or a game about magpies where the object is to build a nest out of the shiniest junk, or something – then by all means, craft your game accordingly. But even in this case (or I should say, _especially_ in this case), make the quality and appearance of each component a _deliberate_ design decision. You’ll find that it may take more skill to pull this off in a way that looks genuine than it would to just make a game with standard high-quality components.
+So, if you have a game where "low" production values make sense – maybe you’re making a game about living in a trailer park, or a game about magpies where the object is to build a nest out of the shiniest junk, or something – then by all means, craft your game accordingly. But even in this case (or I should say, *especially* in this case), make the quality and appearance of each component a *deliberate* design decision. You’ll find that it may take more skill to pull this off in a way that looks genuine than it would to just make a game with standard high-quality components.
 
-=== Quick Tips
+### Quick Tips
 
 For printing cards:
 
 -   Print on heavy card stock, not standard printer paper.
+
 -   If you’re not printing in color, consider at least printing on colored card stock, choosing a color that matches the rest of your game.
+
 -   Make sure the cards are readable when printed. Sometimes they don’t print out exactly as they look on a computer screen.
+
 -   Use rounded rectangles to mark your cards in a print program, and then carefully cut them out on your own with scissors. Or, if you have a corner-cutter (available at most craft/hobby stores), use that and save yourself a lot of work. Rounded corners are gentler to hold; square corners can poke you uncomfortably.
+
 -   If you want to get really fancy, get the cards laminated (this means cutting the corners of the lamination instead of the card itself). This will make the card virtually indestructible and waterproof, although it can be expensive. As a less expensive alternative, some hobby stores sell spray-on plastic coating that will give your cards a similar feel to standard plastic-coated playing cards. Take care to apply the spray evenly so that your cards don’t have lumps or irregularities.
+
 -   Print cards double-sided if you can, with a standard card back. Note that the back is a mirror image of the front, so things that print on the left side of the back of the sheet will be printing over the right side of the front. Also, be very careful about double-sided printing, as even a minor offset on one side may make the entire sheet unusable. Try to get the two sides lined up exactly.
+
 
 For printing a board:
 
 -   Don’t just print on card stock alone. It feels flimsier than most game boards you’re used to. Try mounting it on flat cardboard, poster board, or foam core.
+
 -   If you have to cut cardboard or foam core to a specific size, try a test cut in a corner first. Some tools will not cut cleanly, but instead will leave the entire edge torn and jagged and ugly.
+
 -   Getting a large board printed on a single sheet of paper is expensive. Getting it printed on a vinyl banner is even more expensive. One low-cost alternative is to break up a large board on several standard sheets, then mount them on a firm backing. If you want to get fancier, instead of printing on normal paper, print on a full-sheet adhesive label. Then, you can just peel off the sheet and stick it on somewhere without having to worry about glue… but be careful when sticking it so that there are no creases.
+
 -   To make a foldable board, put two smaller boards near each other and tape them together with clear tape (such as mailing tape). Leave a little bit of space between them where there is just tape (this is where it will fold). Once you mount the actual game board on top, you might not even notice the tape.
+
 
 For making custom dice:
 
 -   Print on adhesive labels, cut them to size, and stick them over the faces of existing dice.
+
 -   Leave a little room at the end of each die face (in other words, cut the adhesive labels a little smaller than the actual dimensions of the die). This will avoid having little bits of paper sticking out around the edges.
+
 -   For standard dice (white background, black recessed dots), the black dots may show through even after you put a label over them. If this is the case, put an extra layer or two of blank adhesive label over the face first, before applying the final label on the outside. This will reduce or eliminate the visual effect.
+
 -   If you really want to get fancy, there are some game manufacturers that sell blank dice with recessed sides. These are ideal, because you can put adhesive stickers on them and not worry about the stickers rubbing off through repeated use. These can be hard to find, though.
+
 
 Coloring your pieces:
 
--   If you have a lot of blank wooden pieces (such as cubes or pawns) that you want to differentiate by color, the easiest way is to fill a bowl with water and a little bit of food dye, then soak the pieces and let them dry. I suggest doing this in two stages. First, do a test on a single piece per color, to see what they’ll look like (some colors may not show up as well as others, or you may find you need to soak them for more or less time; better to find this out _before_ you ruin your entire stock of pieces). Then, once you have something that works, repeat for all of the rest of the pieces at once.
+-   If you have a lot of blank wooden pieces (such as cubes or pawns) that you want to differentiate by color, the easiest way is to fill a bowl with water and a little bit of food dye, then soak the pieces and let them dry. I suggest doing this in two stages. First, do a test on a single piece per color, to see what they’ll look like (some colors may not show up as well as others, or you may find you need to soak them for more or less time; better to find this out *before* you ruin your entire stock of pieces). Then, once you have something that works, repeat for all of the rest of the pieces at once.
+
 -   You can also paint wooden pieces by hand, but it is far more time-consuming and tedious and the paint is a bit more expensive.
+
 -   If you have plastic pieces, the easiest thing to do is check your supplier to see if they naturally come in different colors already. Doing this by hand is not easy. If you find you must differentiate plastic pieces by hand, consider using small adhesive bands or dots instead of trying to color the plastic itself.
+
 -   If you have metal pieces and need to color them, paint is probably your best option. The same hobby stores that sell metal miniatures will probably also sell paints and other materials for you to paint them. Note that this can get very expensive and time-consuming, but if you’re using metal parts you were probably not concerned about cost in the first place.
+
 
 For printing your rules:
 
--   The rules _are_ the game, so don’t neglect these! Print on good-quality paper at the very least.
--   Consider if it is appropriate to "theme" your rules according to your game. For example, a game about trains might have rules laid out like a train schedule. A game about running a restaurant might have rules that are inserted into a plastic-shielded restaurant menu. A game about collecting classical artwork might have some art pieces displayed in the pages of the rules.
--   Make sure the font of the rules is readable. Don’t get too cute with custom fonts – doing this for headings is fine, but for the main text of the rules, remember that your players actually need to _read_ them.
--   And for the love of all that is holy, double- and triple-check your rules for spelling, grammar, and clarity of writing. You did this before, but do it again – this time it counts.
--   Also check your written rules to make sure they are _correct_. You’ve likely made a lot of changes to the mechanics of the game over the course of the project, and the last thing you’d want is to accidentally print out an old copy of the rules before you made several key changes!
+-   The rules *are* the game, so don’t neglect these! Print on good-quality paper at the very least.
 
-=== Everything is a Design Decision
+-   Consider if it is appropriate to "theme" your rules according to your game. For example, a game about trains might have rules laid out like a train schedule. A game about running a restaurant might have rules that are inserted into a plastic-shielded restaurant menu. A game about collecting classical artwork might have some art pieces displayed in the pages of the rules.
+
+-   Make sure the font of the rules is readable. Don’t get too cute with custom fonts – doing this for headings is fine, but for the main text of the rules, remember that your players actually need to *read* them.
+
+-   And for the love of all that is holy, double- and triple-check your rules for spelling, grammar, and clarity of writing. You did this before, but do it again – this time it counts.
+
+-   Also check your written rules to make sure they are *correct*. You’ve likely made a lot of changes to the mechanics of the game over the course of the project, and the last thing you’d want is to accidentally print out an old copy of the rules before you made several key changes!
+
+
+### Everything is a Design Decision
 
 If you just throw together a bunch of random components, that is a decision you made. If you hand-carved each component out of the branches of a tree in your backyard, that is also a deliberate decision. In short, everything you do for your game is a decision that you, as the designer, are responsible for.
 
@@ -84,22 +108,98 @@ So, make your decisions… but make them with both eyes open. Consider each comp
 
 Now, get out there and build the final version of your game.
 
-=== Homeplay
+### Homeplay
 
 I generally give my students in my classroom courses a single weekend to build everything. They do it, and they usually come to class on Monday very tired, reporting that they stayed up until 3am or later the night before just finishing everything.
 
-What they don’t say (although they _do_ grudgingly admit to it when pressed) is that the reason they stayed up so late was that they procrastinated. Looking at what has to be done to build your game, it probably seems like a pretty small task. Be warned that it will probably take a lot longer than you think to craft the final version.
+What they don’t say (although they *do* grudgingly admit to it when pressed) is that the reason they stayed up so late was that they procrastinated. Looking at what has to be done to build your game, it probably seems like a pretty small task. Be warned that it will probably take a lot longer than you think to craft the final version.
 
 But you can still finish it in a weekend.
 
-You have but one goal this weekend: *finish your Design Project*. Create a final version, using the best-quality components you can find.
+You have but one goal this weekend: **finish your Design Project**. Create a final version, using the best-quality components you can find.
 
-On Monday, if you have the means, *post your game to the course wiki*. I advise use of the wiki and not the forums, because the forums do not support images or file attachments. Here is what you should post:
+On Monday, if you have the means, **post your game to the course wiki**. I advise use of the wiki and not the forums, because the forums do not support images or file attachments. Here is what you should post:
 
 -   A brief introduction: who you are, title of your game, what your game is about (briefly).
--   A short creator statement: why did you choose to make _this_ game, what was your inspiration, where did you get your ideas?
+
+-   A short creator statement: why did you choose to make *this* game, what was your inspiration, where did you get your ideas?
+
 -   A file with the final rule set, including a list of all required components.
+
 -   If some of the components are custom-made (such as custom cards, dice or a board), include the computer files you used to print them (if any), and include printing instructions for any who wish to print their own copy of your game.
+
 -   If you have the means, take a picture of your final game components (perhaps set up as a game in progress, or perhaps just all lined up on a table together) and post the photo.
 
+
 Remember, you’re almost to the end! One final push of effort and you can stand back and examine something glorious that you made yourself.
+
+## Level 19: Game Criticism and Analysis
+
+*Originally posted August 31, 2009*
+
+If you have made it this far and kept up with the course in real time… then you have a strong will, and a lot of free time.
+
+Take a step back and look at what you have done. And realize that this is not the end of your journey, but the beginning.
+
+Today, we switch gears for a bit and turn our attention to game criticism. Why do we care the least about game reviews or critiques or game journalism or any other form of game writing? Because without the ability to analyze a game, we might make games and then be unable to discuss them amongst ourselves, and thus be unable to improve on them.
+
+A game designer does not have to be an expert critic (nor vice versa), but an understanding of how to critically analyze games is a useful skill to have. With this ability, a designer can learn more by playing other people’s games, figuring out what works and what doesn’t (and why), and applying those lessons to their own designs. It’s far cheaper to learn from *other* people’s mistakes than your own.
+
+### Readings / Viewings
+
+Read the following:
+
+-   [*Game Criticism, Why We Need It, and Why Reviews Aren’t It*](http://playthisthing.com/game-criticism-why-we-need-it-and-why-reviews-arent-it), by Greg Costikyan. I could write at length about the difference between a "game review" and a "game critique" but Greg has already done so, and far more succinctly and clearly than I could.
+
+
+### Critical Analysis
+
+I have mentioned before that an important game design skill to have is the ability to critically analyze *other* people’s games. I think about half of the reason why I am as far along as I am in my career, personally, is that I have the ability to play a game and offer direct constructive feedback that is useful to another designer. My usefulness to designers makes me friends in a lot of places, and I want you to have the same opportunity.
+
+Consider your own Design Project to be, if not finished, then at least "handed in" (if this were a normal class). Put it aside, and let us examine some other projects. It’s good practice, and it may even make you some friends that extend beyond this course.
+
+This time, we will follow a process that is a bit different than before. We are going to take off our game designer hats for a moment, and put on our *game critic* hats.
+
+### Review and Critique
+
+We don’t hear the words "game critic" very often. Especially with video games, more often we see "game reviewer." Review. Critique. Reviewer. Critic. Are these synonyms? What is the difference?
+
+As Costikyan points out, the difference is in the purpose of the writing. In short, a *reviewer* is aiding the consumer in making a buy-or-don’t-buy decision. A *critic* is writing about a game and why it is or is not important, or valuable, or what have you. Since we often hear the term "game journalism" as well, I would add that a *journalist* is writing about news in the field. Thus, a reviewer writing about *Settlers of Catan* might say that it is an excellent game that you should buy right now; a critic might write of its historical importance in bringing Eurogames to the US, or an analysis of its mechanics and how the game deals with minimizing player downtime, balancing luck and skill to make it accessible to all ages, and so on; and a journalist might write about a new game in the series getting released, or a new publisher getting the rights to the game, or the designer getting married to a famous celebrity, if any of those things ever happened.
+
+For game designers, it is critique that is the most important, because critique can directly inform our present and future designs.
+
+Not all critique falls into this category. A critique of *Chess* as a patriarchal game that pushes an anti-Feminist agenda would not be particularly useful if you’re just trying to design a compelling strategy game, *sans* social commentary. But another critique of the same game might speak of the mechanics and dynamics, what is effective and what is not, and how it all fits together to make the kind of game that has persisted for centuries. And *that* would be quite useful, wouldn’t you say?
+
+### Critical Analysis of a Game: The Process
+
+First, go to the course wiki and select any one game (other than yours). Feel free to browse the projects that are posted, looking at the brief descriptions and photos at the beginning, and pick one that looks like it might be interesting. **Do this even if you did not complete your own project yet.**
+
+Next, download the components. There should be enough there for you to build the game. You can make a quick-and-dirty paper prototype that contains all of the information, or you can print it out on simple paper. You can even follow the included instructions to assemble your own high-quality version, although this may take more time and money than you’re willing to spend right now.
+
+Next, read the rules and then play the game. You can try playing on your own if the mechanics allow it, or play with one or more friends if you get them together for one final playtest session. Play as a *designer*, paying attention to the mechanics, dynamics and aesthetics (in the MDA sense).
+
+Lastly, reflect on your play experience. What were the game’s apparent design goals? Did it succeed at those goals? Why or why not? What were the mechanics? What was the play experience? What is the relationship between the two? Did you find any strategies that were exploitable, or did the game seem well-balanced? What kinds of interesting decisions (and uninteresting ones) were you making throughout the game? What do you feel was the core of the game?
+
+Write this up. Include the following in your analysis:
+
+-   Name of the game and its designer (partly to get in the habit of giving credit where due, partly so that if you accidentally post in the wrong place it can be rerouted easily).
+
+-   Description of the core mechanics of the game. You do not have to reproduce the rules, but you should describe the basic play of the game and the main decisions players are making, as if the reader had not ever played the game before.
+
+-   Describe the MDA dynamics and aesthetics, and show how they emerge from the mechanics (or guess, if you aren’t sure).
+
+-   State the game’s design goals. What was the designer trying to do? Then, say whether you feel the game met those goals, and why or why not.
+
+-   If there was anything else of note in the game (such as a particular issue with game balance or a unique use of game components), say that.
+
+-   Lastly, if you were the designer, what would you change about the game (if anything)? Make specific recommendations. For example, don’t just say "I would make the game more interactive between players" or "I would fix the problem that I identified earlier" – say *how* you would fix things. What rules would change, and what would they change to? Would you change any game objects or values?
+
+
+Remember, your audience is other game designers. Write your analysis so that other designers can learn from the mistakes and successes of the game you chose. Your goal is to educate and inform, and to discover new lessons about what makes games work or not work. Your goal is not to give a review score.
+
+### Homeplay
+
+Post your critical analysis as a comment on the wiki. Go to the page of the game you chose, and leave a comment. I highly recommend writing out your analysis in something else like a word processor first, and then copying and pasting when you’re done. Do this on or before the end of the course (Sunday, September 6). You will not have any other homeplay this Thursday, so take your time on this and be thorough.
+
+You only need to do this for one game. If you *want* to provide feedback for more, feel free, but complete your original analysis first to make sure you’ll have enough time to do this for others.
+

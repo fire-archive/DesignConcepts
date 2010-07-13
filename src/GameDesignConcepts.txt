@@ -1,44 +1,46 @@
-= Game Design Concepts: An Experiment in Game Design and Teaching
-:author: Ian Schreiber
+metadata.txt
 
-include::level_0.txt[]
+# Everything.txt
 
-include::level_1.txt[]
+level_0.txt
 
-include::level_2.txt[]
+level_1.txt
 
-include::level_3.txt[]
+level_2.txt
 
-include::level_4.txt[]
+level_3.txt
 
-include::level_5.txt[]
+level_4.txt
 
-include::level_6.txt[]
+level_5.txt
 
-include::level_7.txt[]
+level_6.txt
 
-include::level_8.txt[]
+level_7.txt
 
-include::level_9.txt[]
+level_8.txt
 
-include::level_10.txt[]
+level_9.txt
 
-include::level_11.txt[]
+level_10.txt
 
-include::level_12.txt[]
+level_11.txt
 
-include::level_13.txt[]
+level_12.txt
 
-include::level_14.txt[]
+level_13.txt
 
-include::level_15.txt[]
+level_14.txt
 
-include::level_16.txt[]
+level_15.txt
 
-include::level_17.txt[]
+level_16.txt
 
-include::level_18.txt[]
+level_17.txt
 
-include::level_19.txt[]
+level_18.txt
 
-include::level_20.txt[]
+level_19.txt
+
+level_20.txt
+

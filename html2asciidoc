@@ -1,7 +1,0 @@
-#!/bin/bash
-
-for url in `cat urlList.txt`
-do 
-	filename=`python urlLast.py $url`
-	pandoc -s --no-wrap -f html -t markdown $url | python ConvertMarkdownAsciidoc.py > $filename.txt
-done
