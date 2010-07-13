@@ -1,6 +1,6 @@
 Title: Game Design Concepts: 
 Subtitle: An Experiment in Game Design and Teaching
-Author: Ian Schreiber
+Author: Written by Ian Schreiber and Typeset by Ernest Lee
 Date: September 3rd, 2009
 
 <!-- \setcounter{chapter}{-1} -->
