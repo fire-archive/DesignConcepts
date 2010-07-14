@@ -31,7 +31,7 @@ We can roughly classify different stories by their overall structure. The struct
 
 #### Linear Stories
 ![Linear Story ][]
-[Linear Story ]: level_10_story_linear.jpg
+[Linear Story ]: level_10_story_linear.pdf
 
 Linear stories are the traditional narrative, with some gameplay elements thrown in that do not affect the story. In this case, the story and gameplay must be separate entities, because the story has no choices and the gameplay must include decision-making of some kind (else it is just a story and not a game). They can be thematically linked, and the story may influence gameplay (perhaps when a certain pre-scripted story element happens, it causes a new gameplay effect to come into play), but the gameplay cannot influence the story because there is only one story.
 
@@ -41,7 +41,7 @@ Linear stories have the obvious disadvantage that, due to a lack of decisions, t
 
 #### Branching Stories
 ![Story Branching][]
-[Story Branching]: level_10_story_branching.jpg
+[Story Branching]: level_10_story_branching.jpg height=200px
 
 The first and most obvious thing to do to a linear story, if we want to add decisions, is to add choice points at various places. When the player reaches a certain point, they decide what to do, and then the story goes down one of several continuing paths until another choice point is reached. An example is the old-school *Phantasy Star III* for Sega Genesis; twice in the game, the main character is given a choice of which of two girls to marry (and then the story continues to the next generation of characters), leading to a total of four branches, each with its own story and its own ending.
 
@@ -177,7 +177,7 @@ McKee says that story is about forms, not formulas. Archetypes are forms; stereo
 "Villain" is an archetype. The Snidely Whiplash-esque, mustache-twirling, top-hat-and-black-cape-wearing, purely-mean-for-its-own-sake bad guy is a stereotype.
 
 ![Snidely Whiplash][]
-[Snidely Whiplash]: level_10_snidely_whiplash.png "Snidely Whiplash Villain Stereotype"
+[Snidely Whiplash]: level_10_snidely_whiplash.png "Snidely Whiplash Villain Stereotype" height=200px
 
 Archetypes are useful. They allow us to tell a story with believable characters that fit familiar forms. Stereotypes are overused, and typically make a story *less* believable because the audience has seen these same characters before from other stories, so they do not seem unique. Generally, avoid stereotypes, unless there is very good reason (such as if your story is a parody that is making fun of a particular character stereotype).
 
