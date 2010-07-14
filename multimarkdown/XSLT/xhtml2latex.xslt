@@ -728,7 +728,7 @@
 
 	<!-- images -->
 	<xsl:template match="html:img">
-		<xsl:text>\begin{figure}[]
+		<xsl:text>\begin{figure}[h!t]
 </xsl:text>
 		<xsl:text>\begin{center}
 </xsl:text>
