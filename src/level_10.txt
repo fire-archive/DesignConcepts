@@ -41,7 +41,7 @@ Linear stories have the obvious disadvantage that, due to a lack of decisions, t
 
 #### Branching Stories
 ![Story Branching][]
-[Story Branching]: level_10_story_branching.jpg height=200px
+[Story Branching]: level_10_story_branching.pdf height=200px
 
 The first and most obvious thing to do to a linear story, if we want to add decisions, is to add choice points at various places. When the player reaches a certain point, they decide what to do, and then the story goes down one of several continuing paths until another choice point is reached. An example is the old-school *Phantasy Star III* for Sega Genesis; twice in the game, the main character is given a choice of which of two girls to marry (and then the story continues to the next generation of characters), leading to a total of four branches, each with its own story and its own ending.
 
