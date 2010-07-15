@@ -14,9 +14,12 @@ Install texlive.
 
     $ sudo apt-get install texlive-latex-extra
 
-Run.
+Change into git directory.
 
     $ cd DesignConcepts
+
+Run.
+
     $ buildConcepts.sh
 
 Open pdf.
