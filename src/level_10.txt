@@ -53,7 +53,7 @@ To make things worse, note that a player that goes through the game once will ne
 
 #### Parallel Paths in Stories
 ![Story Parallel][]
-[Story Parallel]: level_10_story_parallel.jpg
+[Story Parallel]: level_10_story_parallel.pdf
 
 This is Bateman’s word for a branching story that collapses in on itself, allowing the player to make choices but then collapsing all of them eventually into several mandatory events. In *Silent Hill*, for example, there are several choices the player can make that may advance the story or reveal some additional story elements along the way, and these will influence the ending. However, there are certain events that the player is forced to encounter no matter what else they have or haven’t done.
 
@@ -67,7 +67,7 @@ And, we still have the problem that the player must replay through the entire ga
 
 #### Threaded Stories
 ![Story Threaded][]
-[Story Threaded]: level_10_story_threaded.jpg
+[Story Threaded]: level_10_story_threaded.pdf height=120px
 
 This is Bateman’s term to describe stories that are divided into small pieces, perhaps with several plot arcs going on at once that may or may not intersect. The player then chooses which paths to follow and in what order. One example of this is *World of Warcraft*, where the player can accept any of several quests to advance different elements of the story. Another example are the *Elder Scrolls* series of games (like *Morrowind* and *Oblivion*), where the player may follow certain storylines based on how they want to advance their character, and the player may find other quests or subplots that they choose to pursue (or not) along the way, and these subplots may or may not have their own effects on the main plot line.
 
@@ -83,7 +83,7 @@ Lastly, a threaded narrative runs the risk of confusing the player, if there are
 
 #### Dynamic Object-Oriented Narratives
 ![Story Dynamic][]
-[Story Dynamic]: level_10_story_dynamic.jpg
+[Story Dynamic]: level_10_story_dynamic.pdf
 
 This last structure is Bateman’s term that, as far as I can tell, he invented to describe the game [*Façade*](http://www.interactivestory.net/) (which you should absolutely download and play if you have not yet seen it). The idea is that there are several mini-stories, each with potentially several entry points and exit points. A single mini-story’s exit point may lead to a final ending, *or* to another mini-story. The mini-stories may be thought of as "chapters" in a book or "acts" in a play (except that you may not "read" all of the chapters or may read them in a different order, depending on the choices you make and how you exit each chapter).
 
