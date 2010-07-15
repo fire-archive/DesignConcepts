@@ -293,6 +293,8 @@ Post in the forum that most closely resembles your skill and experience level as
 
 Beginner, little or no experience prior to taking this course.
 
+<!-- \pagebreak[4] -->
+
 #### Intermediate
 
 ![Blue Square][]

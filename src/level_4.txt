@@ -308,6 +308,8 @@ Design a board-game adaptation of any video game. Post your complete rule set on
 
 As above, and once you’ve finished your design, make a playable prototype of the core systems in under an hour. On the forum, give a complete list of materials used.
 
+<!-- \pagebreak[4] -->
+
 #### Most Difficult
 
 ![Black Diamond][]

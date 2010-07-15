@@ -246,7 +246,9 @@ This game has no decisions whatsoever. The game mechanically plays itself, and t
 
 Change the rules so that the game outcome is determined primarily by **skill**, and that the game now has **interesting, meaningful decisions**.
 
-Post in the forum that most closely resembles your skill and experience level as a designer:
+Post in the forum that most closely resembles your skill and experience level as a designer.
+
+<!-- \pagebreak[4] -->
 
 #### Beginner
 
