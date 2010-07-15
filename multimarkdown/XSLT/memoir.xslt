@@ -74,6 +74,11 @@
 \makeindex
 
 \def\mychapterstyle{default}
+
+\addtopsmarks{headings}{}{
+	\createmark{chapter}{both}{nonumber}{}{. \space}
+}
+
 \def\mypagestyle{headings}
 \def\revision{}
 
