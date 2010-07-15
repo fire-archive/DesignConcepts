@@ -3,6 +3,7 @@ Subtitle: An Experiment in Game Design and Teaching
 Author: Written by Ian Schreiber and Typeset by Ernest Lee
 Date: September 3rd, 2009
 Chapterstyle: bringhurst
+Web: http://github.com/fire/DesignConcepts
 
 <!-- \setcounter{chapter}{-1} -->
 
