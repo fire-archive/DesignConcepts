@@ -8,7 +8,7 @@ Install git.
 
 Get repository.
 
-    $  git clone git@github.com:fire/DesignConcepts.git
+    $ git clone http://github.com/fire/DesignConcepts.git
 
 Install texlive.
 
@@ -20,7 +20,7 @@ Change into git directory.
 
 Run.
 
-    $ buildConcepts.sh
+    $ ./buildConcepts.sh
 
 Open pdf.
 
