@@ -2,6 +2,7 @@ Title: Game Design Concepts:
 Subtitle: An Experiment in Game Design and Teaching
 Author: Written by Ian Schreiber and Typeset by Ernest Lee
 Date: September 3rd, 2009
+Revision: 2010.7.16
 Chapterstyle: bringhurst
 Web: http://github.com/fire/DesignConcepts
 
