@@ -1,6 +1,5 @@
 metadata.txt
-
-# Everything.txt
+version.txt
 
 level_0.txt
 
