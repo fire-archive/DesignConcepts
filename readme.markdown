@@ -1,6 +1,6 @@
 # Compiling Pdf
 
-Open Ubuntu.
+Open Ubuntu console.
 
 Install git.
 
