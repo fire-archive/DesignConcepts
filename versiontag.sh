@@ -1,4 +1,4 @@
 version=$(cat ../version)
 hash=$(git rev-parse develop)
-echo Revision: $version Closest Commit: $hash "\n" > version.txt
+echo -e Revision: $version Closest Commit: $hash "\n" > version.txt
 
