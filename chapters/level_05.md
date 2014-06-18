@@ -2,7 +2,7 @@
 
 *Originally posted July 13, 2009*
 
-Until this point, we have made lots of games and game rules, but at no point have we examined what makes a *good* rule from a *bad* one. Nor have we really examined the different *kinds* of rules that form a game designer’s palette. Nor have we talked about the relationship between the game rules and the player experience. These are the things we examine today.
+Until this point, we have made lots of games and game rules, but at no point have we examined what makes a *good* rule from a *bad* one. Nor have we really examined the different *kinds* of rules that form a game designer's palette. Nor have we talked about the relationship between the game rules and the player experience. These are the things we examine today.
 
 ## Course Announcements
 
@@ -10,24 +10,24 @@ No major announcements today, but for your curiosity I did compile a list of twe
 
 -   "Reveal" was a common theme (such as, instead of firing a shot, give the number of Hits in a 3x3 square – thus turning the game from "what number am I thinking of" into "two-player competitive Minesweeper")
 
--   Skip a few turns for a larger shot (for example, skip 5 turns to hit everything in an entire 3x3 area). The original suggestion was an even number (skip 9 turns to nuke a 3x3 square) but note that there isn’t much of a functional difference between this and just taking one shot at a time.
+-   Skip a few turns for a larger shot (for example, skip 5 turns to hit everything in an entire 3x3 area). The original suggestion was an even number (skip 9 turns to nuke a 3x3 square) but note that there isn't much of a functional difference between this and just taking one shot at a time.
 
 -   Like *Go*, if you enclose an area with a series of shots, all squares in the enclosed area are immediately hit as well (this adds an element of risk-taking and short-term versus long-term tradeoffs to the game – do you try to block off a large area that takes many turns but has an efficient turn-to-squares-hit ratio, or do you concentrate on smaller areas that give you more immediate information but at the cost of taking longer in aggregate?)
 
--   When you miss but are in a square adjacent to an enemy ship, the opponent must declare it as a "near miss" (without telling you what direction the ship is in), which doesn’t exactly get around the guessing-game aspect of the original but should at least speed play by giving added information. Alternatively, with *any* miss, the opponent must give the distance in squares to the nearest ship (without specifying direction), which would allow for some deductive reasoning.
+-   When you miss but are in a square adjacent to an enemy ship, the opponent must declare it as a "near miss" (without telling you what direction the ship is in), which doesn't exactly get around the guessing-game aspect of the original but should at least speed play by giving added information. Alternatively, with *any* miss, the opponent must give the distance in squares to the nearest ship (without specifying direction), which would allow for some deductive reasoning.
 
 -   Skip (7-X) turns to rebuild a destroyed ship of size X. If the area in which you are building is hit in the meantime, the rebuild is canceled. (The original suggestion was skip X turns to rebuild a ship of size X, but smaller ships are actually more dangerous since they are harder to locate, so I would suggest an inverse relationship between size and cost.)
 
 -   Each time you sink an enemy ship, you can rebuild a ship of yours of the same size that was already sunk (this gives some back-and-forth, and suggests alternate strategies of scattering your early shots to give your opponent less room to rebuild)
 
--   Once per game, your Battleship (the size-4 ship) can hit a 5-square cross (+) shaped area in a single turn; using this also forces you to place a Hit on your own Battleship (note that this would also give away your Battleship’s location, so it seems more like a retaliatory move when your Battleship is almost sunk anyway)
+-   Once per game, your Battleship (the size-4 ship) can hit a 5-square cross (+) shaped area in a single turn; using this also forces you to place a Hit on your own Battleship (note that this would also give away your Battleship's location, so it seems more like a retaliatory move when your Battleship is almost sunk anyway)
 
 
 We will revisit some of these when we talk about the kinds of decisions that are made in a game, next Monday.
 
 ## Readings
 
-This week I’m trying something new and putting one of the readings up front, because I want you to look at this first, before reading the rest of this post.
+This week I'm trying something new and putting one of the readings up front, because I want you to look at this first, before reading the rest of this post.
 
 -   [*MDA Framework*](http://www.cs.northwestern.edu/~hunicke/MDA.pdf) by LeBlanc, Hunicke and Zabek. This is one of the few academic papers that achieved wide exposure within the game industry (it probably helps that the authors are experienced game designers). There are two parts of this paper that made it really influential. The first is the Mechanics/Dynamics/Aesthetics (MDA) conceptualization, which offers a way to think about the relationship of rules to player experience, and also the relationship between player and designer. The second part to pay attention to is the "8 kinds of fun" which we will return to a bit later in the course (Thursday of next week).
 
@@ -51,11 +51,11 @@ This is why game design is sometimes referred to as a **second-order design prob
 
 ## The Process of Play
 
-Designers start with the Mechanics and follow them as they grow outward into the Aesthetics. You can think of a game as a sphere, with the Mechanics at the core, the Dynamics surrounding them, and the Aesthetics on the surface, each layer growing out of the one inside it. One thing the authors of MDA point out is that this is *not* how games are experienced from the player’s point of view.
+Designers start with the Mechanics and follow them as they grow outward into the Aesthetics. You can think of a game as a sphere, with the Mechanics at the core, the Dynamics surrounding them, and the Aesthetics on the surface, each layer growing out of the one inside it. One thing the authors of MDA point out is that this is *not* how games are experienced from the player's point of view.
 
 A player sees the surface first – the Aesthetics. They may be *aware* of the Mechanics and Dynamics, but the thing that really makes an immediate impression and that is most easily understood is the Aesthetics. This is why, even with absolutely no knowledge or training in game design, *anyone* can play a game and tell you whether or not they are having a good time. They may not be able to articulate *why* they are having a good time or *what* makes the game "good" or "bad"… but anyone can tell you right away how a game makes them feel.
 
-If a player spends enough time with a game, they may learn to appreciate the Dynamics of the game and now their experience arises from them. They may realize that they do or don’t like a game because of the specific kinds of interactions they are having with the game and/or the other players. And if a player spends even more time with that game, they may eventually have a strong enough grasp of the Mechanics to see how the Dynamics are emerging from them.
+If a player spends enough time with a game, they may learn to appreciate the Dynamics of the game and now their experience arises from them. They may realize that they do or don't like a game because of the specific kinds of interactions they are having with the game and/or the other players. And if a player spends even more time with that game, they may eventually have a strong enough grasp of the Mechanics to see how the Dynamics are emerging from them.
 
 If a game is a sphere that is designed from the inside out, it is *played* from the outside in. And this, I think, is one of the key points of MDA. The designer creates the Mechanics and everything flows outward from that. The player experiences the Aesthetics and then their experience flows inward. As designers, we must be aware of **both** of these ways of interacting with a game. Otherwise, we are liable to create games that are fun for designers but not players.
 
@@ -79,9 +79,9 @@ This seems as good a time as any to quote game designer Sid Meier. His warning i
 
 Generally, adding additional mechanics, new systems, additional game objects, and new ways for objects to interact with one another (or for players to interact with the game) will lead to a greater complexity in the dynamics of the game. For example, compare *Chess* and *Checkers*. *Chess* has six kinds of pieces (instead of two) and a greater number of actions that each piece can take, so it ends up having more strategic depth.
 
-Is more complexity good, or bad? It depends. *Tetris* is a very simple but still very successful game. *Advanced Squad Leader* is an incredibly complex game, but still can be considered successful for what it is. Some games are so simple that they are not fun beyond a certain age, like *Tic-Tac-Toe*. Other games are too complex for their own good, and would be better if their systems were a bit more simplified and streamlined (I happen to think this about the board game *Agricola*; I’m sure you can provide examples from your own experience).
+Is more complexity good, or bad? It depends. *Tetris* is a very simple but still very successful game. *Advanced Squad Leader* is an incredibly complex game, but still can be considered successful for what it is. Some games are so simple that they are not fun beyond a certain age, like *Tic-Tac-Toe*. Other games are too complex for their own good, and would be better if their systems were a bit more simplified and streamlined (I happen to think this about the board game *Agricola*; I'm sure you can provide examples from your own experience).
 
-Do more complex mechanics *always* lead to more complex dynamics? No – there are some cases where very simple mechanics create extreme complexity (as is the case with *Chess*). And there are other cases where the mechanics are extremely complicated, but the dynamics are simple (imagine a modified version of the children’s card game *War* that did not just involve comparison of numbers, but lookups on complex "combat resolution" charts). The best way to gauge complexity, as you may have guessed, is to play the game.
+Do more complex mechanics *always* lead to more complex dynamics? No – there are some cases where very simple mechanics create extreme complexity (as is the case with *Chess*). And there are other cases where the mechanics are extremely complicated, but the dynamics are simple (imagine a modified version of the children's card game *War* that did not just involve comparison of numbers, but lookups on complex "combat resolution" charts). The best way to gauge complexity, as you may have guessed, is to play the game.
 
 ## Feedback Loops
 
@@ -119,7 +119,7 @@ Negative feedback loops are, predictably, the opposite of positive feedback loop
 
 As an example, consider a "Kart-style" racing game like *Mario Kart*. In racing games, play is more interesting if the player is in the middle of a pack of cars rather than if they are way out in front or lagging way behind on their own (after all, there is more interaction if your opponents are close by). As a result, the *de facto* standard in that genre of play is to add a negative feedback loop: as the player gets ahead of the pack, the opponents start cheating, finding better power-ups and getting impossible bursts of speed to help them catch up. This makes it more difficult for the player to maintain or extend a lead. This particular feedback loop is sometimes referred to as "rubber-banding" because the cars behave as if they are connected by rubber bands, pulling the leaders and losers back to the center of the pack.
 
-Likewise, the reverse is true. If the player falls behind, they will find better power-ups and the opponents will slow down to allow the player to catch up. This makes it more difficult for a player who is behind to fall further behind. Again, both of these are examples of *negative* feedback loops; "negative" refers to the fact that a dynamic becomes weaker with iteration, and has nothing to do with whether it has a positive or negative effect on the player’s standing in the game.
+Likewise, the reverse is true. If the player falls behind, they will find better power-ups and the opponents will slow down to allow the player to catch up. This makes it more difficult for a player who is behind to fall further behind. Again, both of these are examples of *negative* feedback loops; "negative" refers to the fact that a dynamic becomes weaker with iteration, and has nothing to do with whether it has a positive or negative effect on the player's standing in the game.
 
 Negative feedback loops also have three important properties:
 
@@ -147,7 +147,7 @@ Positive feedback loops can be quite useful. They end the game quickly when a pl
 
 Negative feedback loops can also be useful, for example to prevent a dominant early strategy and to keep players feeling like they always have a chance to win. On the other hand, they can also be frustrating, as players who do well early on can feel like they are being punished for succeeding, while also feeling like the players who lag behind are seemingly rewarded for doing poorly.
 
-What makes a particular feedback loop "good" or "bad" from a player perspective? This is debatable, but I think it is largely a matter of player perception of fairness. If it feels like the game is artificially intervening to help a player win when they don’t deserve it, it can be perceived negatively by players. How do you know how players will perceive the game? Playtest, of course.
+What makes a particular feedback loop "good" or "bad" from a player perspective? This is debatable, but I think it is largely a matter of player perception of fairness. If it feels like the game is artificially intervening to help a player win when they don't deserve it, it can be perceived negatively by players. How do you know how players will perceive the game? Playtest, of course.
 
 ## Eliminating Feedback Loops
 
@@ -162,23 +162,23 @@ The first is to shut off the feedback loop itself. All feedback loops (positive 
 -   An "activator" that modifies the game state when the comparator decides to do so.
 
 
-For example, in the earlier kart-racing negative feedback loop example, the "sensor" is how far ahead or behind the player is, relative to the rest of the pack; the "comparator" checks to see if the player is farther ahead or behind than a certain threshold value; and the "activator" causes the opposing cars to either speed up or slow down accordingly, if the player is too far ahead or behind. All of these may form a single mechanic ("If the player is more than 300 meters ahead of all opponents, multiply everyone else’s speed by 150%"). In other cases there may be three or more separate mechanics that cause the feedback loop, and changing any one of them will modify the nature of the loop.
+For example, in the earlier kart-racing negative feedback loop example, the "sensor" is how far ahead or behind the player is, relative to the rest of the pack; the "comparator" checks to see if the player is farther ahead or behind than a certain threshold value; and the "activator" causes the opposing cars to either speed up or slow down accordingly, if the player is too far ahead or behind. All of these may form a single mechanic ("If the player is more than 300 meters ahead of all opponents, multiply everyone else's speed by 150%"). In other cases there may be three or more separate mechanics that cause the feedback loop, and changing any one of them will modify the nature of the loop.
 
 By being aware of the mechanics causing a feedback loop, you can disrupt the effects by either removing the sensor, changing or removing the comparator, or modifying or removing the effect of the activator. Going back to our *The Guardian Legend* example (more points = more power-ups for the next level), you could deactivate the positive feedback loop by either modifying the sensor (measure something other than score… something that does not increase in proportion to how powered-up the player is), or changing the comparator (by changing the scores required so that later power-ups cost more and more, you can guarantee that even the best players will fall behind the curve eventually, leading to a more difficult end game), or changing the activator (maybe the player gets power-ups through a different method entirely, such as getting a specific set of power-ups at the end of each level, or finding them in the middle of levels).
 
-If you do not want to remove the feedback loop from the game but you do want to reduce its effects, an alternative is to add *another* feedback loop of the opposing type. Again returning to the kart-racing example, if you wanted to keep the "rubber-banding" negative feedback loop, you could add a positive feedback loop to counteract it. For example, if the opposing cars get speed boosts when the player is ahead, perhaps the player can go faster as well, leading to a case where being in the lead makes the entire race go faster (but not giving an advantage or disadvantage to anyone). Or maybe the player in the lead can find better power-ups to compensate for the opponents’ new speed advantage.
+If you do not want to remove the feedback loop from the game but you do want to reduce its effects, an alternative is to add *another* feedback loop of the opposing type. Again returning to the kart-racing example, if you wanted to keep the "rubber-banding" negative feedback loop, you could add a positive feedback loop to counteract it. For example, if the opposing cars get speed boosts when the player is ahead, perhaps the player can go faster as well, leading to a case where being in the lead makes the entire race go faster (but not giving an advantage or disadvantage to anyone). Or maybe the player in the lead can find better power-ups to compensate for the opponents' new speed advantage.
 
 ## Emergence
 
-Another dynamic that game designers should be aware of is called **emergent gameplay** (or **emergent complexity**, or simply **emergence**). I’ve found this is a difficult thing to describe in my classroom courses, so I would welcome other perspectives on how to teach it. Generally, emergence describes a game with simple mechanics but complex dynamics. "Emergent complexity" can be used to describe *any* system of this nature, even things that are not games.
+Another dynamic that game designers should be aware of is called **emergent gameplay** (or **emergent complexity**, or simply **emergence**). I've found this is a difficult thing to describe in my classroom courses, so I would welcome other perspectives on how to teach it. Generally, emergence describes a game with simple mechanics but complex dynamics. "Emergent complexity" can be used to describe *any* system of this nature, even things that are not games.
 
 Some examples of emergence from the world outside of games:
 
 -   In nature, insect colonies (such as ants and bees) show behavior that is so complex, it appears to be intelligent enough that we call it a "hive mind" (much to the exploitation of many sci-fi authors). In reality, each individual insect is following its own very simple set of rules, and it is only in aggregate that the colony displays complex behaviors.
 
--   [Conway’s Game of Life](http://en.wikipedia.org/wiki/Conway’s_Game_of_Life), though not actually a "game" by most of the definitions in this course, is a simple set of sequential rules for simulating cellular life on a square grid. Each cell is either "alive" or "dead" on the current turn. To progress to the next turn, all living cells that are adjacent to either zero or one other living cells are killed (from isolation), and living cells adjacent to four or more other living cells are also killed (from overcrowding); all dead cells adjacent to exactly three living cells are "born" and changed to living cells on the next turn; and any cell adjacent to exactly two living cells stays exactly as it is. Those are the only rules. You start with an initial setup of your choice, and then modify the board to see what happens. And yet, you can get incredibly complex behaviors: structures can move, mutate, spawn new structures, and any number of other things.
+-   [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life), though not actually a "game" by most of the definitions in this course, is a simple set of sequential rules for simulating cellular life on a square grid. Each cell is either "alive" or "dead" on the current turn. To progress to the next turn, all living cells that are adjacent to either zero or one other living cells are killed (from isolation), and living cells adjacent to four or more other living cells are also killed (from overcrowding); all dead cells adjacent to exactly three living cells are "born" and changed to living cells on the next turn; and any cell adjacent to exactly two living cells stays exactly as it is. Those are the only rules. You start with an initial setup of your choice, and then modify the board to see what happens. And yet, you can get incredibly complex behaviors: structures can move, mutate, spawn new structures, and any number of other things.
 
--   [Boid’s Algorithm](http://www.red3d.com/cwr/boids/), a way to simulate crowd and flocking behavior that is used in some CG-based movies as well as games. There are only three simple rules that individuals in a flock must each follow. First, if there are a lot of your companions on one side of you and few on the other, it means you’re probably at the edge of the flock; move towards your companions. Second, if you are close to your companions, give them room so you don’t crowd them. Third, adjust your speed and direction to be the average of your nearby companions. From these three rules you can get some pretty complex, detailed and realistic crowd behavior.
+-   [Boid's Algorithm](http://www.red3d.com/cwr/boids/), a way to simulate crowd and flocking behavior that is used in some CG-based movies as well as games. There are only three simple rules that individuals in a flock must each follow. First, if there are a lot of your companions on one side of you and few on the other, it means you're probably at the edge of the flock; move towards your companions. Second, if you are close to your companions, give them room so you don't crowd them. Third, adjust your speed and direction to be the average of your nearby companions. From these three rules you can get some pretty complex, detailed and realistic crowd behavior.
 
 Here are some examples of emergent gameplay:
 
@@ -190,9 +190,9 @@ Here are some examples of emergent gameplay:
 
 Why do we care about emergent dynamics? It is often desired for practical reasons, especially in the video game world, because you can get a lot of varied and deep gameplay out of relatively simple mechanics. In video games (and to a lesser extent, board games) it is the *mechanics* that must be implemented. If you are programming a video game, emergent gameplay gives you a great ratio of hours-of-gameplay to lines-of-code. Because of this apparent cost savings, "emergence" as a buzzword was all the rage a few years ago, and I still hear it mentioned from time to time.
 
-It’s important to note that emergence is not always planned for, and for that matter it is not always desirable. Here are two examples of emergence, both from the *Grand Theft Auto* series of games, where unintended emergent gameplay led to questionable results:
+It's important to note that emergence is not always planned for, and for that matter it is not always desirable. Here are two examples of emergence, both from the *Grand Theft Auto* series of games, where unintended emergent gameplay led to questionable results:
 
--   Consider these two rules. First, running over a pedestrian in a vehicle causes them to drop the money they are carrying. Second, hiring a prostitute refills the player’s health, but costs the player money. From these two unrelated rules, we get the emergent strategy that has been affectionately termed the "hooker exploit": sleep with a prostitute, then run her over to regain the money you spent. This caused a bit of a scandal in the press back in the day, from people who interpreted this dynamic as an intentional design that glorified violence against sex workers. Simply saying "it’s emergent gameplay!" is not sufficient to explain to a layperson why this was not intentional.
+-   Consider these two rules. First, running over a pedestrian in a vehicle causes them to drop the money they are carrying. Second, hiring a prostitute refills the player's health, but costs the player money. From these two unrelated rules, we get the emergent strategy that has been affectionately termed the "hooker exploit": sleep with a prostitute, then run her over to regain the money you spent. This caused a bit of a scandal in the press back in the day, from people who interpreted this dynamic as an intentional design that glorified violence against sex workers. Simply saying "it's emergent gameplay!" is not sufficient to explain to a layperson why this was not intentional.
 
 -   Perhaps more amusing was the combination of two other rules. First, if the player causes damage to an innocent bystander, the person will (understandably) defend themselves by attacking the player. Second, if a vehicle has taken sufficient damage, it will eventually explode, damaging everything in the vicinity (and of course, nearly killing the driver). These led to the following highly unrealistic scenario: a player, driving a damaged vehicle, crashes near a group of bystanders. The car explodes. The player crawls from the wreckage, barely alive… until the nearby crowd of "Samaritans" decides that the player damaged them from the explosion, and they descend in a group to finish the player off!
 
@@ -200,7 +200,7 @@ As you can see, emergence is not always a good thing. More to the point, it is n
 
 ## From Emergence to Intentionality
 
-Player intentionality, the concept from Church’s *Formal Abstract Design Tools* mentioned earlier in this course, is related in some ways to emergence. Generally, you get emergence by having lots of small, simple, interconnected systems. If the player is able to figure out these systems and use them to form complicated chains of events intentionally, that is one way to have a higher degree of player intention.
+Player intentionality, the concept from Church's *Formal Abstract Design Tools* mentioned earlier in this course, is related in some ways to emergence. Generally, you get emergence by having lots of small, simple, interconnected systems. If the player is able to figure out these systems and use them to form complicated chains of events intentionally, that is one way to have a higher degree of player intention.
 
 ## Another Reading
 
@@ -208,7 +208,7 @@ Player intentionality, the concept from Church’s *Formal Abstract Design Tools
 
 ## Lessons Learned
 
-The most important takeaway from today is that game design is not a trivial task. It is difficult, mainly because of the nature of MDA. The designer creates rules, which create play, which create the player experience. Every rule created has a doubly-indirect effect on the player, and this is hard to predict and control. This also explains why making one small rules change in a game can have ripple effects that drastically alter how the game is played. And yet, a designer’s task is to create a favorable player experience.
+The most important takeaway from today is that game design is not a trivial task. It is difficult, mainly because of the nature of MDA. The designer creates rules, which create play, which create the player experience. Every rule created has a doubly-indirect effect on the player, and this is hard to predict and control. This also explains why making one small rules change in a game can have ripple effects that drastically alter how the game is played. And yet, a designer's task is to create a favorable player experience.
 
 This is why playtesting is so important. It is the most effective way to gauge the effects of rules changes when you are uncertain.
 
@@ -216,27 +216,27 @@ This is why playtesting is so important. It is the most effective way to gauge t
 
 Today we will practice iterating on an existing design, rather than starting from scratch. I want you to see first-hand the effects on a game when you change the mechanics.
 
-Here are the rules for a simplified variant of the dice game called *Bluff* (also called *Liar’s Dice*, but known to most people as *that weird dice game that they played in the second Pirates of the Caribbean movie*):
+Here are the rules for a simplified variant of the dice game called *Bluff* (also called *Liar's Dice*, but known to most people as *that weird dice game that they played in the second Pirates of the Caribbean movie*):
 
 -   Players: 2 or more, best with a small group of 4 to 6.
 
 -   Objective: Be the last player with any dice remaining.
 
--   Setup: All players take 5 six-sided dice. It may also help if each player has something to hide their dice with, such as an opaque cup, but players may just shield their dice with their own hands. All players roll their dice, in such a way that each player can see their own dice but no one else’s. Choose a player to go first. That player must make a bid:
+-   Setup: All players take 5 six-sided dice. It may also help if each player has something to hide their dice with, such as an opaque cup, but players may just shield their dice with their own hands. All players roll their dice, in such a way that each player can see their own dice but no one else's. Choose a player to go first. That player must make a bid:
 
--   Bids: A "bid" is a player’s guess as to how many dice are showing a certain face, *among all players*. Dice showing the number 1 are "wild" and count as *all* other numbers. You cannot bid any number of 1s, only 2s through 6s. For example, "three 4s" would mean that between every player’s dice, there are *at least* three dice showing the number 1 or 4.
+-   Bids: A "bid" is a player's guess as to how many dice are showing a certain face, *among all players*. Dice showing the number 1 are "wild" and count as *all* other numbers. You cannot bid any number of 1s, only 2s through 6s. For example, "three 4s" would mean that between every player's dice, there are *at least* three dice showing the number 1 or 4.
 
 -   Increasing a bid: To raise a bid, the new bid must be *higher* than the previous. Increasing the number of dice is *always* a higher bid, regardless of rank (nine 2s is a higher bid than eight 6s). Increasing the rank is a higher bid if the number of dice is the *same or higher* (eight 6s is a higher bid than eight 5s, both of which are higher than eight 4s).
 
--   Progression of Play: On a player’s turn, that player may either raise the current bid, or if they think the most recent bid is incorrect, they can challenge the previous bid. If they raise the bid, play passes to the next player in clockwise order. If they challenge, the current round ends; all players reveal their dice, and the result is resolved.
+-   Progression of Play: On a player's turn, that player may either raise the current bid, or if they think the most recent bid is incorrect, they can challenge the previous bid. If they raise the bid, play passes to the next player in clockwise order. If they challenge, the current round ends; all players reveal their dice, and the result is resolved.
 
 -   Resolution of a round: If a bid is challenged but found to be correct (for example, if the bid was "nine 5s" and there are actually eleven 1s and 5s among all players, so there were indeed at least nine of them), the player who challenged the bid loses one of their dice. On subsequent rounds, that player will then have fewer dice to roll. If the bid is challenged *correctly* (suppose on that bid of "nine 5s" there were actually only eight 1s and 5s among all players), the player who made the incorrect bid loses one of their dice instead. Then, all players re-roll all of their remaining dice, and play continues with a new opening bid, starting with the player who won the previous challenge.
 
 -   Game resolution: When a player has lost all of their dice, they are eliminated from the game. When all players (except one) have lost all of their dice, the one player remaining is the winner.
 
-If you don’t have enough dice to play this game, you can use a variant: dealing cards from a deck, for example, or drawing slips of paper numbered 1 through 6 out of a container with many such slips of paper thrown in.
+If you don't have enough dice to play this game, you can use a variant: dealing cards from a deck, for example, or drawing slips of paper numbered 1 through 6 out of a container with many such slips of paper thrown in.
 
-If you don’t have any friends, spend some time finding them. It will make it much easier for you to playtest your projects later in this course if you have people who are willing to play games with you.
+If you don't have any friends, spend some time finding them. It will make it much easier for you to playtest your projects later in this course if you have people who are willing to play games with you.
 
 At any rate, your first "assignment" here is to **play the game**. Take particular note of the dynamics and how they emerge from the mechanics. Do you see players bluffing, calling unrealistically high numbers in an effort to convince their opponents that they have more of a certain number than they actually do? Are players hesitant to challenge, knowing that any challenge is a risk and it is therefore safer to *not* challenge as long as you are not challenged yourself? Do any players calculate the odds, and use that information to influence their bid? Do you notice any feedback loops in the game as play progresses – that is, as a player starts making mistakes and losing dice, are they *more* or *less* likely to lose again in future rounds, given that they receive fewer dice and therefore have less information to bid on?
 
@@ -244,7 +244,7 @@ Okay, that last question kind of gave it away – yes, there is a positive feedb
 
 Your next step is to **add, remove, or change one rule in order to remove the effect of the positive feedback loop**. Why did you choose the particular change that you did? What do you expect will happen – how will the dynamics change in response to your modified mechanic? Write down your prediction.
 
-Then, **play the game again** with your rules modification. Did it work? Did it have any other side effects that you didn’t anticipate? How did the dynamics *actually* change? Be honest, and don’t be afraid if your prediction wasn’t accurate. The whole *point* of this is so you can see for yourself how hard it is to predict gameplay changes from a simple rules change, without actually playing.
+Then, **play the game again** with your rules modification. Did it work? Did it have any other side effects that you didn't anticipate? How did the dynamics *actually* change? Be honest, and don't be afraid if your prediction wasn't accurate. The whole *point* of this is so you can see for yourself how hard it is to predict gameplay changes from a simple rules change, without actually playing.
 
 Next, **share what you learned** with the community. [I have created a new page on the course Wiki](http://gamedesignconcepts.pbworks.com/L5-Homeplay). On that page, write the following:
 
@@ -254,9 +254,9 @@ Next, **share what you learned** with the community. [I have created a new page 
 
 3.  How did they *really* change?
 
-You don’t need to include much detail; a sentence or two for each of the three points is fine.
+You don't need to include much detail; a sentence or two for each of the three points is fine.
 
-Finally, your last assignment (this is mandatory!) is to **read at least three other responses**. Read the rules change first, and without reading further, ask yourself how you think that rule change would modify gameplay. Then read the other person’s prediction, and see if it matches yours. Lastly, read what actually happened, and see how close you were.
+Finally, your last assignment (this is mandatory!) is to **read at least three other responses**. Read the rules change first, and without reading further, ask yourself how you think that rule change would modify gameplay. Then read the other person's prediction, and see if it matches yours. Lastly, read what actually happened, and see how close you were.
 
 You may leave your name, or you may post anonymously.
 

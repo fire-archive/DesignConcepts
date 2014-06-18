@@ -10,7 +10,7 @@ Some administrative things that have come up since Monday:
 
 -   First, I would like to apologize to those who are registered for the misbehavior of the [wiki](http://gamedesignconcepts.pbworks.com/). It was sending out hourly announcements of updates… and there were a lot of updates! I have attempted to turn off these updates, so you should hopefully not receive any more "wiki-spam" but if you do, you can shut it off manually by going to your own settings and changing notifications to "Never."
 
--   As of 5am GMT this morning, the [discussion forums](http://gamedesignconcepts.aceboard.com/) are set up and operational. I look forward to seeing some really great discussion. There were quite a few spambots that tried to register, so I had to check every forum account against course registrations. If you got an email that your account was rejected, it just means I was unable to match it up to a course registration; please try again. If you have not yet created a forum account, you can make it easiest for me by using the same email on the forums that you used to register for this course… and if you’re unwilling to do that, at least put some kind of identifying information in there (like your name and location) so I can find you in the list. Thank you.
+-   As of 5am GMT this morning, the [discussion forums](http://gamedesignconcepts.aceboard.com/) are set up and operational. I look forward to seeing some really great discussion. There were quite a few spambots that tried to register, so I had to check every forum account against course registrations. If you got an email that your account was rejected, it just means I was unable to match it up to a course registration; please try again. If you have not yet created a forum account, you can make it easiest for me by using the same email on the forums that you used to register for this course… and if you're unwilling to do that, at least put some kind of identifying information in there (like your name and location) so I can find you in the list. Thank you.
 
 -   Lastly, to those of you who sent in a registration email after the course started (that is, if your email was timestamped after Monday, noon GMT), I apologize for not being able to add you after the fact. Registration emails have taken a lot of my time prior to the start of the course, and if I accept late registrations I will not have the time to do other things for the course. Whether you are registered or not, this blog is free and open to the public (as is the [Twitter feed](https://twitter.com/#search?q=%23GDCU)), and I hope you do still follow along and get a lot out of the experience.
 
@@ -34,13 +34,13 @@ System design is about defining the basic rules of the game. What are the pieces
 -   Rules for resolution. What, if anything, causes the game to end? If the game has an outcome (such as winning or losing), how is that outcome determined?
 
 
-If you look back at *Three-to-Fifteen* from Monday, you’ll notice those very simple rules contain all of these parts. The creation of those rules is system design, and that is what we will be spending most of our time with over this summer.
+If you look back at *Three-to-Fifteen* from Monday, you'll notice those very simple rules contain all of these parts. The creation of those rules is system design, and that is what we will be spending most of our time with over this summer.
 
 ## What is a Game Designer?
 
-As you may have noticed, game design is an incredibly broad field. Those of us who are professional designers sometimes have trouble explaining what we do to our families and friends. Part of the reason for this is that we do so many things. Here are some analogies I’ve seen when trying to explain what it is like to be a game designer:
+As you may have noticed, game design is an incredibly broad field. Those of us who are professional designers sometimes have trouble explaining what we do to our families and friends. Part of the reason for this is that we do so many things. Here are some analogies I've seen when trying to explain what it is like to be a game designer:
 
--   Game designers are **artists**. The term "art" is just as difficult to define as the word "game"… but if games can be a form of art (as we saw in Costikyan’s definition, at least), then designers would be artists.
+-   Game designers are **artists**. The term "art" is just as difficult to define as the word "game"… but if games can be a form of art (as we saw in Costikyan's definition, at least), then designers would be artists.
 
 -   Game designers are **architects**. Architects do not build physical structures; they create blueprints. Video game designers also create "blueprints" which are referred to as "design docs." Board game designers create "blueprints" as well — in the form of prototypes — which are then mass-produced by publishers.
 
@@ -67,7 +67,7 @@ Historically, the first design methodology was known as the **waterfall** method
 
 ![Waterfall](images/level_2_waterfall.pdf)
 
-Waterfall is so named because, like water in a waterfall, you can only move in one direction. If you’re busy making the final art for the game and it occurs to you that one of the rules needs to change, too bad — the methodology does not include a way to go back to the design step once you are done.
+Waterfall is so named because, like water in a waterfall, you can only move in one direction. If you're busy making the final art for the game and it occurs to you that one of the rules needs to change, too bad — the methodology does not include a way to go back to the design step once you are done.
 
 At some point, someone figured out that it might be a good idea to at least have the *option* of going back and fixing things in earlier steps, and created what is sometimes known as the **iterative** approach. As with waterfall, you first design the game, then implement it, and then make sure it works. But after this you add an extra step of evaluating the game. Play it, decide what is good and what needs to change. And then, make a decision: are you done, or should you go back to the design step and make some changes? If you decide the game is good enough, then that is that. But if you identify some changes, you now go back to the design step, find ways to address the identified problems, implement those changes, and then evaluate again. Continue doing this until the game is ready.
 
@@ -79,9 +79,9 @@ If this sounds familiar, it is because this is more or less the [Scientific Meth
 
 2.  Make a hypothesis. ("I think that this particular set of rules I am writing will make a fun game.")
 
-3.  Create an experiment to prove or disprove the hypothesis. ("Let’s organize a playtest of this game and see if it is fun or not.")
+3.  Create an experiment to prove or disprove the hypothesis. ("Let's organize a playtest of this game and see if it is fun or not.")
 
-4.  Perform the experiment. ("Let’s play!")
+4.  Perform the experiment. ("Let's play!")
 
 5.  Interpret the results of the experiment, forming a new set of observations. Go back to the first step.
 
@@ -95,7 +95,7 @@ Therefore, any game design process should involve iterating (that is, going thro
 
 ## Iteration and Risk
 
-Games have many kinds of risk associated with them. There is **design risk**, the risk that the game will not be fun and people won’t like it. There is **implementation risk**, the possibility that the development team will not be able to build the game at all, even if the rules are solid. There is **market risk**, the chance that the game will be wonderful and no one will buy it anyway. And so on.
+Games have many kinds of risk associated with them. There is **design risk**, the risk that the game will not be fun and people won't like it. There is **implementation risk**, the possibility that the development team will not be able to build the game at all, even if the rules are solid. There is **market risk**, the chance that the game will be wonderful and no one will buy it anyway. And so on.
 
 The purpose of iteration is to lower design risk. The more times you iterate, the more you can be certain that the rules of your game are effective.
 
@@ -105,7 +105,7 @@ That said, most game designers have aspirations of making games that are new, cr
 
 ## Why This Course is Non-Digital…
 
-Some of you would rather make board games anyway, so you don’t care how video games are made. But for those of you who would love to make video games, you may have wondered why we will be spending so much time making board and card games in this course. Now you know: it is because iteration is faster and cheaper with cardboard. Remember from Monday: you can make a board game in 15 minutes. Coding that game will take significantly longer. When possible, prototype on paper first, because a 15-minute paper prototype and an hour-long playtest session can save you months of programming work.
+Some of you would rather make board games anyway, so you don't care how video games are made. But for those of you who would love to make video games, you may have wondered why we will be spending so much time making board and card games in this course. Now you know: it is because iteration is faster and cheaper with cardboard. Remember from Monday: you can make a board game in 15 minutes. Coding that game will take significantly longer. When possible, prototype on paper first, because a 15-minute paper prototype and an hour-long playtest session can save you months of programming work.
 
 Later in this course, we will discuss in detail methods of paper prototyping, both for traditional board games and also for various types of video games.
 
@@ -113,13 +113,13 @@ There is another reason why we will concentrate primarily on non-digital games t
 
 This is not as true in video games. Many video games have impressive technology (such as realistic physics engines) and graphics and sound, which can obscure the fact that the gameplay is stale. Video games also take much longer to make (due to programming and art/audio asset creation), making them an impractical choice for a ten-week course.
 
-The connection between rules and player experience is also muddied in tabletop role-playing games. I realize that many of you have expressed an interest primarily in RPG design, so this may seem strange to you. However, keep in mind that an RPG is essentially a collaborative story-telling exercise (with a rules system in place to set boundaries for what can and can’t happen). As such, a wonderful system can be ruined by players who have poor story-telling and improv skills, and a weak system can be salvaged by skillful players. As such, we will stay away from these game genres, at least in the early stages.
+The connection between rules and player experience is also muddied in tabletop role-playing games. I realize that many of you have expressed an interest primarily in RPG design, so this may seem strange to you. However, keep in mind that an RPG is essentially a collaborative story-telling exercise (with a rules system in place to set boundaries for what can and can't happen). As such, a wonderful system can be ruined by players who have poor story-telling and improv skills, and a weak system can be salvaged by skillful players. As such, we will stay away from these game genres, at least in the early stages.
 
 ## Trying it out
 
-Take that 15-minute game you made last time, and play it, if you haven’t already. As you are playing, ask yourself: is this more fun or less fun than playing your favorite published games? Why? What could you change about your game to make it better? You do not have to play the game to completion, but only for as long as it takes you to get the overall feeling of what it is like to play.
+Take that 15-minute game you made last time, and play it, if you haven't already. As you are playing, ask yourself: is this more fun or less fun than playing your favorite published games? Why? What could you change about your game to make it better? You do not have to play the game to completion, but only for as long as it takes you to get the overall feeling of what it is like to play.
 
-Then, after playing once, make at least one change. Maybe you’ll change the rules for movement, or add a new way for players to interact. Maybe you’ll change some of the spaces on the board. Whatever you do, for whatever reason, make a change and then play again. Note the differences. Has the change made the game better, or worse? Has this one change made you think of additional changes you could make? If the game got worse, would you just change the rule back, or would you change it again in a different way?
+Then, after playing once, make at least one change. Maybe you'll change the rules for movement, or add a new way for players to interact. Maybe you'll change some of the spaces on the board. Whatever you do, for whatever reason, make a change and then play again. Note the differences. Has the change made the game better, or worse? Has this one change made you think of additional changes you could make? If the game got worse, would you just change the rule back, or would you change it again in a different way?
 
 We will be looking at the playtest process in detail later in this course. For now, I just want everyone to get over that fear: "what if I play my game and it sucks?" With the game you designed on Monday, the odds are very high that your game *does* suck (seriously, did you expect to make the next *Gears of War* in 15 minutes?). This does not make you a "bad designer" by any means — but it should make it clear that the more time you put into a game and the more iterations you make, the better it gets.
 
@@ -135,10 +135,10 @@ This has two corollaries:
 
 ## Homeplay
 
-Before next Monday, read the following. I will be referencing these in Monday’s content when we talk about the formal elements of games:
+Before next Monday, read the following. I will be referencing these in Monday's content when we talk about the formal elements of games:
 
 -   *Challenges for Game Designers*, Chapter 2 (Atoms). This will act as a bridge between last Monday when we talked about a critical vocabulary, and next Monday when we will start breaking down the concept of a "game" into its component parts.
 
--   [*Formal Abstract Design Tools*](http://www.gamasutra.com/features/19990716/design_tools_01.htm), by Doug Church. This article builds on Costikyan’s *I Have No Words*, offering some additional tools by which we can analyze and design games. While he does use many examples from video games, think about how the core concepts in the article can apply to other kinds of games as well.
+-   [*Formal Abstract Design Tools*](http://www.gamasutra.com/features/19990716/design_tools_01.htm), by Doug Church. This article builds on Costikyan's *I Have No Words*, offering some additional tools by which we can analyze and design games. While he does use many examples from video games, think about how the core concepts in the article can apply to other kinds of games as well.
 
 

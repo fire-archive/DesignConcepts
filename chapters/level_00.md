@@ -2,7 +2,7 @@
 
 *Originally posted March 31, 2009 and April 21, 2009*
 
-My name is Ian Schreiber. I’ve been working in the video game industry since the turn of the millennium, first as a programmer and then as a game designer. I’ve taught college classes in game design since Fall 2006. For any other information, you can Google me.
+My name is Ian Schreiber. I've been working in the video game industry since the turn of the millennium, first as a programmer and then as a game designer. I've taught college classes in game design since Fall 2006. For any other information, you can Google me.
 
 ## What is this book?
 
@@ -29,7 +29,7 @@ In this class, we will discuss games and game design. We will discover what the 
 
 ## Student Learning Outcomes
 
-By the end of this course, you will be familiar with the (relatively small) body of work that is accepted in the game industry as the theoretical foundation of game design. You will also be comfortable enough in processes to start designing your own games, as well as critically analyzing other people’s games.
+By the end of this course, you will be familiar with the (relatively small) body of work that is accepted in the game industry as the theoretical foundation of game design. You will also be comfortable enough in processes to start designing your own games, as well as critically analyzing other people's games.
 
 ## Why Are You Doing This?
 
@@ -46,7 +46,7 @@ The book is free. There are some minor costs:
 
 -   There is a required textbook. It retails for under $25 US.
 
--   Part of the course will involve the creation of a fully realized non-digital project, so you may need to purchase materials. These usually range from $25 to $50, depending on the game.It’s still cheaper than college tuition.
+-   Part of the course will involve the creation of a fully realized non-digital project, so you may need to purchase materials. These usually range from $25 to $50, depending on the game.It's still cheaper than college tuition.
 
 
 ## Textbooks
