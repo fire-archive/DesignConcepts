@@ -270,8 +270,7 @@ With that said, here is an activity that I hope you will find fun. It is based o
 
 Here’s how it works. First, choose your difficulty level based on your previous experience with game design. Skiiers may find this familiar:
 
-![Different Difficulty Symbols][]
-[Different Difficulty Symbols]: level_3_skiing_symbols.pdf height=100px
+![Different Difficulty Symbols](images/level_3_skiing_symbols.pdf)
 
 Here is your challenge:
 
@@ -279,22 +278,19 @@ Most war-themed games have an objective of either territorial control or capture
 
 #### Easier
 
-![Green Circle][]
-[Green Circle]: green_circle.pdf width=65px
+![Green Circle](images/green_circle.pdf)
 
 The theme must relate to **World War I**. The primary objective of players cannot be territorial control, or capture/destroy.
 
 #### More Difficult
 
-![Blue Square][]
-[Blue Square]: blue_square.pdf width=65px
+![Blue Square](images/blue_square.pdf)
 
 You cannot use territorial control or capture/destroy as game dynamics. That is, your game is not allowed to contain the concepts of territory or death in any form.
 
 #### Most Difficult
 
-![Black Diamond][]
-[Black Diamond]: black_diamond.pdf width=65px
+![Black Diamond](images/black_diamond.pdf)
 
 As above, and the players may not engage in direct conflict, only indirect.
 

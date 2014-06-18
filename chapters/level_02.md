@@ -65,17 +65,13 @@ How is a game designed? There are many methods.
 
 Historically, the first design methodology was known as the **waterfall** method: first you design the entire game on paper, then you implement it (using programming in a video game, or creating the board and pieces for a non-digital game), then you test it to make sure the rules work properly, add some graphical polish to make it look nice, and then you ship it.
 
-![Waterfall][]
-
-[Waterfall]: level_2_waterfall.pdf height=200px
+![Waterfall](images/level_2_waterfall.pdf)
 
 Waterfall is so named because, like water in a waterfall, you can only move in one direction. If you’re busy making the final art for the game and it occurs to you that one of the rules needs to change, too bad — the methodology does not include a way to go back to the design step once you are done.
 
 At some point, someone figured out that it might be a good idea to at least have the *option* of going back and fixing things in earlier steps, and created what is sometimes known as the **iterative** approach. As with waterfall, you first design the game, then implement it, and then make sure it works. But after this you add an extra step of evaluating the game. Play it, decide what is good and what needs to change. And then, make a decision: are you done, or should you go back to the design step and make some changes? If you decide the game is good enough, then that is that. But if you identify some changes, you now go back to the design step, find ways to address the identified problems, implement those changes, and then evaluate again. Continue doing this until the game is ready.
 
-![Iterative][]
-
-[Iterative]: level_2_iterative.pdf height=200px
+![Iterative](images/level_2_iterative.pdf)
 
 If this sounds familiar, it is because this is more or less the [Scientific Method](http://en.wikipedia.org/wiki/Scientific_method)
 
@@ -95,8 +91,7 @@ In general, **the more times you iterate, the better your final game will be.**
 
 Therefore, any game design process should involve iterating (that is, going through an entire cycle of designing, implementing and evaluating) as much as possible, and anything you can do that lets you iterate faster will usually lead to a better game in the end. Because of this, video game designers will often prototype on paper first, and then only get the programmers involved when they are confident that the core rules are fun. We call this **rapid prototyping**.
 
-![Iterative Rapid Prototyping][]
-[Iterative Rapid Prototyping]: level_2_iterative_with_rapid_prototyping.pdf 
+![Iterative Rapid Prototyping](images/level_2_iterative_with_rapid_prototyping.pdf)
 
 ### Iteration and Risk
 

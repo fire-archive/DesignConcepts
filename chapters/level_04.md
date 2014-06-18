@@ -1,4 +1,3 @@
-
 ## Level 4: The Early Stages of the Design Process
 
 *Originally posted July 9, 2009*
@@ -296,15 +295,13 @@ Do Challenge 4-1 in the text. It does not have to be an Activision/Blizzard game
 
 #### Easier
 
-![Green Circle][]
-[Green Circle]: green_circle.pdf width=65px
+![Green Circle](images/green_circle.pdf)
 
 Design a board-game adaptation of any video game. Post your complete rule set on the forums. Include a list of all components necessary to play. This game should be playable without the player having to design anything!
 
 #### More Difficult
 
-![Blue Square][]
-[Blue Square]: blue_square.pdf width=65px
+![Blue Square](images/blue_square.pdf)
 
 As above, and once you’ve finished your design, make a playable prototype of the core systems in under an hour. On the forum, give a complete list of materials used.
 
@@ -312,8 +309,7 @@ As above, and once you’ve finished your design, make a playable prototype of t
 
 #### Most Difficult
 
-![Black Diamond][]
-[Black Diamond]: black_diamond.pdf width=65px
+![Black Diamond](images/black_diamond.pdf)
 
 As above, and the video game in question must be an adaptation of an Atari 2600 title. And make it more fun than the original!
 
