@@ -1,3 +1,3 @@
 # Preface
 
-This is an example of "frontmatter", which comes before the main text of the book.
+This is created from the text of the main course website. It has been typeset in softcover.
