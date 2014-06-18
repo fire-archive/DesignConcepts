@@ -18,7 +18,7 @@ Before we begin, I'd like to get a few quick administrative things out of the wa
 
 -   The discussion board is at [http://gamedesignconcepts.aceboard.com](http://gamedesignconcepts.aceboard.com) and is the primary place for interactive discussion. I've created separate discussion areas by interest group (such as: an area for college students, another for professional educators, another for professional video game designers, and so on). I will create forums by geographic region soon, to allow you to find others in your area and arrange to meet in person, if you'd like. This is also where you'll be able to post the work you do for this course, and give and receive peer review (these will become available as they are assigned). Lastly, there is a forum at the top called Meta Discussion, which is discussion for the course itself — what is working and what is not, in terms of using blog, wiki, forum and so on in order to communicate. **You will have to create an account and then wait for the moderator to add you. This process may take a couple of days, so please be patient.**
 
--   If you twitter, use the tag [\#GDCU](https://twitter.com/#search?q=%23GDCU) for any course-related tweets.
+-   If you twitter, use the tag [\#GDCU](https://twitter.com/#search?q=%23GDCU) for any course-related tweets.
 
 -   If you have something to say about the course content itself, feel free to leave it as a comment here on this blog.
 
