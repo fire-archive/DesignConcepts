@@ -1,4 +1,4 @@
-# Level 5: Mechanics and Dynamics
+# Mechanics and Dynamics
 
 *Originally posted July 13, 2009*
 

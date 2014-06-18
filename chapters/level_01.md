@@ -1,4 +1,4 @@
-# Level 1: Overview / What is a Game? [Overview]
+# Overview / What is a Game? [Overview]
 
 *Originally posted June 29, 2009*
 

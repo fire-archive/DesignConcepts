@@ -1,4 +1,4 @@
-# Level 8: Kinds of Fun, Kinds of Players
+# Kinds of Fun, Kinds of Players
 
 *Originally posted July 23, 2009*
 

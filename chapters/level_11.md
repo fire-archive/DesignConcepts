@@ -1,4 +1,4 @@
-# Level 11: Design Project Overview
+# Design Project Overview
 
 *Originally posted August 3, 2009*
 

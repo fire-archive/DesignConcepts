@@ -1,4 +1,4 @@
-# Level 17: User Interfaces
+# User Interfaces
 
 *Originally posted August 24, 2009*
 

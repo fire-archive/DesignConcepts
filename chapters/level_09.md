@@ -1,4 +1,4 @@
-# Level 9: Stories and Games
+# Stories and Games
 
 *Originally posted July 27, 2009*
 

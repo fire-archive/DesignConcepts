@@ -1,4 +1,4 @@
-# Level 16: Game Balance
+# Game Balance
 
 *Originally posted August 20, 2009*
 

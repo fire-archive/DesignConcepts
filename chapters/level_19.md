@@ -1,4 +1,4 @@
-# Level 19: Game Criticism and Analysis
+# Game Criticism and Analysis
 
 *Originally posted August 31, 2009*
 

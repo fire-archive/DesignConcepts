@@ -1,4 +1,4 @@
-# Level 13: Playing With Designers
+# Playing With Designers
 
 *Originally posted August 10, 2009*
 

@@ -1,4 +1,4 @@
-# Level 14: Playing with Non-Designers
+# Playing with Non-Designers
 
 *Originally posted August 13, 2009*
 

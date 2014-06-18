@@ -1,4 +1,4 @@
-# Level 0: What Is Game Design Concepts?
+# What Is Game Design Concepts?
 
 *Originally posted March 31, 2009 and April 21, 2009*
 

@@ -1,4 +1,4 @@
-# Level 20: Course Summary and Next Steps
+# Course Summary and Next Steps
 
 *Originally posted September 3, 2009*
 

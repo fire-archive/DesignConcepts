@@ -1,4 +1,4 @@
-# Level 18: The Final Iteration
+# The Final Iteration
 
 *Originally posted August 27, 2009*
 

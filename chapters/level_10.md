@@ -1,4 +1,4 @@
-# Level 10: Nonlinear Storytelling
+# Nonlinear Storytelling
 
 *Originally posted July 30, 2009*
 

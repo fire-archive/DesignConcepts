@@ -1,4 +1,4 @@
-# Level 12: Solo Testing
+# Solo Testing
 
 *Originally posted August 6, 2009*
 

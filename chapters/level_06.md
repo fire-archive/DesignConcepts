@@ -1,4 +1,4 @@
-# Level 6: Games and Art
+# Games and Art
 
 *Originally posted July 16, 2009*
 

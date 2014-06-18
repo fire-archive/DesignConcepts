@@ -1,4 +1,4 @@
-# Level 4: The Early Stages of the Design Process
+# The Early Stages of the Design Process
 
 *Originally posted July 9, 2009*
 

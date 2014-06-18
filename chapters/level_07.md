@@ -1,4 +1,4 @@
-# Level 7: Decision-Making and Flow Theory
+# Decision-Making and Flow Theory
 
 *Originally posted July 13, 2009*
 

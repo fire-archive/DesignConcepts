@@ -1,4 +1,4 @@
-# Level 15: Blindtesting
+# Blindtesting
 
 *Originally posted August 17, 2009*
 
