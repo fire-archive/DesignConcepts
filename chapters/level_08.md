@@ -1,5 +1,4 @@
-
-## Level 8: Kinds of Fun, Kinds of Players
+# Level 8: Kinds of Fun, Kinds of Players
 
 *Originally posted July 23, 2009*
 
@@ -7,11 +6,11 @@ On Monday, we discovered that "fun" is really just another word for "learning" a
 
 We currently have an idea of *what* is fun, but it would help to know *why* these things are fun. What if there are new kinds of fun waiting to be discovered?
 
-### Course Announcements
+## Course Announcements
 
 I will be at [Protospiel](http://www.protospiel.org/) this weekend, so I may be a bit slow in responding to email or validating forum accounts. Likewise, next Monday’s lesson may be slightly delayed in posting, depending on what shape I’m in when I return.
 
-### Mini-Challenge Results
+## Mini-Challenge Results
 
 Here are a small selection of the answers to the mini-challenge from last time (propose a rule change to add interesting decisions to *Trivial Pursuit*):
 
@@ -27,8 +26,7 @@ Here are a small selection of the answers to the mini-challenge from last time (
 
 -   You read your own question. After looking at the answer, if you are incorrect, you can bluff and claim you were correct anyway. If no one else challenges you, then proceed as if you had answered correctly. If you are challenged… well, the original tweet didn’t specify, but presumably the winner of the challenge gains something and the loser loses something. I’d recommend, loser of a challenge loses their next turn, and if the challenger was correct it immediately becomes their turn (possibly skipping other players in the process).
 
-
-### Readings
+## Readings
 
 Read the following:
 
@@ -38,8 +36,7 @@ Read the following:
 
 -   You may also find it useful to review the [*MDA Framework*](http://www.cs.northwestern.edu/~hunicke/MDA.pdf), specifically the part that talks about the 8 kinds of fun.
 
-
-### Kinds of Fun
+## Kinds of Fun
 
 You may remember from the MDA Framework that the authors listed 8 kinds of fun. These are:
 
@@ -68,7 +65,7 @@ Are these eight the *only* kinds of fun? No; even the authors admit the above li
 
 And where does the whole "fun is learning, learning is fun" thing from last time come into this discussion?
 
-### Evolution (sans Pokemon)
+## Evolution (sans Pokemon)
 
 Falstein’s answer is to take a trip back to early pre-history, when humans were at their hunter-gatherer stage. Primitive humans had to learn many skills in order to survive and reproduce. If we found it fun to learn certain skills, we would be more likely to practice them, and thus more likely to survive, reproduce, and pass on our genes to the next generation. Over time, those things that made us most likely to survive ended up being the things that we find "fun" today. Not all primitive hunter-gatherer skills are necessarily *useful* today, mind you, but our genetics haven’t had time to catch up with our technology yet.
 
@@ -97,7 +94,7 @@ But we can apply this evolutionary thought process to any "kinds of fun." Let us
 -   Submission is… well, I’m not sure about that one. Maybe it *is* an effect of fun rather than the cause.
 
 
-### Discovering New Kinds of Fun
+## Discovering New Kinds of Fun
 
 We can do this in reverse. Instead of taking something that’s fun and tracing it back to the reptilian parts of our brain, we can isolate skills that our hunter-gatherer ancestors might have needed to survive, and then use that to figure out what we would find fun. For example, here are some activities that are often found in games:
 
@@ -114,13 +111,13 @@ We can do this in reverse. Instead of taking something that’s fun and tracing 
 
 Perhaps you can think of other kinds of fun. Feel free to add to the list in the Comments on this blog post.
 
-### Games Change Over Time
+## Games Change Over Time
 
 Play in general, and games in particular, help us to exercise the skills we need for adulthood. While the things we find fun require millions of years of evolution to change, the games we play can change with each generation. As such, you can tell a lot about a society’s values by looking at its most popular games. (A few centuries back when most people were farmers, grain harvesting was a big deal to a lot of people. Today it is not, so we do not see a predominance of "grain games" in our contemporary world.)
 
 This gives yet one more potential starting point when designing a game. Think about what kinds of skills are useful in adulthood in your culture. Find a link between those and the skills needed for a primitive hunter-gatherer to survive. Then, design a game that exercises those skills. Most successful learning games do this, by integrating the learning *into* the game. The actions in the game either consist of using the skills that need to be learned, or the learning of a skill is the victory condition of the game. In both cases, the gameplay is aligned with the inherent fun and joy of learning, and you can end up with an "educational" game that is also fun. Note that this is in stark contrast to the typical "Edutainment" title that requires rote learning as a prerequisite for play, or that separates the learning and the gameplay, which has been proven time and again to be *not* fun.
 
-### One Problem
+## One Problem
 
 So, now it would appear we have all the answers. Flow states are pleasurable. We are driven by our hardwired tendencies to build useful hunter-gatherer skills. Games can exploit these to produce that thing we call "fun."
 
@@ -151,7 +148,7 @@ So, that premise that I started with last Monday – "a game designer’s job is
 
 Fun just happens to be a convenient and easy way to do this. But never forget that it is not the *only* way.
 
-### Another Problem
+## Another Problem
 
 Koster points out in *A Theory of Fun* that players are, at their core, lazy. They tend to seek games similar to those that they’re already good at, so they are not learning something that is new, which reduces the amount of learning-pleasure they can receive. They tend to look for loopholes, exploits, and cheats, which likewise circumvent the pleasurable learning process. Players make the game less fun – but they do it anyway.
 
@@ -159,7 +156,7 @@ In fairness, game designers do this too. We probably do this even moreso than mo
 
 Is there something about us that makes us like one kind of game over another? If it is as simple as "personal taste" then why do we see so much overlap among gamers?
 
-### Player Types
+## Player Types
 
 This brings us to Bartle and his player types. As with kinds of fun (and definitions of games), we find no shortage of people willing to advance their own theory of player types. Why read Bartle, then, and not someone else? First, Bartle’s was the first essay of its kind to gain widespread interest and acceptance, so it is important historically; second, because there are certain aspects of it that make for interesting dissection.
 
@@ -184,7 +181,7 @@ This suggests that you can start with a list of kinds of fun, and invent new pla
 
 You could also go the other way. If you manage to isolate a new player type (i.e. a pattern of play that appears in a nontrivial percentage of your playtesters), by studying that type and what the players are doing, you may be able to discover new kinds of fun.
 
-### *Which Comes First?*
+## *Which Comes First?*
 
 If we can go back and forth between player types and kinds of fun, we may wonder if this is a classic chicken-and-egg problem. Is it better to start with players, or fun?
 
@@ -196,7 +193,7 @@ Let me give an example. There is a book, *21st Century Game Design*, by Chris Ba
 
 A more well-trod example is that of classifying players as "casual" or "hardcore." Now we see why this distinction may be useful to marketing suits, but not so much to game designers. What kinds of fun correspond to these players? What is "casual fun" or "hardcore fun"? This is not clear. We are told that casual gamers want experiences that are short, easy to learn, not very challenging. Yet, some so-called "casual games" are difficult (*Diner Dash*), long (*Puzzle Quest*), or complicated (*Virtual Villagers*). Instead of spending time trying to define a single "casual gamer" archetype, I suspect it would be more fruitful to identify the kinds of fun that help a so-called "casual game" to succeed, and then work from there.
 
-### A Note for Teachers
+## A Note for Teachers
 
 As with last time, there are some direct parallels with teaching. Where I say "player types" and "kinds of fun" an educator might be thinking of "learning styles." What I call Sensation, Narrative and Expression fun, you might refer to as Audio, Visual, or Kinesthetic learning.
 
@@ -218,8 +215,7 @@ Think of ways to apply this to your classroom:
 
 -   Advancement is a kind of fun that is inherent in any course where the later material builds on what was learned earlier. If you created a diagram of skills being taught in the class (with arrows drawn from the prerequisite skills to the new skills being layered on top), you might find that it looks a lot like a "tech tree" or "skill tree" in an RTS or MMO video game. By exposing this kind of skill diagram to the students (and then showing them when they gain new skills and "unlock" access to other more advanced skills) you can create a sense of accomplishment… and also make the connections between the topics easier to see. Incidentally, for department heads out there, you can also do this for an entire curriculum, diagrammatically showing the course requirements and prerequisites.
 
-
-### Lessons Learned
+## Lessons Learned
 
 In general, the things we find fun are related to the skills our distant ancestors needed in order to survive. We can exploit this in our game designs to make games that are more fun.
 
@@ -229,13 +225,13 @@ Remember that "fun" is but one of many emotional responses that a game can invok
 
 As you do your own research, you will undoubtedly run into many articles that purport to classify Fun or Players into types. Do not take any such article as gospel. Instead, analyze it to see if it makes sense. For fun types, can you see *why* we (or our hunter-gatherer ancestors) would find each type fun? For player types, can you see a link between player types and kinds of fun, since it is easier for a game designer to create a custom brand of fun than to create a new type of player?
 
-### Feedback
+## Feedback
 
 If you have time, before beginning the Homeplay below, please take the time to offer **constructive feedback** to at least two other posts at your skill level from the War challenge from Level 7 (posted on the [forum](http://gamedesignconcepts.aceboard.com/)), and also at least three other posts at a skill level below yours (unless you posted in Green Circle).
 
 Try to complete your feedback on or before Monday, July 27, noon GMT.
 
-### Homeplay
+## Homeplay
 
 Let’s practice our ability to find mechanics that give rise to a specific kind of fun. The kind of fun we’ll be considering here is **griefing** (that is, deriving enjoyment from the act of ruining other people’s enjoyment).
 
@@ -253,31 +249,28 @@ Your post should include the following:
 
 Post in the forum that most closely resembles your skill and experience level as a designer:
 
-#### Beginner
+### Beginner
 
-![Green Circle][]
-[Green Circle]: green_circle.pdf width=65px
+![Green Circle](images/green_circle.pdf)
 
 Beginner, little or no experience prior to taking this course.
 
-#### Intermediate
+### Intermediate
 
-![Blue Square][]
-[Blue Square]: blue_square.pdf width=65px
+![Blue Square](images/blue_square.pdf)
 
 Intermediate, some coursework or exposure to game design but little or no professional experience.
 
-#### Advanced
+### Advanced
 
-![Black Diamond][]
-[Black Diamond]: black_diamond.pdf width=65px
+![Black Diamond](images/black_diamond.pdf)
 
 Advanced, at least some professional experience as a published game designer.
 
-### Post
+## Post
 
 Make your post on or before Monday, July 27, noon GMT. Then, **offer constructive feedback** to at least two other posts in the same forum, *and* at least three posts in one forum "below" yours if you posted in Blue Square or Black Diamond, before Thursday, July 30.
 
-### Mini-Challenge
+## Mini-Challenge
 
 Can you think of a new kind of fun? Describe it and justify why it is fun in 135 characters or less. Post it to Twitter with the \#GDCU tag. Offer as many as you can think of. Tweet before July 27, noon GMT.

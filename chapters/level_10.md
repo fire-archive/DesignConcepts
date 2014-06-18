@@ -1,4 +1,4 @@
-## Level 10: Nonlinear Storytelling
+# Level 10: Nonlinear Storytelling
 
 *Originally posted July 30, 2009*
 
@@ -10,11 +10,11 @@ For some game designers, a true "interactive story" is something of the Holy Gra
 
 Note that most board games do not have strong embedded narrative, so this entire discussion is *mostly* relevant to video game narrative, as well as tabletop RPGs. However, some [modern](http://boardgamegeek.com/boardgame/39339) [board](http://www.boardgamegeek.com/game/10547) [games](http://www.boardgamegeek.com/game/15987) are in fact attempting to combine the tabletop board game experience with that of the RPG, including story elements that the players must interact with as part of the gameplay.
 
-### Course Announcements
+## Course Announcements
 
 I will be at [SIGGRAPH](http://www.siggraph.org/s2009/) all next week. While I will make every effort to post on time, I may not be able to respond quickly to email and I may be slow in validating blog comments or new forum accounts, so please be patient. Naturally, if you are attending there yourself, feel free to say hello in person – I’ll be speaking on Monday morning about the results of the Global Game Jam.
 
-### Readings
+## Readings
 
 Read the following:
 
@@ -25,11 +25,11 @@ Read the following:
 -   *Challenges for Game Designers*, Chapter 13 (Designing a Game to Tell a Story). This short chapter covers today’s topic and can also serve as a review of some topics from last time.
 
 
-### Kinds of Stories
+## Kinds of Stories
 
 We can roughly classify different stories by their overall structure. The structure is determined by what kinds of choices are available to the player, how open or constrained those choices are, and what effect those choices have on both the ongoing story and the final ending. Each structure has its advantages and disadvantages, which we will discuss below.
 
-#### Linear Stories
+### Linear Stories
 ![Linear Story ][]
 [Linear Story ]: level_10_story_linear.pdf
 
@@ -39,7 +39,7 @@ Linear stories have one major advantage over all other story structures: it is e
 
 Linear stories have the obvious disadvantage that, due to a lack of decisions, they are not very game-like. As stated above, there is a natural barrier between linear stories and game mechanics, which limits the effect the story can have.
 
-#### Branching Stories
+### Branching Stories
 ![Story Branching][]
 [Story Branching]: level_10_story_branching.pdf height=200px
 
@@ -51,7 +51,7 @@ However, there is one major drawback of using a branching story: it is expensive
 
 To make things worse, note that a player that goes through the game once will never even see the vast majority of content. It requires multiple replays just to see every path through the story… and even then, the player must decide which is the "real" story and which are the alternate timelines that didn’t actually happen. (If the developers ever make a sequel to the game, they must deal with this problem as well.)
 
-#### Parallel Paths in Stories
+### Parallel Paths in Stories
 ![Story Parallel][]
 [Story Parallel]: level_10_story_parallel.pdf
 
@@ -65,7 +65,7 @@ One potential solution is to have the player decisions alter the game’s ending
 
 And, we still have the problem that the player must replay through the entire game multiple times just to see all the endings.
 
-#### Threaded Stories
+### Threaded Stories
 ![Story Threaded][]
 [Story Threaded]: level_10_story_threaded.pdf height=120px
 
@@ -81,7 +81,7 @@ Writing a threaded narrative is hard, because events can happen in any order, le
 
 Lastly, a threaded narrative runs the risk of confusing the player, if there are too many concurrent plots happening at a single time and the player does not immediately see the relationships between them. This is also a danger with books and movies that try to tell several stories at once.
 
-#### Dynamic Object-Oriented Narratives
+### Dynamic Object-Oriented Narratives
 ![Story Dynamic][]
 [Story Dynamic]: level_10_story_dynamic.pdf
 
@@ -91,11 +91,11 @@ This kind of story has the advantages of parallel paths, but without a linear st
 
 This kind of story has two disadvantages. The first is that there’s still the forced-replay problem: a player must play many times to see all of the story paths (which is perhaps why *Façade* needs to last about ten or twenty minutes, and not ten or twenty hours). It is also a highly experimental structure, so we do not yet have enough games to really analyze what does and doesn’t work in this form. *Façade* itself took a couple of guys with PhDs in Computer Science to develop, so this is not the kind of story structure that is easily accessible to a traditional story writer.
 
-### Points of View
+## Points of View
 
 The camera in video games is generally either first-person or third-person.
 
-#### *Camera Views*
+### *Camera Views*
 
 A first-person view means the camera is, essentially, glued to the main character’s forehead looking forward. The player sees what the character sees. This can lead to a greater sense of connection with the main character, because the player is inside the character’s head, so to speak. The disadvantage is that this is not *truly* a first-person view, because a typical human’s peripheral vision is wider than the screen (and a typical human can turn their head faster than a typical first-person video game camera), which can break immersion at times for players who are not used to the limitations.
 
@@ -105,7 +105,7 @@ Combining this with McCloud’s point on icons versus realism (from last time), 
 
 A second-person camera view, if it existed, would involve the camera that spends the entire time looking at the main character from the front. Needless to say, this would be confusing in the vast majority of games. The closest I’ve seen is an obscure console title, *Robot Alchemic Drive*, where you control a human character (in third person) that is in turn controlling a giant robot by remote control (in second person). To the extent that the robot is the main character, this game uses a second-person camera for control.
 
-#### *Story Views*
+### *Story Views*
 
 We also use the words "first person" and "third person" when discussing literature. There, it works a bit differently.
 
@@ -119,11 +119,11 @@ You might be realizing about this time that **almost every game narrative is tol
 
 And this is another reason why storytelling in games is so hard.
 
-### Interactive Characters
+## Interactive Characters
 
 Sometimes, the overall plot arc of the game is fixed and linear, but there are a number of characters (specifically, "non-player characters," referred to as NPCs) that the player can interact with. In video games, where interpersonal relationships must be quantified, there are two common ways to treat NPCs and their relations with the player.
 
-#### *Flags*
+### *Flags*
 
 A "flag" in this context is just a binary (yes-or-no) value. An action did or did not happen. The player did or did not talk to a certain NPC, and if they did, they either did or did not choose a particular conversation path. As a result, certain new NPCs or conversation options may appear or disappear.
 
@@ -131,7 +131,7 @@ The advantage of flags is that it is very simple to do. Everything either happen
 
 The disadvantage is that there is not a lot of depth to these characters, if there is only black and white and no shades of gray in between. You *can* add more complexity by combining binary values ("only make Aragorn appear *if* Frodo chose to travel to the Prancing Pony *and* he successfully avoided capture by the Ringwraith *and* he puts on the Ring") but at this point it can get complex to follow, reducing the benefit of simplicity mentioned earlier.
 
-#### *Affinity*
+### *Affinity*
 
 Instead of a yes/no dichotomy, use numeric values to measure things like how strongly a character feels affection or hatred towards another character. If you have to decide whether an NPC behaves in a certain way, check to see if its affinity value is past a certain threshold value. (In tabletop RPGs, it is common to also add a die-roll to the mix, so that things may or may not happen based partly on chance.)
 
@@ -139,7 +139,7 @@ The advantage of an affinity system is that it is still fairly simple, it can ha
 
 However, you must be careful with affinity systems. There is a danger of having a very muddy system (where the player can’t tell why a character behaved in a certain way), especially if several affinity variables or a random die-roll are included in determining the outcome. In short, it is hard to get this kind of system to "feel right" without a *lot* of playtesting.
 
-### Character Conversations
+## Character Conversations
 
 Some games include a conversation system, where the player is given a choice of things to say, and then the NPC they’re talking to responds.
 
@@ -158,7 +158,7 @@ Conversation systems can be thought of in the same way as game narrative systems
 
 Writing dialogue in each of these methods is proportional in difficulty to writing a story of each form.
 
-### Writing Good Characters
+## Writing Good Characters
 
 Some characters in stories are "round" – they have many facets to them, a deep character with many layers, and are highly detailed and developed over the course of the story.
 
@@ -168,7 +168,7 @@ Normally if we say a character is "flat" it sounds a bit derogatory. Are flat ch
 
 A rule of thumb is that a character should develop over time as we seen them through the story. As a corollary, minor characters with very little "screen time" can be flat since they don’t have much time to develop anyway; the characters who we see the most often (generally the main characters) should develop a great deal. A flat protagonist is probably not a good idea if you are trying to make a strong character.
 
-#### *Archetypes versus Stereotypes*
+### *Archetypes versus Stereotypes*
 
 Here’s a question I was once asked in a job interview: describe the terms "archetype" and "stereotype" and the difference between them.
 
@@ -181,7 +181,7 @@ McKee says that story is about forms, not formulas. Archetypes are forms; stereo
 
 Archetypes are useful. They allow us to tell a story with believable characters that fit familiar forms. Stereotypes are overused, and typically make a story *less* believable because the audience has seen these same characters before from other stories, so they do not seem unique. Generally, avoid stereotypes, unless there is very good reason (such as if your story is a parody that is making fun of a particular character stereotype).
 
-#### *Freytag’s Triangle*
+### *Freytag’s Triangle*
 
 [You might have seen this before](http://en.wikipedia.org/wiki/Dramatic_structure) in a grade school literature class. The idea is that stories start with a small amount of exposition to set the tone, then they have rising action where things get more intense, then they reach some kind of climax (a final battle or confrontation, etc.), then there is falling action and resolution at the end as the story reaches its conclusion.
 
@@ -191,25 +191,25 @@ You get a more dramatic experience if the dramatic arcs of story and gameplay ar
 
 In short, as you balance your game, pay attention to the story and whether the story drama is proportional to the dramatic moments in gameplay.
 
-### It’s Still a Game
+## It’s Still a Game
 
 Remember that, as a game designer, you are still making a *game* and not a *story*. In most cases, the story should not preclude gameplay. At the very least, you should be extremely careful when you are tempted to make a concession in gameplay for the sake of the story, or when you plan to overload the player with non-interactive story bits.
 
 When writing the narrative for a game, return frequently to your core aesthetic – your overall vision of the optimal experience your game will offer – and make sure that the story supports it!
 
-### Lessons Learned
+## Lessons Learned
 
 There are lots of ways to take a traditional linear story and make it more interactive. All of these have advantages and drawbacks. If the Holy Grail of a full interactive story is even achievable, we have still not discovered how.
 
 But we should keep trying, and exploring the various non-linear story forms that are uniquely suited to games.
 
-### Reading
+## Reading
 
 If you have time, before beginning the Homeplay below, please take the time to read at least five other posts at your skill level from the *Pente* challenge from Level 9 (posted on the [forum](http://gamedesignconcepts.aceboard.com/)), and also at least five other posts at a skill level *above* yours (unless you posted in Black Diamond). Do this on or before Monday, August 3, noon GMT.
 
 As you read, pay attention to the variety of responses you see. Do you see any recurring themes, or are people’s experiences different from each other? Why do you think that is? Reflect on this.
 
-### Midterm Review
+## Midterm Review
 
 You get a break this weekend: no homeplay. If this were taught in a classroom, you would have a take-home midterm exam at this time. But I do not have the time or the desire to grade 1400 exams, nor to generate a series of unique questions. Instead, I provide this brief review of what we have covered. Next Monday, we will transition from the mostly-theoretical discussions on what makes compelling games, to the mostly-practical business of actually designing an original non-digital game from scratch and taking it through the process from concept to completion.
 

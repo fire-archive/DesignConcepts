@@ -1,4 +1,4 @@
-## Level 20: Course Summary and Next Steps
+# Level 20: Course Summary and Next Steps
 
 *Originally posted September 3, 2009*
 
@@ -10,7 +10,7 @@ And, of course, we made games. Lots of games. Some little ones, and one longer p
 
 At this point, you might be wondering… what next? If this course is over, what are the next steps on this journey towards becoming a better game designer? And when does it end?
 
-### Lifelong Journeys
+## Lifelong Journeys
 
 Since none of us are perfect or will ever be, there is *always* a way for us to improve. If game design is your passion and you want to design better games, you’ll continue to improve over time, and this is a process that continues for as long as you make games.
 
@@ -18,7 +18,7 @@ No, the journey of a game designer does not end. But it does get more interestin
 
 You might wonder, then, what is the next step on this journey? I have created a [page on the course wiki](http://gamedesignconcepts.pbworks.com/next-steps) with my thoughts, so visit over there (and leave your own thoughts) if you are done with this course and you want to get to the next level.
 
-### Some Other Questions You Might Have
+## Some Other Questions You Might Have
 
 There are some questions I’ve been asked a bit during this course, about what happens when it all ends. Here are my answers.
 
@@ -44,7 +44,7 @@ The topic for next summer is **game balance**. I want to go into greater detail 
 
 Details for signing up will be posted here on this blog in early 2010.
 
-### And Now, Some Shameless Plugs…
+## And Now, Some Shameless Plugs…
 
 Game Design Concepts reached a lot of people. As you see in the sidebar, there were over 1400 people who sent an email to formally sign up for the course ahead of time, covering nearly every state in the US and an additional 47 countries. Here are some other stats for the interested:
 
@@ -74,7 +74,7 @@ As a result, I ask the following:
 
 Also, if you liked the textbook, my co-author and I would appreciate if you’d leave a review on [Amazon](http://www.amazon.com/gp/product/158450580X?ie=UTF8&tag=gamedesiconc-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=158450580X). For as many people as have bought the book, there are currently very few reviews, and it would be nice to see that change.
 
-### Course Evaluation
+## Course Evaluation
 
 At the end of most college courses, students are given an evaluation to fill out. It asks all kinds of questions about the strong and weak points of the class and the professor. The answers are collected, compiled, and given back to the professor. I continue this tradition here.
 
@@ -86,7 +86,7 @@ If you are reading this at all, I would like to hear from you. This is true whet
 
 Go there and fill out the survey. I’m asking you to do this as a personal favor to me, in exchange for the time I have given you in putting together the content for this course. Your responses help me to make things even better next year. Thank you.
 
-### Final Words
+## Final Words
 
 I would like to thank you for your interest, your participation, and your time. I wish you well, in games and in life. Keep playing, keep designing, and keep learning.
 

@@ -1,4 +1,4 @@
-## Level 9: Stories and Games
+# Level 9: Stories and Games
 
 *Originally posted July 27, 2009*
 
@@ -19,13 +19,13 @@ What makes for good stories? Game designers often reference three works in parti
 
 Today we will look at these works and their effect on game design. We will build up a set of guidelines for how to tell a good story within a game. And then, at the end, we will tear it all down again.
 
-### Course Announcements
+## Course Announcements
 
 As I’ve been out of town and offline since early Friday morning, I have not had time to validate new user accounts for the forums, read email, moderate comments on this blog, etc.
 
 I will catch up on these things later today, or tomorrow morning at the latest, after I have fully recovered from a nearly-sleepless (in a good way) weekend. I’ll say this: playtesting your games with skilled game designers is very different from playtesting with typical gamers.
 
-### Mini-Challenge Results
+## Mini-Challenge Results
 
 Here are some new kinds of fun that were proposed from last time:
 
@@ -33,8 +33,7 @@ Here are some new kinds of fun that were proposed from last time:
 
 -   "Maker": someone who gets joy out of constructing and building things. (The example given was user-generated content for video games, but you sometimes see this in standalone board games as well, like *Settlers of Catan*. Certainly, building and construction are useful to survival, even if all you’re making is a tool or a crude hut.)
 
-
-### Readings
+## Readings
 
 Read the following:
 
@@ -44,8 +43,7 @@ Read the following:
 
 -   *Understanding Comics*, Chapters 2 and 3, if you have a copy of that book. As you read, pay particular attention to how any of this might apply to games. Scott McCloud isn’t going to come out and say it, so you will have to connect the dots yourself.
 
-
-### Aristotle
+## Aristotle
 
 A lot of words were different in Aristotle’s time than how we use them today. *Poetics* is not about poetry, but about how to write tragedy. *Tragedy*, as Aristotle used the term, did not mean "a story with a sad ending" but rather a story that is serious and lifelike – a story devoid of the supernatural or fantastical (which he referred to as *comedy*).
 
@@ -77,8 +75,7 @@ Lastly, it is worth mentioning that Aristotle defined a stage play as being comp
 
 -   **Spectacle**. This is what Aristotle called the "eye candy" or special effects of his day. He often complained that too many plays contained all spectacle and nothing else – sound familiar?
 
-
-### McKee
+## McKee
 
 I’m not sure if Robert McKee ever actually wrote a screenplay that was made into a movie. Mostly, he teaches screenwriting. If you’ve ever come out of a movie saying "wow, that was a really great *story*," the screenplay was probably written by one of McKee’s students. (I would love to be considered the "McKee of games" some day. Note to my former students: go out there and make me look good!)
 
@@ -109,7 +106,7 @@ What is the implication of character and characterization in games? First, that 
 
 But of course, that also makes it less interactive and thus less like a game. And this is one reason why storytelling in games is hard.
 
-### Joseph Campbell
+## Joseph Campbell
 
 Joseph Campbell spent a lot of his time studying myths, legends, and hero stories, and finding the similarities and differences between them. He found that most myths follow a common structure, which he called the *Monomyth* or the *Hero’s Journey*. It is a specific kind of story and therefore more specific than McKee’s story description. Because many games put the player in the role of a hero, this is obviously useful to know.
 
@@ -154,8 +151,7 @@ Bob Bates comments on the structure in his article:
 
 -   During the game, the hero character should grow. Again, it is easy for us as designers to fall into the trap of *only* having the main character "grow" in terms of power level (and it is convenient that the *player* is growing in their skill at the game as they play). Still, it can often make a better story if the hero’s *character* grows during the story as well. They don’t have to start out as a god. It can be more interesting if they start out as a peasant and *become* a god. Remember, it’s the *hero* that must grow, not just the *player*.
 
-
-### Scott McCloud
+## Scott McCloud
 
 *Understanding Comics* doesn’t say a lot about telling stories in Chapters 2 and 3, but it does give some useful advice on creating strong characters and dramatic moments.
 
@@ -201,8 +197,7 @@ How do we apply this to telling stories in games?
 
 -   Think of some examples of stories you’ve seen (from games or otherwise) where there was too little information, or too much, and the story suffered from it. Think of other examples where you were not told everything, but was fine, and the audience was able to still have an enjoyable experience.
 
-
-### Ernest Adams
+## Ernest Adams
 
 Game designer Ernest Adams gave an inspiring talk at GDC 2006 called "A New Vision for Interactive Stories." First he briefly summarized much of what I have written above, and then he proceeded to challenge all of our basic assumptions, and then he tried to take things one step beyond. What follows are my notes and personal commentary from the session.
 
@@ -238,7 +233,7 @@ Of course, in order for the player to accept this contract, they must be aware o
 
 A way to merge games and stories. That is what many of us are looking for, is it not?
 
-### Lessons Learned
+## Lessons Learned
 
 Aristotle, Campbell and McKee provide some of the most often-cited advice for storytellers in general, so it is natural that we apply their advice to games. For those of you who are primarily interested in this aspect of games, I would highly recommend reading their books on your own time (after this course is complete, of course). You can find them here: [Aristotle](http://www.amazon.com/gp/product/0140446362?ie=UTF8&tag=gamedesiconc-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0140446362), [Campbell](http://www.amazon.com/gp/product/1577315936?ie=UTF8&tag=gamedesiconc-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1577315936), [McKee](http://www.amazon.com/gp/product/0060391685?ie=UTF8&tag=gamedesiconc-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0060391685). **I provide these links for convenience only; they are not required for this course.**
 
@@ -252,7 +247,7 @@ If you have time, before beginning the Homeplay below, please take the time to o
 
 Try to complete your feedback on or before Thursday, July 30, noon GMT.
 
-### Homeplay
+## Homeplay
 
 The point of this homeplay is to give you some experience understanding the relationship of story to game mechanics, and what happens when the two are or are not aligned.
 
@@ -286,30 +281,25 @@ Post the following to the [forum](http://gamedesignconcepts.aceboard.com):
 
 Post in the forum that most closely resembles your skill and experience level as a designer:
 
-#### Beginner
+### Beginner
 
-![Green Circle][]
-[Green Circle]: green_circle.pdf width=65px
+![Green Circle](images/green_circle.pdf)
 
 Beginner, little or no experience prior to taking this course.
 
-<!-- \pagebreak[4] -->
+### Intermediate
 
-#### Intermediate
-
-![Blue Square][]
-[Blue Square]: blue_square.pdf width=65px
+![Blue Square](images/blue_square.pdf)
 
 Intermediate, some coursework or exposure to game design but little or no professional experience.
 
-#### Advanced
+### Advanced
 
-![Black Diamond][]
-[Black Diamond]: black_diamond.pdf width=65px
+![Black Diamond](images/black_diamond.pdf)
 
 Advanced, at least some professional experience as a published game designer.
 
-#### Post
+## Post
 
 Make your post on or before Thursday, July 30, noon GMT. Then, **read at least five other posts** in the same forum, and five more in the skill level **above** yours (unless you posted in Black Diamond). **You do not have to respond**. What I want you to see is the variety of responses that people will have. Do this reading before Monday, August 3.
 

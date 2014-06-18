@@ -1,10 +1,10 @@
-## Level 2: Game Design / Iteration and Rapid Prototyping
+# Level 2: Game Design / Iteration and Rapid Prototyping
 
 *Originally posted July 2, 2009*
 
 Last time we asked the question: what is a game? Today, we look into a related question: what, exactly, is game design? Last time, we made a simple game. This time, we will look into the process of how games are made in general. While it is possible to make a race-to-the-end board game in 15 minutes, you will need to take a little longer if you are looking to make the next **Settlers of Catan** or **World of Warcraft**.
 
-### Course Announcements
+## Course Announcements
 
 Some administrative things that have come up since Monday:
 
@@ -15,13 +15,13 @@ Some administrative things that have come up since Monday:
 -   Lastly, to those of you who sent in a registration email after the course started (that is, if your email was timestamped after Monday, noon GMT), I apologize for not being able to add you after the fact. Registration emails have taken a lot of my time prior to the start of the course, and if I accept late registrations I will not have the time to do other things for the course. Whether you are registered or not, this blog is free and open to the public (as is the [Twitter feed](https://twitter.com/#search?q=%23GDCU)), and I hope you do still follow along and get a lot out of the experience.
 
 
-### Game Design
+## Game Design
 
 We will use the word "design" a lot in this course, and unfortunately it is a term that is a bit overused, so I will clarify what I mean here. As it says in *Challenges*, game design is the creation of the rules and content of a game. It **does not** involve programming, art or animation, or marketing, or any of the other myriad tasks required to make a game. All of these tasks collectively can be called "game development" and game design is one part of development.
 
 Unfortunately, I have seen the term "design" used (particularly in some college curricula) to refer to all aspects of development. When used in the video game industry (or the board game industry), "game design" has a very specific meaning, and that is the meaning that we will use for this course.
 
-### Multiple Types of Game Design
+## Multiple Types of Game Design
 
 As mentioned in *Challenges*, there are many tasks associated with game design: system design, level design, content design, user interface design, world building, and story writing. You could fill several 10-week courses with any one of these, so this summer course will *not* be a full treatment of the entire range of game design. We will touch lightly on UI, story writing and content when relevant, but the majority of this course focuses on **system design** (also sometimes called "systems design" or "core systems design").
 
@@ -36,7 +36,7 @@ System design is about defining the basic rules of the game. What are the pieces
 
 If you look back at *Three-to-Fifteen* from Monday, you’ll notice those very simple rules contain all of these parts. The creation of those rules is system design, and that is what we will be spending most of our time with over this summer.
 
-### What is a Game Designer?
+## What is a Game Designer?
 
 As you may have noticed, game design is an incredibly broad field. Those of us who are professional designers sometimes have trouble explaining what we do to our families and friends. Part of the reason for this is that we do so many things. Here are some analogies I’ve seen when trying to explain what it is like to be a game designer:
 
@@ -59,7 +59,7 @@ If game design is all these things, where would it fit in a college curriculum? 
 
 Is a game designer all of these things? None of them? It is open for discussion, but I think that game design has *elements* of many other fields, but it is still its own field. And you can see just how broad the field is! As the field of game design advances, we may see a day where game designers are so specialized that "game design" will be like the field of "science" — students will need to pick a specialty (Chemistry, Biology, Physics, etc.) rather than just "majoring in Science."
 
-### Speaking of Science…
+## Speaking of Science…
 
 How is a game designed? There are many methods.
 
@@ -93,7 +93,7 @@ Therefore, any game design process should involve iterating (that is, going thro
 
 ![Iterative Rapid Prototyping](images/level_2_iterative_with_rapid_prototyping.pdf)
 
-### Iteration and Risk
+## Iteration and Risk
 
 Games have many kinds of risk associated with them. There is **design risk**, the risk that the game will not be fun and people won’t like it. There is **implementation risk**, the possibility that the development team will not be able to build the game at all, even if the rules are solid. There is **market risk**, the chance that the game will be wonderful and no one will buy it anyway. And so on.
 
@@ -103,7 +103,7 @@ This all comes down to one important point: the greater the design risk of your 
 
 That said, most game designers have aspirations of making games that are new, creative, and innovative.
 
-### Why This Course is Non-Digital…
+## Why This Course is Non-Digital…
 
 Some of you would rather make board games anyway, so you don’t care how video games are made. But for those of you who would love to make video games, you may have wondered why we will be spending so much time making board and card games in this course. Now you know: it is because iteration is faster and cheaper with cardboard. Remember from Monday: you can make a board game in 15 minutes. Coding that game will take significantly longer. When possible, prototype on paper first, because a 15-minute paper prototype and an hour-long playtest session can save you months of programming work.
 
@@ -115,7 +115,7 @@ This is not as true in video games. Many video games have impressive technology 
 
 The connection between rules and player experience is also muddied in tabletop role-playing games. I realize that many of you have expressed an interest primarily in RPG design, so this may seem strange to you. However, keep in mind that an RPG is essentially a collaborative story-telling exercise (with a rules system in place to set boundaries for what can and can’t happen). As such, a wonderful system can be ruined by players who have poor story-telling and improv skills, and a weak system can be salvaged by skillful players. As such, we will stay away from these game genres, at least in the early stages.
 
-### Trying it out
+## Trying it out
 
 Take that 15-minute game you made last time, and play it, if you haven’t already. As you are playing, ask yourself: is this more fun or less fun than playing your favorite published games? Why? What could you change about your game to make it better? You do not have to play the game to completion, but only for as long as it takes you to get the overall feeling of what it is like to play.
 
@@ -123,7 +123,7 @@ Then, after playing once, make at least one change. Maybe you’ll change the ru
 
 We will be looking at the playtest process in detail later in this course. For now, I just want everyone to get over that fear: "what if I play my game and it sucks?" With the game you designed on Monday, the odds are very high that your game *does* suck (seriously, did you expect to make the next *Gears of War* in 15 minutes?). This does not make you a "bad designer" by any means — but it should make it clear that the more time you put into a game and the more iterations you make, the better it gets.
 
-### Lessons Learned
+## Lessons Learned
 
 The one big takeaway from today is that the more you iterate on a game, the better it becomes. Great designers do not design great games. They usually design *really bad* games, and then they iterate on them until the games *become* great.
 
@@ -133,7 +133,7 @@ This has two corollaries:
 
 -   Given equal amounts of time, a shorter, simpler game will give a better experience than a longer, complicated game. A game that takes ten hours to play to completion will give you fewer iterations than a game that can be played in five minutes. When we start on the Design Project later in this course, keep this in mind.
 
-### Homeplay
+## Homeplay
 
 Before next Monday, read the following. I will be referencing these in Monday’s content when we talk about the formal elements of games:
 

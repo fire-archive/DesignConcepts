@@ -1,4 +1,4 @@
-## Level 4: The Early Stages of the Design Process
+# Level 4: The Early Stages of the Design Process
 
 *Originally posted July 9, 2009*
 
@@ -8,7 +8,7 @@ What about for larger projects where the stakes are higher? Is there a process t
 
 Today, we examine the first step of the iterative process: initial design.
 
-### Course Announcements
+## Course Announcements
 
 Just a couple of comments based on feedback received from the first forum challenge:
 
@@ -17,7 +17,7 @@ Just a couple of comments based on feedback received from the first forum challe
 -   If there is confusion over what I am asking for, as I’m sure will happen just about every time, do feel free to ask for clarifications in the blog comments. However, I also encourage you to make your own interpretations to the best of your ability. In classroom courses (and usually in the Real World) you can ask for immediate clarification if a constraint is unclear; but in this course, since we go so quickly, there is not always time to post a comment, wait for me to respond, and then read the comment. Be creative but fair in your interpretations.
 
 
-### A Note on Constraints
+## A Note on Constraints
 
 An interesting thing happened for this Monday’s challenge: more people attempted the Black Diamond (highest difficulty) than those who did all of the other difficulties combined. By contrast, when signing up, only about a tenth of the participants identified themselves as experienced game designers. What is going on here?
 
@@ -37,7 +37,7 @@ Most of the challenges in this course will involve constraints. In fact, most de
 
 There is one other reason I mention constraints. For those rare times in your life when there are truly no constraints imposed on you by others (this is more common with "indie" development and hobbyist designers than with professionals), if you have trouble getting started, one way is to generate some constraints for yourself. Give yourself a time limit ("Game Jam" events typically challenge people to make a game in as little as 24 or 48 hours). Choose a subject matter that interests you and use it for the theme. Select a core mechanic that you’d like to explore. It can be completely arbitrary, but if you are stuck and don’t know what direction to take your game, go ahead and just choose an extra constraint to get yourself moving. (With iteration, you can always remove that arbitrary constraint later if you find it’s holding back your design.)
 
-### Generating Ideas
+## Generating Ideas
 
 The first thing that happens in a design is that you must come up with the basic core of an idea. This isn’t necessarily fully-formed, but just a basic concept. There are many different starting points for a game’s design. Here are some examples, in no particular order:
 
@@ -60,7 +60,7 @@ The first thing that happens in a design is that you must come up with the basic
 
 When you think of new ideas for games, what kinds of ideas do you have? What are your starting points? What does this say about you as a designer, and the kinds of games you are likely to make?
 
-### Other Methods of Idea Generation
+## Other Methods of Idea Generation
 
 If you are stuck with "designer’s block" (the game design equivalent of "writer’s block") there are a number of strategies you’ll see mentioned in various places. Here are a few:
 
@@ -81,13 +81,13 @@ If you are stuck with "designer’s block" (the game design equivalent of "write
 -   And lastly, practice. Work on your own projects. The more you make games, the better you get at making them… just like any other art form.
 
 
-### Prototyping
+## Prototyping
 
 Remember, the more times you can iterate on your idea, the better the final game will be. Once you have a basic idea, the next step is to get it in playable form as quickly and cheaply as possible. That will leave you with as much time as possible to playtest and iterate.
 
 As mentioned last time, iteration is the most critical for those parts of your game that have high **design risk**. For "clone-and-tweak" games where you are mostly lifting gameplay from an existing game, rapid prototyping is less important. This does not mean that "clone" games do not benefit from iteration, but simply that you should use it selectively in those areas where you *are* innovating. Keep this in mind for today’s challenge.
 
-#### "Laws" of Prototyping
+### "Laws" of Prototyping
 
 Remember that the entire purpose of prototyping is to maximize the number of iterative cycles. Corollary: do everything you can to reduce the time required in each iteration. Now, consider that each iterative cycle consists generally of four steps: design, prototyping, playtesting, and evaluation. Of these steps, where can you save time?
 
@@ -111,7 +111,7 @@ Some things to keep in mind when building a playable prototype:
 
 All of these guidelines push designers towards one inevitable direction…
 
-#### Prototyping in Paper
+### Prototyping in Paper
 
 You can call it "paper" or "cardboard" or "non-digital" or "analog" or any number of things, but the idea is to have a physical, tabletop game that is playable without computers (or at least, without requiring programming code). Programming is wonderful and powerful but it is also slow and expensive in comparison to paper prototypes. Here are some advantages of paper prototyping:
 
@@ -128,7 +128,7 @@ You can call it "paper" or "cardboard" or "non-digital" or "analog" or any numbe
 -   By making something *playable*, you are forced to actually **design the systems**. No more handwaving of "this game will have 50 undefined cards". You have to actually do your job as the game designer, and design the game!
 
 
-#### Limitations of Paper
+### Limitations of Paper
 
 Paper prototypes do have some limitations that you should be aware of:
 
@@ -145,7 +145,7 @@ Paper prototypes do have some limitations that you should be aware of:
 
 As you can see, the advantages of paper prototyping are very general and the limitations are specific, so the ability to prototype in paper is an important skill for any game designer to develop, whether they work in video games or board games or anything in between.
 
-### The Non-Digital Designer’s Prototyping Kit
+## The Non-Digital Designer’s Prototyping Kit
 
 What follows is a list of materials that I have personally found useful when prototyping. Other designers may have their favorite materials, so I look forward to seeing the discussion that will inevitably be generated by this list:
 
@@ -174,7 +174,7 @@ Where do you find these things? It depends where you live. Most, you can get at 
 
 Craft and hobby stores, both the retail chains and online (Michael’s is the big chain store in my area), can offer great inspiration for game designers. I’ve found large quantities of unpainted and colored wooden cubes (great as resource markers and also as custom dice) and wooden discs (they feel better and are larger than pennies). Once, I found a set of flat painted wooden cut-outs, maybe an inch square, of bunnies and another set of carrots; I don’t know what I’ll ultimately do with them, but there is a game that will be made with them some day. [Craftparts](http://www.craftparts.com/) has wooden people-shaped pawns and square tiles in various sizes. These kinds of quality components may not be immediately suitable for quick-and-dirty paper prototypes, but they can certainly come into use as your project becomes more developed.
 
-### Your First Paper Prototype
+## Your First Paper Prototype
 
 Here are the rules for the classic children’s game *Battleship*:
 
@@ -210,7 +210,7 @@ Now, try this thought experiment: critically analyze *Battleship* as a game. Wha
 
 As you can see, modifying the rules to a paper prototype is very fast and easy, and you could go through many iterations in a short period of time. Don’t be afraid that your idea will be "bad"! Of *course* it will be bad. Even experienced designers create "bad" games in their first iteration. But you will never turn it into a good game unless you start somewhere. A paper prototype is very often the ideal starting point.
 
-### Prototyping Realtime Systems
+## Prototyping Realtime Systems
 
 For a turn-based game like *Battleship*, a non-digital prototype is easy enough to put together. What if you wanted to prototype a First-Person Shooter video game like *Halo*? Is there any *possible* way to do that on paper, when most of the game is running around and shooting things in real time? The answer is yes, absolutely. Here are some hints:
 
@@ -244,7 +244,7 @@ And maybe even if the digital game fails, you’ll still at least have a fun lit
 
 I hope this example serves to show you that most video games can have at least *some* of their elements prototyped in paper. And naturally, games that are *meant* to be released in non-digital form can be prototyped that way as well. Even some systems from tabletop RPGs and LARPs can be prototyped in this way, in their early stages.
 
-### A Short Note about Grids
+## A Short Note about Grids
 
 There are many ways to make a game board, but here are three common ways to get you started:
 
@@ -255,7 +255,7 @@ There are many ways to make a game board, but here are three common ways to get 
 -   Open area, no board. Use a tape measure instead, and move your pieces a certain number of inches (or centimetres, or what have you) per turn. This gives the most fluid and precise movement, although it has many of the same disadvantages as hex maps, and is also vulnerable to someone accidentally bumping the table and sending pieces slightly off of where they were.
 
 
-### Adding Features versus Keeping It Simple
+## Adding Features versus Keeping It Simple
 
 As mentioned earlier, our First-Person Shooter prototype is just begging for extra features, such as health and ammo. Why not start with all of these extra systems already in place, as opposed to starting with just the simple core system? There are a few reasons to start with a simple, core rule set and then add on one rule at a time, instead of trying to design the entire game in one big effort:
 
@@ -270,7 +270,7 @@ If you have trouble with this, try writing down a list of all of the ideas you h
 
 It may also help to run your idea by another designer who is not personally and emotionally attached to your pet idea. Invite them to be merciless in deciding which of your rules can be trashed. For the purposes of this course, you can offer a trade with any colleagues in your area: you look at my prototype, I’ll look at yours!
 
-### Moving Forward
+## Moving Forward
 
 Once you have the core gameplay, and it *works*, then you can add new features. The temptation at this point is to add everything you originally thought of. Resist this temptation. Instead, add *one* new feature, and playtest again until the new feature works, or you have decided that it doesn’t work and it needs to be abandoned.
 
@@ -280,7 +280,7 @@ Yes, this is tedious. You have to playtest, then change one rule, then playtest 
 
 In making an actual game, the next step after the physical prototype (once you’re happy with it) is to **document** it. These documents do not have to be 500-page Game Design Bibles. They can be small sets of rules and design and playtest notes that you’ve accumulated as you went through the iterative process, but formatted into something that is readable and understandable by someone who has not seen the project before. This documentation will be valuable reference material for later, if you ever forget what you were doing. Sometimes you have to put an idea to the side for a few months and return to it later, and I guarantee you will forget all of those details that used to seem second-nature to you when you were fiddling with the rules early on.
 
-### Readings
+## Readings
 
 There are some additional readings this week:
 
@@ -289,17 +289,17 @@ There are some additional readings this week:
 -   [*Don’t Be a Vidiot*](http://www.costik.com/vidiot.html), by Greg Costikyan. If you want to be a video game designer, this article provides both an incentive to study board games, and also a starting point for the kinds of games that are out there beyond *Monopoly* and *RISK*.
 
 
-### Homeplay
+## Homeplay
 
 Do Challenge 4-1 in the text. It does not have to be an Activision/Blizzard game. It cannot be a game that already has a commercially-available board game adaptation. (Check [BoardGameGeek](http://www.boardgamegeek.com/) if in doubt.)
 
-#### Easier
+### Easier
 
 ![Green Circle](images/green_circle.pdf)
 
 Design a board-game adaptation of any video game. Post your complete rule set on the forums. Include a list of all components necessary to play. This game should be playable without the player having to design anything!
 
-#### More Difficult
+### More Difficult
 
 ![Blue Square](images/blue_square.pdf)
 
@@ -307,23 +307,23 @@ As above, and once you’ve finished your design, make a playable prototype of t
 
 <!-- \pagebreak[4] -->
 
-#### Most Difficult
+### Most Difficult
 
 ![Black Diamond](images/black_diamond.pdf)
 
 As above, and the video game in question must be an adaptation of an Atari 2600 title. And make it more fun than the original!
 
-#### Note
+### Note
 
 I would ask this time that you **stay within your experience level**. For example, if you have no game design experience prior to this course, do the basic challenge, even if you are capable of doing the others, and post in the Green Circle forum. You can certainly tackle the more advanced constraints on your own, but I’d like to try it this way to see if you get superior peer feedback. Thank you for cooperating.
 
 Make a post [on the Forums](http://gamedesignconcepts.aceboard.com/) before next Monday. Then, as with last time, find at least two peers at the same difficulty level, and (if you are Blue Square or Black Diamond) three people at the next lower difficulty level, and offer constructive feedback.
 
-### Mini-Challenge
+## Mini-Challenge
 
 Here’s another quick thing you can try if you get through all of that. Propose a rule change to *Battleship* that will make it better than the original, and find a way to express it in less than 135 characters. Post to Twitter with the \#GDCU tag. You have until Monday. One rule change per participant, please!
 
-### Additional Resources
+## Additional Resources
 
 While not required reading, I can recommend these two articles for their relevance to today’s topic:
 

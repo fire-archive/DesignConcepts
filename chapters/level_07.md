@@ -1,10 +1,10 @@
-## Level 7: Decision-Making and Flow Theory
+# Level 7: Decision-Making and Flow Theory
 
 *Originally posted July 13, 2009*
 
 I’m excited about this week, because this is where we’re going to really get into the essence of game design, starting today with decision-making and continuing this Thursday with the nature of fun. These are some of my favorite topics to discuss, because it is the interactivity between players and systems that sets games apart from most other traditional media. This is where the magic of play happens, and as a systems designer, this strikes at the heart of what I deal with when making a game.
 
-### Course Announcements
+## Course Announcements
 
 I understand that with 1400+ people, there will be a wide variance in free time. Some of you are students on holiday and can throw yourselves full-bore into this course with all its challenges. Others of you have day jobs and must focus on providing for yourself and your family first. Some of you are going through transitions of a personal nature, such as moving to a new city or dealing with the death of a loved one. This is all understandable, and expected.
 
@@ -21,7 +21,7 @@ If you must prioritize, I would suggest the following:
 3.  If you have all the time you need, do the challenge and post it.
 
 
-### Mini-Challenge Results
+## Mini-Challenge Results
 
 Here are a small selection of the answers to the mini-challenge from last time (propose a concept for an art game):
 
@@ -34,7 +34,7 @@ Here are a small selection of the answers to the mini-challenge from last time (
 -   A sorcery-themed game where the effects of spells are designed during play.
 
 
-### Readings
+## Readings
 
 Read the following:
 
@@ -45,7 +45,7 @@ Read the following:
 -   [Building a Princess Saving App](http://lostgarden.com/Mixing_Games_and_Applications.pdf) (PDF), by Dan Cook. This article is actually written for an audience of interaction designers to explain what productivity applications can learn from games. In the process, though, it also happens to touch on some core concepts of game design and the nature of "fun" which is exactly what we’re talking about today.
 
 
-### Decisions
+## Decisions
 
 As Costikyan pointed out in *I Have No Words*, we often use the buzzword "interactivity" when describing games when we actually mean "decision-making." Decisions are, in essence, what players *do* in a game. Remove all decisions and you have a movie or some other linear activity, not a game. As pointed out in *Challenges*, there are two important exceptions, games which have no decisions at all: some children’s games and some gambling games. For gambling games, it makes sense that a lack of decisions is tolerable. The "fun" of the game comes from the thrill of possibly winning or losing large sums of money; remove that aspect and most gambling games that lack decisions suddenly lose their charm. At home when playing only for chips, you’re going to play games like *Blackjack* or *Poker* that have real decisions in them; you are probably not going to play *Craps* or a slot machine without money being involved.
 
@@ -53,7 +53,7 @@ You might wonder, what is it about children’s games that allow them to be comp
 
 Other than those two exceptions, most games have some manner of decision-making, and it is here that a game can be made more or less interesting. Sid Meier has been quoted as saying that a good game is a series of interesting decisions (or something like that), and there is some truth there. But what makes a decision "interesting"? *Battleship* is a game that has plenty of decisions but is not particularly interesting for most adults; why not? What makes the decisions in *Settlers of Catan* more interesting than *Monopoly*? Most importantly, how can you design your own games to have decisions that are actually compelling?
 
-### Things Not To Do
+## Things Not To Do
 
 Before describing good kinds of decisions, it is worth explaining some common kinds of **uninteresting** decisions commonly found in games. Note that the terminology here (obvious, meaningless, blind) is my own, and is not "official" game industry jargon. At least not yet.
 
@@ -74,7 +74,7 @@ Or consider the board game *Battleship* which seems to keep coming up in our dis
 
 Or consider *Tic-Tac-Toe*, which has interesting strategic decisions until you reach the age where you master it and realize the way to always win or draw, at which point the decisions become obvious.
 
-### What Makes Good Decisions?
+## What Makes Good Decisions?
 
 Now that we know what makes *weak* decisions, the easiest answer is "don’t do that!" But we can take it a little further. Generally, *interesting* decisions involve some kind of **tradeoff**. That is, you are giving up one thing in exchange for another. These can take many different forms. Here are a few examples (again I use my own invented terminology here):
 
@@ -95,7 +95,7 @@ Notice the common thread here. All of these decisions involve the player judging
 
 The next time you play a game that you really like, think about what kinds of decisions you are making. If you have a particular game that you strongly *dis* like, think about the decisions being made there, too. You may find something about yourself, in terms of the kinds of decisions that you enjoy making.
 
-### What About Action Games?
+## What About Action Games?
 
 At this point, the video gamers among you are wondering how any of this applies to the latest First-Person Shooter. After all, you’re not exactly strategizing about resource management tradeoffs in the middle of a heated battle where bullets and explosions are flying all around you.
 
@@ -103,13 +103,13 @@ The short answer here is that you *are* making interesting decisions in such gam
 
 Time limits can, in fact, be used to turn an obvious decision into a meaningful one. Another way I prefer to say this is that **time pressure makes us stupid**. For a more thorough discussion of action games and how skill relates to them, see Chapter 7 (Twitch Skill) in *Challenges for Game Designers*.
 
-### Emotional Decisions
+## Emotional Decisions
 
 There is one class of decisions that is useful to consider: decisions that have an emotional impact on the player. The decision of whether to save your buddy (while using some of your precious supplies) or leave him behind to die (potentially denying yourself some AI-assisted help later on) in *Far Cry* is a resource decision, but it is also meant to be an emotional one – and certainly, an identical decision made on a real-life battlefield would come down to more than just an analysis of available resources and probabilities. Likewise, the majority of players do not play through a game with moral choices (such as *Knights of the Old Republic* or *Fable*) as pure evil – not because "evil" is a suboptimal strategy, but because even in a fictional simulated world, a lot of people can’t stomach the thought of torturing and killing innocent bystanders.
 
 Or consider a common decision made at the start of many board games: what color are you? Color is usually just a way to uniquely identify player tokens on the board, and has no effect on gameplay. However, many people have a favorite color that they always play, and can become quite emotionally attached to "their" color. It can be rather entertaining when two players who "always" play Green, play together for the first time and start arguing over who gets to be Green. If player color has no effect on gameplay, it is a meaningless decision. It *should* therefore be uninteresting, and yet some players paradoxically find it quite meaningful. The reason is that they are emotionally invested in the outcome. This is not to say that you can cover up a bad game by artificially adding emotions; but rather, as a designer, be aware of what decisions your players seem to respond to on an emotional level.
 
-### Flow theory
+## Flow theory
 
 Let’s talk a little bit about this elusive concept of "fun." Games, we are told, are supposed to be fun. The role of a game designer is, in most cases, to take a game and make it fun. I’ve used the word "fun" a lot in this course without really defining it, and it has understandably made some of you uncomfortable. Notice I usually enclose the word "fun" in quotation marks, on purpose. My reasoning is that "fun" is not a particularly useful word for game designers. We instinctively know what it means, sure, but the word tells us nothing about how to *create* fun. What is fun? Where does it come from? What makes games fun in the first place? We will continue to talk about this on Thursday, but I want to start talking about it now. I’m sure you can agree it has been long enough.
 
@@ -145,7 +145,7 @@ Csikszentmihalyi also gave five effects of being in a flow state:
 
 I find it ironic, when a typical kid is in their "not now, I’m playing a game" mental state, the parent complains that they are "zoned out." In fact, the gamer is in a flow state, and they are "zoned *in* " to the game.
 
-### Flow States in Games
+## Flow States in Games
 
 Simplifying this a bit, we know that to be in a flow state, an activity must be **challenging**. If it is too easy, then the brain has no reason to waste extraneous mental cycles, as a positive outcome is already assured. If it is too difficult, the brain *still* has no reason to try hard, because it knows it’s just going to fail anyway. The goal is to hit that sweet spot where the player can succeed… but only if they try hard. You’ll often see a graph that looks like this, to demonstrate:
 
@@ -156,7 +156,7 @@ All this says is that if you have a high skill level and are given an easy task,
 
 Note that "flow" and "fun" are not synonyms, although they are related. You can be in a flow state without playing a game (and in fact without having fun). For example, an office worker might get into a flow state while filling out a series of forms. They may be operating at the edge of their ability in filling out the forms as efficiently as possible, but there may not be any real learning going on, and the process may not be fun, merely meditative. (Thanks to Raph for clarifying this for me.)
 
-### One Slight Problem
+## One Slight Problem
 
 When you are faced with a challenging task, you get better at it. It’s fun because you are *learning*, remember? So, most people start out with an activity (like a game) with a low skill level, and if the game provides easy tasks, then so far so good. But what happens when the player gains some competency? If they keep getting the same easy tasks, the game becomes boring. This is essentially what happens in *Tic-Tac-Toe* when a child makes the transition to understanding the strategy of the game.
 
@@ -181,13 +181,13 @@ Ideally, as a game designer, you would like your game to have slightly more last
 
 You’ll notice that when we read in a review that a game has "replayability" or "many hours of gameplay" what we are often *really* saying is that the game is particularly good at keeping us in the flow state by adjusting its difficulty level to continue to challenge us as we get better.
 
-### Why Games?
+## Why Games?
 
 You might wonder, if flow states are so pleasurable and they are where this elusive and mysterious "fun" comes from, why do we design games to do this and not some other medium? Why not design *productive* tasks to induce flow states, for example, so that maybe we could get a few million people working on discovering a cure for cancer instead of playing *World of Warcraft*? Why not design college classes to induce flow states, so that a student could learn a typical 50-hour class in a week (the same way they might play through a 50-hour RPG on their *PlayStation*) instead of having that same class take an entire 10 or 15 weeks?
 
 Games just happen to be naturally good at putting players in a flow state, so it is much easier to design a fun game than a fun course in Calculus. As Koster points out in *A Theory of Fun*, the brain is a great pattern-matching machine, and it is the finding and understanding of patterns that is what is happening when our brain is in a flow state. I think games bring this out really well because you have three levels of patterns: feeling the Aesthetics, discerning the Dynamics, and finally mastering the Mechanics (in the MDA sense). Since every game has these three layers of patterns, games are three times as interesting as most other activities.
 
-### "Edutainment" Games
+## "Edutainment" Games
 
 You might think that, if games are so great at teaching and if learning is so darned pleasurable, that educational games would be more fun than anything. In reality, of course, "Edutainment" is a dirty word that we only mention when forced, as the vast majority of games that bill themselves as "fun… *and* educational!" are actually neither. What’s going on here?
 
@@ -199,7 +199,7 @@ It would be wonderful if we could stop teaching that "learning is not fun" lesso
 
 What if you want to design a game that has the primary purpose of teaching, then? That is a subject that deserves a course of its own. My short answer: start by isolating the inherently fun aspects of learning the skills you want to teach, and then use those as your core mechanics. By integrating the learning and the gameplay (rather than keeping them as separate concepts or activities), you take a large step towards something truly worthy of the "fun, and educational" label.
 
-### A Note for Teachers
+## A Note for Teachers
 
 If you’ve accepted everything in this lesson so far, you might see a parallel with teaching. If learning is inherently fun, think about what you can do to draw that out of your subject.
 
@@ -210,7 +210,7 @@ If you’ve accepted everything in this lesson so far, you might see a parallel 
 -   The most fun games are designed in a player-centric manner, concentrating first on providing a quality experience. You can tell a game where the designer made a game that *they* wanted to play, because it sold a total of five copies to the designer, the designer’s close friends, and the designer’s mom. You can also tell a game where the designer started with content rather than gameplay; these are the games that have deep, involving stories and incredible layers of content, but no one sees them because the gameplay is boring and people stop playing after five minutes. What would your class be like if you start your lesson plans by thinking of the student experience, rather than designing a class that *you* find interesting (your students might not share your research interests), or designing a class based around content (which is probably not engaging until *you* bring it to life)?
 
 
-### Lessons Learned
+## Lessons Learned
 
 Decisions are the core of what a game is. When critically analyzing a game (yours or someone else’s), pay attention to what decisions the players are making, how meaningful those decisions are, and *why*. The more you understand about what makes some decisions more compelling than others, the better a game designer you are likely to be.
 
@@ -218,13 +218,13 @@ Games are unnaturally good at teaching new skills to players. (Whether those ski
 
 There it is! Mystery solved! You now know everything there is to know about where "fun" comes from and how to create it. Okay, not really. But this is a start, and we will probe a bit deeper into the nature of "fun" this Thursday.
 
-### Feedback
+## Feedback
 
 If you have time, before beginning the Homeplay below, please take the time to offer **constructive feedback** to at least three other posts from the art games from Level 6 (posted on the [forum](http://gamedesignconcepts.aceboard.com/)). If you posted a game yourself, offer feedback to other posts in the same category as you posted yours. If you were unable to post a game last time, then choose whichever of the four topics most interests you (see the bottom of [Level 6](http://gamedesignconcepts.wordpress.com/2009/07/16/level-6-games-and-art/) for details).
 
 Try to complete your feedback on or before Thursday, July 23, noon GMT.
 
-### Homeplay
+## Homeplay
 
 This time around, let’s practice our ability to provide meaningful decision-making to players. We are going to make a mod of a game. (This homeplay is adapted from Challenge 6-1 in the *Challenges* text.)
 
@@ -248,36 +248,36 @@ Change the rules so that the game outcome is determined primarily by **skill**, 
 
 Post in the forum that most closely resembles your skill and experience level as a designer.
 
-#### Beginner
+### Beginner
 
 ![Green Circle][]
 [Green Circle]: green_circle.pdf width=65px
 
 Beginner, little or no experience prior to taking this course.
 
-#### Intermediate
+### Intermediate
 
 ![Blue Square][]
 [Blue Square]: blue_square.pdf width=65px
 
 Intermediate, some coursework or exposure to game design but little or no professional experience.
 
-#### Advanced
+### Advanced
 
 ![Black Diamond][]
 [Black Diamond]: black_diamond.pdf width=65px
 
 Advanced, at least some professional experience as a published game designer.
 
-#### Post
+### Post
 
 Make your post on or before Thursday, July 23, noon GMT. Then, **offer constructive feedback** to at least two other posts in the same forum, *and* at least three posts in one forum "below" yours if you posted in Blue Square or Black Diamond.
 
-### Mini-Challenge
+## Mini-Challenge
 
 Add a rule that gives interesting decisions to *Trivial Pursuit* that can be expressed in 135 characters or less. Post it to Twitter with the \#GDCU tag. One rule change per person, please! Tweet before July 23, noon GMT.
 
-### Parting Shot
+## Parting Shot
 
 If you’re still curious, "Csikszentmihalyi" is pronounced "Chick-sent-me-high". Seriously, I’m not making this up. It’s not exact, but it’s about as close as you can get with an English-language transliteration.
 

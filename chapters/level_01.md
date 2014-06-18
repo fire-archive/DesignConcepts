@@ -1,10 +1,10 @@
-## Level 1: Overview / What is a Game? [Overview]
+# Level 1: Overview / What is a Game? [Overview]
 
 *Originally posted June 29, 2009*
 
 Welcome to Game Design Concepts! I am Ian Schreiber, and I will be your guide through this whole experiment. I’ve heard a lot of excitement throughout all of the registration process these last few months, and be assured that I am just as excited (and intimidated) at this whole process as anyone else. So let me say that I appreciate your time, and will do my best to make the time you spend on this worthwhile.
 
-### Course Announcements
+## Course Announcements
 
 Before we begin, I’d like to get a few quick administrative things out of the way:
 
@@ -25,7 +25,7 @@ Before we begin, I’d like to get a few quick administrative things out of the 
 
 And with all of that out of the way, let’s talk about game design!
 
-### Course Overview
+## Course Overview
 
 Most fields of study have been around for thousands of years. Game design has been studied for not much more than ten. We do not have a vast body of work to draw upon, compared to those in most other arts and sciences.
 
@@ -35,7 +35,7 @@ Okay, that isn’t entirely fair. There is actually a huge body of material in t
 
 This course will be divided, roughly, into two parts. The first half of the course will focus on the theories and concepts of game design. We will learn what a game is, how to break the concept of a game down into its component parts, and what makes one game better or worse than another. In the second half of the course, the main focus is the practical aspect of how to create a good game out of nothing, and the processes that are involved in creating your own games. Throughout all of the course, there will be a number of opportunities to make your own games (all non-digital, no computer programming required), so that you can see how the theory actually works in practice.
 
-### What Is a Game?
+## What Is a Game?
 
 Those of you who have read a little into the Challenges text may think this is obvious. My preferred definition is a **play activity** with **rules** that involves **conflict**. But the question "what is a game?" is actually more complicated than that:
 
@@ -69,7 +69,7 @@ Magic Square:
 
 Now you may recognize it. It is the game of **Tic-Tac-Toe** (or **Noughts and Crosses** or several other names, depending on where you live). So, is Tic-Tac-Toe the same game as Three-to-Fifteen, or are they different games? (The answer is, it depends on what you mean… which is why it is important to define what a "game" is!)
 
-### Working Towards a Critical Vocabulary
+## Working Towards a Critical Vocabulary
 
 When I say "vocabulary" what I mean is, a set of words that allows us to talk about games. The word "critical" in this case does not mean that we are being critical (i.e. finding fault with a game), but rather that we are able to analyze games critically (as in, being able to analyze them carefully by considering all of their parts and how they fit together, and looking at both the good and the bad).
 
@@ -81,7 +81,7 @@ Another option, often chosen by those who write textbooks on game design, is to 
 
 One might wonder, if having the words to discuss games is such an important thing, why hasn’t it been done already? Why hasn’t the game industry settled on a list of terms? The answer is that it is doing so, but it is a slow process. We’ll see plenty of this emerging in the readings, and it is a theme we will return to many times during the first half of this course.
 
-### Games and Play
+## Games and Play
 
 There are many kinds of play: tossing a ball around, playing make-believe, and of course **games**. So, you can think of games as one type of play.
 
@@ -89,7 +89,7 @@ Games are made of many parts, including the rules, story, physical components, a
 
 How can two things both be a **subset** the other? It seems like a paradox, and it’s something you are welcome to think about on your own. For our purposes, it doesn’t matter — the point here is that **games** and **play** are concepts that are related.
 
-### So, What Is a Game, Anyway?
+## So, What Is a Game, Anyway?
 
 You might have noticed I never answered the earlier question of what a game is. This is because the concept is very difficult to define, at least in a way that doesn’t either leave things out that are obviously games (so the definition is too narrow), or accept things that are clearly not games (making the definition too broad)… or sometimes both.
 
@@ -139,7 +139,7 @@ By examining these definitions, we now have a starting point for discussing game
 -   Games are a form of **art**.
 
 
-### Weaknesses of Definitions
+## Weaknesses of Definitions
 
 Which of the earlier definitions is correct?
 
@@ -157,7 +157,7 @@ Costikyan says they are not games, although they may be contained within a game.
 -   **z**. Are games stories? On the one hand, most stories are linear, while games tend to be more dynamic. On the other hand, most games have some kind of story or narrative in them; we even have professional story writers that work on multi-million-dollar video game projects. And even beyond that, a player can tell a story about their game experience ("let me tell you about this **Chess** game I played last night, it was awesome"). For now, keep in mind that the concepts of story and game are related in many ways, and we’ll explore this more thoroughly later in the course.
 
 
-### Let’s Make a Game
+## Let’s Make a Game
 
 You might be wondering how all of this is going to help you make games. It isn’t, directly… but we need to at least take some steps towards a shared vocabulary so that we can talk about games in a meaningful way.
 
@@ -181,13 +181,13 @@ Congratulations! You have now made a game. It may not be a particularly good gam
 
 Credit for developing this exercise goes to my friend and co-author, Brenda Brathwaite, who noticed that there is this invisible barrier between a lot of people and game design, and created this as a way to get her students over their initial fear that they might not be able to design anything.
 
-### Lessons Learned
+## Lessons Learned
 
 If you take away nothing else from this little activity, realize that you can have a playable game in minutes. It does not take programming skill. It does not require a great deal of creativity. It does not require lots of money, resources, or special materials. It does not take months or years of time. Making a good game may require some or all of these things, but the process of just starting out with a simple idea is something that can be done in a very short period of time with nothing more than a few slips of paper.
 
 Remember this as we move forward in this course. When we talk about iteration and rapid prototyping, many people are afraid to commit to a design, to actually build their idea. They are afraid it will take too long, or that the idea will not turn out to be as good as it seems in their head. Part of the process involves killing weak ideas and making them stronger, by actually making and playing your game. The faster you can have something up and running, and the more times that you can play it, the better a game you can make. If it takes you more than a few minutes to make your first prototype of a new idea, it is taking too long.
 
-### Homeplay
+## Homeplay
 
 Some classes assign "homework problems." I’m not sure what is less fun: the concept of work at home, or having problems. So, I call everything a "homeplay" because I want these to be fun and interesting.
 

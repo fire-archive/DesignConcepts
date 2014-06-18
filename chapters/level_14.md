@@ -1,4 +1,4 @@
-## Level 14: Playing with Non-Designers
+# Level 14: Playing with Non-Designers
 
 *Originally posted August 13, 2009*
 
@@ -15,11 +15,11 @@ Today, we cover the first of these: listening to playtesters. Once you are at a 
 
 Playtesting with gamers is very different from playing with other game designers. Done right, the feedback you can get from players in your target audience is even more meaningful than getting feedback from game designers, because you are seeing firsthand how your game will be experienced by the very kinds of people who will eventually be playing the final version. However, it is a very different skill. Non-designer playtesters will give a different kind of feedback, and it takes a bit more effort to find the root cause of problems that are identified. You have to be much more observant.
 
-### Readings
+## Readings
 
 No readings for today. As with last time, if you know of any relevant readings you have encountered before, post it as comments to this blog post, or on Twitter with the \#GDCU tag.
 
-### Street Performers
+## Street Performers
 
 Have you ever seen a street performer? This is a musician, magician, juggler, mime, or other person who is performing for an audience of passers-by. These people rely on donations from observers; they do not get any pay other than what these strangers on the street choose to give them. Because of this, they tend to be very good at pleasing a crowd – if they aren’t, they don’t get to eat.
 
@@ -27,7 +27,7 @@ During the act, the audience is obviously paying attention to the performer. But
 
 Note that they do not ever stop their act to ask whether people are having a good time. They know by observing. They don’t have to ask.
 
-### What Does This Have to do with Game Design?
+## What Does This Have to do with Game Design?
 
 When you are playtesting with non-designers, your role is similar to that of a street performer. Don’t simply ask your playtesters if your game is fun; they may not be able to tell you, and if they do, they may not give you an accurate or precise answer. Instead, *watch* your testers as they play, and take notes:
 
@@ -44,7 +44,7 @@ When you are playtesting with non-designers, your role is similar to that of a s
 
 Note that all of these things may vary during a single play session. You may find that certain parts of your game generate more engagement than others. Your goal during the playtest session is to observe these things.
 
-### Preparing for a Playtest Session with Non-Designers
+## Preparing for a Playtest Session with Non-Designers
 
 People who are not fellow designers are sometimes (not always) less tolerant of extremely rough prototypes. A typical gamer, when handed a stack of hand-written index cards and instructed to move pennies around on a game board that’s hand-drawn on notebook paper, may be concentrating so much on the poor quality of components that they have trouble thinking about the game mechanics. You may get a lot of comments about missing art or board layout, which are a waste of your time – after all, at this stage you just want to get feedback on the play experience, not the final artwork. We haven’t even started talking about the appearance of the game yet!
 
@@ -67,7 +67,7 @@ How do you make a prototype that looks better than hand-drawn, without taking to
 -   You may find other tools that you like to use. Feel free to post them here!
 
 
-### Running a Playtest Session with Non-Designers
+## Running a Playtest Session with Non-Designers
 
 Since you are going to spend so much time taking notes and observing, you will probably find it easiest if you do not actually *play* the game. You may be able to take the role of a player when testing with other designers, and you’re obviously taking on the role of *all* players when solo testing, but in the kind of testing we’re talking about today you should avoid playing so that you can focus all of your attention on how your testers are interacting with the game and with each other.
 
@@ -79,7 +79,7 @@ Sometimes your playtesters may not ask you, and they’ll simply start playing "
 
 There is one other useful aspect to letting people play the game "incorrectly." Sometimes you will find, quite by accident, that the way your testers are playing is actually *better* than your original rules. Most people, even non-designers, have a strong instinct towards play. Sometimes, people will violate the rules of a game because at an instinctive level, they are playing in a way that they believe will be more fun.
 
-### Finding Non-Designer Playtesters
+## Finding Non-Designer Playtesters
 
 Here’s the good news: finding non-designer playtesters is much easier than finding other game designers. There are more of the former than the latter in the general population.
 
@@ -87,7 +87,7 @@ This is where friends, family, and colleagues can become useful. They are often 
 
 Do keep in mind that the people that know you are far less likely to give strongly negative criticism. They may tell you it is the best game they ever played, even if it isn’t, because there is an interpersonal relationship at stake that is likely more important to them than the outcome of some game project. In other words, expect some of these people to be big stinking liars. This is where observing them closely comes in; it is up to you to figure out what parts of the game are *actually* fun for these people.
 
-### Homeplay
+## Homeplay
 
 Your homeplay this past Monday was to arrange for a playtest session with other designers. You may have already performed this playtest, or you may have just scheduled it to take place over the weekend, but that playtest session should be concluded before next Monday, August 17, noon GMT.
 
@@ -95,7 +95,7 @@ In addition, over the weekend, you should **arrange a playtest session with non-
 
 Time permitting, you may continue to run additional playtest sessions, either with designers or non-designers.
 
-### Feedback
+## Feedback
 
 Do you know of any great articles on running playtests? Do you have any favorite tools using a computer to generate quality game components quickly and easily? Post them in the comments on this blog, or on Twitter with the \#GDCU tag.
 

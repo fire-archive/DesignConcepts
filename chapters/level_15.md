@@ -1,14 +1,14 @@
-## Level 15: Blindtesting
+# Level 15: Blindtesting
 
 *Originally posted August 17, 2009*
 
 When your game is playtested without you (or another of the game’s designers) being personally present to observe, it is called **blindtesting**. This is the subject we cover today.
 
-### Readings
+## Readings
 
 No readings for today. As before, if you know of any relevant readings you have encountered, post it as comments to this blog post, or on Twitter with the \#GDCU tag.
 
-### The Challenges with Blindtesting
+## The Challenges with Blindtesting
 
 As you might imagine, blindtesting has a lot of problems compared with a playtest that you run in person:
 
@@ -25,7 +25,7 @@ As you might imagine, blindtesting has a lot of problems compared with a playtes
 
 Blindtesting is therefore limited in the type of information it can provide, and the schedule on which it can provide it.
 
-### Why Blindtesting?
+## Why Blindtesting?
 
 If blindtesting is so limited, why bother with it at all? What use is it?
 
@@ -37,13 +37,13 @@ Playtests share a lot in common with science experiments. In both cases there is
 
 Blindtests, then, are the only way to get a true idea of what your game is like "in the wild" – that is, how players will react to it if they have just purchased it from a store and are playing it for the first time, without a designer present at their table to answer questions.
 
-### When to Blindtest?
+## When to Blindtest?
 
 Because you can get so little information from blindtesting, it is not suitable for an early test when your game is in a rough state (the testers would likely run into problems, be unable to continue, and you would have spent a lot of time waiting for something that you could have figured out much faster with an in-person playtest. **Blindtesting is most suitable near the end of development, when you already have a high degree of confidence in your game**.
 
 The purpose of blindtesting is to catch the non-obvious problems that you may not be catching in your in-person playtests, because you accidentally bias the results of the test by helpfully being available to answer questions. Even if your playtesters never have to ask you anything, the very knowledge that you *could* can sometimes make people relaxed enough to get through the rules, where they might otherwise get flustered and give up. Or, you might say some key piece of information when introducing the players to the game ("this is an auction/bidding game") that is not written anywhere and clarifies a lot by creating some preconceived notions in the minds of your testers. Without you present, you’ll see just how accurate your in-person playtests are, and you may catch some surprising errors that you did not notice before.
 
-### Who to Blindtest With?
+## Who to Blindtest With?
 
 Most board games require multiple players. For practical reasons, most blindtests done with professional games are done with regular game groups. Some companies keep a list of volunteer groups and put out calls to their private list for playtesters; they will then send out advance copies of their game in exchange for feedback. For our purposes, this is unhelpful, because most of you do not work at such a company and do not have a database of volunteers to call at a moment’s notice.
 
@@ -57,8 +57,7 @@ There are a few ways to find blindtesters for your Design Project in this course
 
 -   As a last resort, you can look outside of this course for other discussion forums or other online hangouts for board game designers and/or playtesters, and see if there is a method for recruiting blindtesters.
 
-
-### How to Blindtest?
+## How to Blindtest?
 
 With in-person tests you can afford to be a little bit sloppy. Maybe you accidentally left some of your game components at home, or some of your rules are a little unclear and need clarification. It’s not ideal, but a playtest session that runs into problems can be salvaged when you are there. With blindtesting, you do not have this luxury, so you must be extra careful to make sure that your testers have everything they need to give your game a proper playtest. This includes:
 
@@ -79,7 +78,7 @@ First, you can mail your prototype to them through the postal service. Depending
 
 Second, you can handle everything over email. Send documents that can be printed out and assembled to make a playable prototype, and include instructions on how to print everything. Do everything you can to reduce the amount of work that must be done at the playtesters’ end of things. After all, you are already asking for their time in the form of a playtest; asking for another hour or two to print and cut sheets of cards is adding insult to injury. Along the same lines, try to keep the cost of materials down and availability high if you’re expecting your blindtesters to provide their own. For example, do not insist on printing on heavy card stock (which may require a special trip to a print shop) when printing on plain paper will do.
 
-### Contingency Planning
+## Contingency Planning
 
 In the field, game companies do not rely on a single blindtest group, but several. Aside from the obvious reason that more tests give more data, there is also the problem that blindtest groups are unreliable. Without you in the same room, they may take awhile to organize a playtest, and they may take even longer to get back to you. Some groups may lose the components, or forget about their obligation, or they may simply be so busy with other things in their life that your game takes lower priority. Or maybe you’ll send your game through the post and it will get lost. In this course, when you set up a blindtest, you may find yourself in the frustrating situation of waiting for test results that are simply not coming… or at least, they may not arrive within the schedule you set for yourself.
 
@@ -91,14 +90,13 @@ You have three options for dealing with this potential hazard. It is up to you w
 
 3.  You can cross your fingers and hope that something bad won’t happen to you. This third method is not recommended for professional projects.
 
-
-### Homeplay
+## Homeplay
 
 Your homeplay this past Thursday was to arrange for a playtest session with non-designers. You may have already performed this playtest, or you may have just scheduled it to take place over the first part of this week, but that playtest session should be concluded before this Thursday, August 20, noon GMT.
 
 In addition, you should **find a blindtest group and arrange for a blindtesting session, to take place *after* the non-designer playtest.** If possible, you should plan to have blindtest results on or before Thursday, August 27.
 
-### Feedback
+## Feedback
 
 Do you know of any great articles on blindtesting? As you conduct your own session, or you’re your own personal experience if you’ve done this before, have you found any helpful tips or tricks that you’d like to share? Post in the comments on this blog, or on Twitter with the \#GDCU tag.
 

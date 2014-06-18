@@ -1,4 +1,4 @@
-## Level 6: Games and Art
+# Level 6: Games and Art
 
 *Originally posted July 16, 2009*
 
@@ -12,11 +12,11 @@ Third, so-called "art games" – that is, games that are made primarily for the 
 
 And finally, I know just enough about art history and art criticism to be dangerous. I am therefore driven, to an extent, to talk about an area of personal interest… even though I acknowledge that it will undoubtedly get me into trouble at some point.
 
-### Course Announcements
+## Course Announcements
 
 For those paying close attention, I recently changed my Twitter username from @ai864 to @IanSchreiber, after urging from co-author Brenda Brathwaite (@bbrathwaite). The theory is that my actual name will be easier to remember… provided people learn to spell it correctly. Keep in mind, for those of you who tweet about this course regularly.
 
-### Mini-Challenge Results
+## Mini-Challenge Results
 
 Here are a small selection of the answers to the mini-challenge from last time (identify a physical sport with a feedback loop, and propose a rule change to eliminate it):
 
@@ -33,7 +33,7 @@ Here are a small selection of the answers to the mini-challenge from last time (
 -   Cycling, auto racing, and similar: Negative feedback loop is the ability to draft behind the person in front of you, letting you save energy so that you can overtake them later. Rule change: race in a vacuum. (Very funny, wise guy.)
 
 
-### Readings
+## Readings
 
 Due to the positive response from Monday, I’ll continue putting the readings up front. Go do these now:
 
@@ -44,7 +44,7 @@ Due to the positive response from Monday, I’ll continue putting the readings u
 -   *Understanding Comics*, Chapter 7 (The Six Steps), if you chose to acquire this book.
 
 
-### What is Art?
+## What is Art?
 
 *Understanding Comics* is, as you may have seen, a comic book about the art form of comic books. If you have read Chapter 7, you will immediately see a number of parallels between comic book art and game design… aside from the public image problem that both have of being "not serious" and "just for kids."
 
@@ -58,7 +58,7 @@ Wikipedia defines art as **the process or product of deliberately arranging elem
 
 My intent is not to define the term *art*; it is about as difficult and about as fruitless as the quest to define the word *game*. Rather, my point is that no matter what definition of "art" you find, it does not seem particularly difficult to include games within that definition.
 
-### Why the problem, then?
+## Why the problem, then?
 
 If games fit any reasonable definition of "art" that we can think of, you might wonder why this is even a debate. Why the claims, real or imagined, that "games cannot be art"?
 
@@ -68,7 +68,7 @@ I won’t say much about this because it is largely covered in Clint Hocking’s
 
 At any rate, if you’re noticing a theme in the readings, you can see where I personally stand on the issue. We may not have the game equivalent of *Mona Lisa* or *Citizen Kane* yet, but that just means an opportunity. So, let us move past this. Let’s assume for the moment that games *can* be a valid medium for artistic expression, and start talking about *how* one might go about doing so.
 
-### Six Steps
+## Six Steps
 
 I wanted to make two key points in reference to the reading in *Understanding Comics*. The first was McCloud’s definition of art, above. The second is the six layers of art:
 
@@ -95,7 +95,7 @@ Does this sound familiar? It should. It is, for the most part, a restatement of 
 
 Actually, I think of McCloud’s six steps as an *extension* of MDA. Mechanics are roughly equivalent to McCloud’s Structure; Dynamics are analogous to Craft; and Aesthetics are similar to Surface. It’s not a direct parallel, but it is close. In both cases, the consumer is concerned with the surface, while the true artist looks toward the inner core of the artistic process.
 
-### Towards an Artistic Process
+## Towards an Artistic Process
 
 If MDA represents the outer three layers of a piece of art, how do we represent the inner three layers? To answer this, we again turn to McCloud’s model.
 
@@ -113,7 +113,7 @@ If you explore form, you can push the boundaries of the medium. What are games c
 
 If you explore idea/purpose, you instead have a message you want to communicate to the world, and you have chosen games as your preferred method of expression. Here, the challenge is to communicate in a medium where the player, and not the designer, is in control of the experience. You must use every trick you know in order to provide meaning through gameplay. What ideas do you want to express? What deep meaning exists in your life, that you want to share?
 
-### Lots of Questions, Few Answers…
+## Lots of Questions, Few Answers…
 
 You might be wondering at this point if I have any answers at all about how to do this. I do not, but this is because of the nature of art.
 
@@ -121,7 +121,7 @@ This course is concerned primarily with the outer three layers of the art of gam
 
 But beyond that, as McCloud says, the inner three layers can’t be learned from a class or a book. To reach an understanding of the inner core of an art form, you will have to spend your entire career, maybe 20 or 30 years or more, working towards this *on your own*. And that’s only if you want to. You may have no interest in this, and that is perfectly okay. The world may need more people pushing the boundaries of games as an artistic medium… but the world still needs some good games, too. Only you know how far you can or want to take your art. It is not my place to tell you, but rather to point you to a road map that will let you get where you want to go.
 
-### And Now, a Little Art History.
+## And Now, a Little Art History.
 
 This is the part that always gets me into trouble, because a lot of people are mistrustful and cynical of contemporary art. Some guy calling himself an "artist" can poop in a tin can and sell it to an art gallery for 20,000 Euros, and the rest of us wonder how *we* can get people to pay us that much for our own excrement. This is art? And if so… is *this* what games aspire to be? It helps to take a step back and look at how we got this way, because games fit in quite nicely with contemporary art, and we should really understand why.
 
@@ -149,13 +149,13 @@ What about money? Games are definitely suffering the "problem" of being commodit
 
 What is the point of all of this? Simply that if this is an area of interest for you, it is worth your time to study art history. The world of art critics and art historians already figured out how to judge if something is "art" or not, back in 1917 when Duchamp signed a pseudonym to a urinal and called it art. In fact, while many developers imagine the art world snobbily refusing to acknowledge games as worthy of attention, this is just fantasy; the reality is that games have been on the radar of art critics for awhile now. My own literature search turned up articles as early as 1994 (this was a year before the first *PlayStation* was released, mind you). In all of the cases I could find – and I’m talking peer-reviewed academic art journals – not only are video games being analyzed, but there is an implicit assumption that games are art. I did not find any articles that wasted any time defending games as a means of artistic expression; it was an *a priori* assumption. Let’s get over our delusions of persecution, then, and make some art.
 
-### What are Art Games?
+## What are Art Games?
 
 How does one go about designing a game that is artistic in its purpose rather than purely entertainment-driven? This really depends on what counts as "art," as there are many games out there already that are primarily made as a form of expression. As you’ll see, they fall into several categories. There may be other categories I am missing here… partly because there are undoubtedly games that could be called "art" that I have not yet seen, and partly because this is a largely unexplored space. But these should give you some starting points.
 
 I’ll give you a few games to play. Go ahead and play them first, if you can. Then, read down for further discussion. The following games are all playable in just a few minutes, usually five or less. Those that take longer, will at least give you the general idea of gameplay right away, and you can play them for longer or not. Play some or all, as your time allows.
 
-### Playings
+## Playings
 
 -   [*Passage*](http://hcsoftware.sourceforge.net/passage/) and/or [*Gravitation*](http://hcsoftware.sourceforge.net/gravitation/), by Jason Rohrer. (5 and 8 minute play times, respectively.)
 
@@ -169,7 +169,7 @@ I’ll give you a few games to play. Go ahead and play them first, if you can. T
 
 -   [*Cloud*](http://www.jenovachen.com/flowingames/cloud.htm), by Jenova Chen. (Takes awhile to play to completion, but it shows you the major mechanics in the first level, which only takes a few minutes)
 
-### Lessons Learned
+## Lessons Learned
 
 The question of whether games can be "art" will continue to be debated for some time, I’d imagine. For our purposes, it is a rather fruitless debate; if you are interested in making an artistic expression through the medium of games, then do so.
 
@@ -179,7 +179,7 @@ Even if you are not looking to be an *artiste*, you may still be creating art in
 
 *"Most importantly, games and their designers need to acknowledge that there is no distinction between art and entertainment… all art and all entertainment are posing problems to the audience. All art and all entertainment are prodding us toward greater understanding of the chaotic patterns we see swirl around us. Art and entertainment are not terms of **type** – they are terms of **intensity**."*
 
-### Now, About Those Playings…
+## Now, About Those Playings…
 
 By looking at some of the games that seem to be referenced a lot in discussions of art, we can get some clues about how we might go about creating our own artistic statements through gameplay. I should be clear that what follows are my own personal interpretations of these works, and your experiences (and the artists’ intent) may vary. I do not see this as a problem; Postmodern art allows for multiple interpretations and multiple layers of meaning.
 
@@ -206,7 +206,7 @@ Looking at these in the context of McCloud’s six steps, we can see some patter
 
 Are there other artistic works you can do in the other steps? I think there are, but we have not heavily explored them yet.
 
-### Homeplay
+## Homeplay
 
 Today I offer a choice of designs, based not on experience level (I must admit that most of us are novices in this area, even if we are experienced game designers) but on area of interest. Here are four options, all inspired by the "non-digital shorts" at the end of the *Challenges* chapter:
 
@@ -220,11 +220,11 @@ Option 4 (Exploring the nature of the medium): Choose a digital game that you co
 
 Choose whichever of these most interests you, and **make a post** in the [relevant forum](http://gamedesignconcepts.aceboard.com/). I have created one discussion area for each of these four options. Make your post before the next scheduled lesson here: on or before Monday, July 20, noon GMT. Then, **offer constructive feedback** to at least three other posts in the same forum (that is, with the same interest area as you). Do this on or before Thursday, July 23, noon GMT.
 
-### Call for Content
+## Call for Content
 
 Do you have an "art game" that you have played, that is not mentioned in this lesson or in the *Challenges* book? Post it, along with a link and brief summary, to the course Wiki under the "[Art Game](http://gamedesignconcepts.pbworks.com/Art-Games)" section. (If you are not registered for this course but still want to contribute, leave it in the comments here or post it to Twitter with the \#GDCU tag, and I or someone else will add it.)
 
-### Mini-Challenge
+## Mini-Challenge
 
 Come up with a core concept for any kind of artistic game that can be expressed in 135 characters or less. Post it to Twitter with the \#GDCU tag. One concept per person, please! Tweet before July 20, noon GMT.
 

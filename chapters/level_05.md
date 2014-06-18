@@ -1,10 +1,10 @@
-## Level 5: Mechanics and Dynamics
+# Level 5: Mechanics and Dynamics
 
 *Originally posted July 13, 2009*
 
 Until this point, we have made lots of games and game rules, but at no point have we examined what makes a *good* rule from a *bad* one. Nor have we really examined the different *kinds* of rules that form a game designer’s palette. Nor have we talked about the relationship between the game rules and the player experience. These are the things we examine today.
 
-### Course Announcements
+## Course Announcements
 
 No major announcements today, but for your curiosity I did compile a list of tweets for the last challenge (add or change a rule to *Battleship* to make it more interesting):
 
@@ -25,13 +25,13 @@ No major announcements today, but for your curiosity I did compile a list of twe
 
 We will revisit some of these when we talk about the kinds of decisions that are made in a game, next Monday.
 
-### Readings
+## Readings
 
 This week I’m trying something new and putting one of the readings up front, because I want you to look at this first, before reading the rest of this post.
 
 -   [*MDA Framework*](http://www.cs.northwestern.edu/~hunicke/MDA.pdf) by LeBlanc, Hunicke and Zabek. This is one of the few academic papers that achieved wide exposure within the game industry (it probably helps that the authors are experienced game designers). There are two parts of this paper that made it really influential. The first is the Mechanics/Dynamics/Aesthetics (MDA) conceptualization, which offers a way to think about the relationship of rules to player experience, and also the relationship between player and designer. The second part to pay attention to is the "8 kinds of fun" which we will return to a bit later in the course (Thursday of next week).
 
-### Now, About That MDA Framework Thing…
+## Now, About That MDA Framework Thing…
 
 LeBlanc *et al.* define a game in terms of its Mechanics, Dynamics, and Aesthetics:
 
@@ -43,13 +43,13 @@ LeBlanc *et al.* define a game in terms of its Mechanics, Dynamics, and Aestheti
 
 Before the MDA Framework was written, the terms "mechanics" and "dynamics" were already in common use among designers. The term "aesthetics" in this sense had not, but has gained more use in recent years.
 
-### The Process of Design
+## The Process of Design
 
 With the definitions out of the way, why is this important? This is one of the key points of the MDA paper. The game designer only creates the Mechanics directly. The Dynamics emerge from the Mechanics, and the Aesthetics arise out of the Dynamics. The game designer may *want* to design the play experience, or at least that may be the ultimate goal the designer has in mind… but as designers, we are stuck building the rules of the game and hoping that the desired experience emerges from our rules.
 
 This is why game design is sometimes referred to as a **second-order design problem**: because we do not define the solution, we define something that creates something else that creates the solution. **This is why game design is hard**. Or at least, it is one reason. Design is not just a matter of coming up with a "Great Idea" for a game; it is about coming up with a set of rules that will implement that idea, when two-thirds of the final product (the Dynamics and Aesthetics) are not under our direct control.
 
-### The Process of Play
+## The Process of Play
 
 Designers start with the Mechanics and follow them as they grow outward into the Aesthetics. You can think of a game as a sphere, with the Mechanics at the core, the Dynamics surrounding them, and the Aesthetics on the surface, each layer growing out of the one inside it. One thing the authors of MDA point out is that this is *not* how games are experienced from the player’s point of view.
 
@@ -59,7 +59,7 @@ If a player spends enough time with a game, they may learn to appreciate the Dyn
 
 If a game is a sphere that is designed from the inside out, it is *played* from the outside in. And this, I think, is one of the key points of MDA. The designer creates the Mechanics and everything flows outward from that. The player experiences the Aesthetics and then their experience flows inward. As designers, we must be aware of **both** of these ways of interacting with a game. Otherwise, we are liable to create games that are fun for designers but not players.
 
-### One Example of MDA in action
+## One Example of MDA in action
 
 I mentioned the concept of "spawn camping" earlier in this course, as an example of how players with different implicit rule sets can throw around accusations of "cheating" for something that is technically allowed by the rules of the game. Let us analyze this in the context of MDA.
 
@@ -75,7 +75,7 @@ How do you know *what* change to make, if the effects of mechanics changes are s
 
 This seems as good a time as any to quote game designer Sid Meier. His warning is clearly directed at video game designers, but applies just as easily to non-digital projects. It is a reminder that we design the Mechanics of the game, and designing the Mechanics is fun for us. But it is *not* the Mechanics that are fun for our *players*. A common design mistake is to create rules that are fun to create, but that do not necessarily translate into fun gameplay. Always remember that you are creating games for the players and not yourself.
 
-### Mechanics, Dynamics and Complexity
+## Mechanics, Dynamics and Complexity
 
 Generally, adding additional mechanics, new systems, additional game objects, and new ways for objects to interact with one another (or for players to interact with the game) will lead to a greater complexity in the dynamics of the game. For example, compare *Chess* and *Checkers*. *Chess* has six kinds of pieces (instead of two) and a greater number of actions that each piece can take, so it ends up having more strategic depth.
 
@@ -83,7 +83,7 @@ Is more complexity good, or bad? It depends. *Tetris* is a very simple but still
 
 Do more complex mechanics *always* lead to more complex dynamics? No – there are some cases where very simple mechanics create extreme complexity (as is the case with *Chess*). And there are other cases where the mechanics are extremely complicated, but the dynamics are simple (imagine a modified version of the children’s card game *War* that did not just involve comparison of numbers, but lookups on complex "combat resolution" charts). The best way to gauge complexity, as you may have guessed, is to play the game.
 
-### Feedback Loops
+## Feedback Loops
 
 One kind of dynamic that is often seen in games and deserves special attention is known as the **feedback loop**. There are two types, **positive feedback loops** and **negative feedback loops**. These terms are borrowed from other fields such as control systems and biology, and they mean the same thing in games that they mean elsewhere.
 
@@ -149,7 +149,7 @@ Negative feedback loops can also be useful, for example to prevent a dominant ea
 
 What makes a particular feedback loop "good" or "bad" from a player perspective? This is debatable, but I think it is largely a matter of player perception of fairness. If it feels like the game is artificially intervening to help a player win when they don’t deserve it, it can be perceived negatively by players. How do you know how players will perceive the game? Playtest, of course.
 
-### Eliminating Feedback Loops
+## Eliminating Feedback Loops
 
 Suppose you identify a feedback loop in your game and you want to remove it. How do you do this? There are two ways.
 
@@ -168,7 +168,7 @@ By being aware of the mechanics causing a feedback loop, you can disrupt the eff
 
 If you do not want to remove the feedback loop from the game but you do want to reduce its effects, an alternative is to add *another* feedback loop of the opposing type. Again returning to the kart-racing example, if you wanted to keep the "rubber-banding" negative feedback loop, you could add a positive feedback loop to counteract it. For example, if the opposing cars get speed boosts when the player is ahead, perhaps the player can go faster as well, leading to a case where being in the lead makes the entire race go faster (but not giving an advantage or disadvantage to anyone). Or maybe the player in the lead can find better power-ups to compensate for the opponents’ new speed advantage.
 
-### Emergence
+## Emergence
 
 Another dynamic that game designers should be aware of is called **emergent gameplay** (or **emergent complexity**, or simply **emergence**). I’ve found this is a difficult thing to describe in my classroom courses, so I would welcome other perspectives on how to teach it. Generally, emergence describes a game with simple mechanics but complex dynamics. "Emergent complexity" can be used to describe *any* system of this nature, even things that are not games.
 
@@ -198,21 +198,21 @@ It’s important to note that emergence is not always planned for, and for that 
 
 As you can see, emergence is not always a good thing. More to the point, it is not *necessarily* cheaper to develop a game with emergent properties. Because of the complex nature of the dynamics, emergent games require a lot more playtesting and iteration than games that are more straightforward in their relationships between mechanics and dynamics. A game with emergence may be easier to program, but it is much harder to design; there is no cost savings, but rather a *shift* in cost from programmers to game designers.
 
-### From Emergence to Intentionality
+## From Emergence to Intentionality
 
 Player intentionality, the concept from Church’s *Formal Abstract Design Tools* mentioned earlier in this course, is related in some ways to emergence. Generally, you get emergence by having lots of small, simple, interconnected systems. If the player is able to figure out these systems and use them to form complicated chains of events intentionally, that is one way to have a higher degree of player intention.
 
-### Another Reading
+## Another Reading
 
 -   [*Designing to Promote Intentional Play*](http://clicknothing.typepad.com/Design/hockingc_GDC06_Intentionality.zip) by Clint Hocking. This was a lecture given live at GDC in 2006, but Clint has kindly made his Powerpoint slides and speaker notes publicly available for download from his blog. It covers the concept of player intentionality and its relation to emergence, far better than I can cover here. The link goes to a Zip file that contains a number of files inside it; start with the Powerpoint and the companion Word doc, and the presentation will make it clear when the other things like the videos come into play. I will warn you that, like many video game developers, Clint tends to use a lot of profanity; also, the presentation opens with a joke about Jesus and Moses. It may be best to skip this one if you are around people who are easily offended by such things.
 
-### Lessons Learned
+## Lessons Learned
 
 The most important takeaway from today is that game design is not a trivial task. It is difficult, mainly because of the nature of MDA. The designer creates rules, which create play, which create the player experience. Every rule created has a doubly-indirect effect on the player, and this is hard to predict and control. This also explains why making one small rules change in a game can have ripple effects that drastically alter how the game is played. And yet, a designer’s task is to create a favorable player experience.
 
 This is why playtesting is so important. It is the most effective way to gauge the effects of rules changes when you are uncertain.
 
-### Homeplay
+## Homeplay
 
 Today we will practice iterating on an existing design, rather than starting from scratch. I want you to see first-hand the effects on a game when you change the mechanics.
 
@@ -260,7 +260,7 @@ Finally, your last assignment (this is mandatory!) is to **read at least three o
 
 You may leave your name, or you may post anonymously.
 
-### Mini-Challenge
+## Mini-Challenge
 
 Take your favorite physical sport. Identify a positive or negative feedback loop in the game. Most sports have at *least* one of these. Propose a rule change that would eliminate it. Find a way to express it in less than 135 characters, and post to Twitter with the \#GDCU tag. You have until Thursday. One sport per participant, please!
 

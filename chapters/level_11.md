@@ -1,4 +1,4 @@
-## Level 11: Design Project Overview
+# Level 11: Design Project Overview
 
 *Originally posted August 3, 2009*
 
@@ -12,20 +12,20 @@ So, let’s make a *good* game. You have all the knowledge and theory you need.
 
 We will spend the next month making a game. If you’re a student, that may sound like an incredibly long time to you, and you will be surprised at how fast it flies by. If you’re a little more experienced, it may sound like an unreasonably *short* time, but I promise you will manage. Do not fear; we will take things one step at a time, through the entire process. You will not have to complete everything all at once. (Nor should you. That is not how games are made.)
 
-### Readings
+## Readings
 
 Read the following:
 
 -   *Challenges for Game Designers*, Chapter 11 (Targeting a Market). We have discussed the importance designing for the player (as opposed to the designer) earlier in this course. This chapter goes into more detail, giving some considerations when designing a game for target-demographic or mass-market appeal.
 
 
-### Design Project: an Overview
+## Design Project: an Overview
 
 In my classroom courses, I call this a **portfolio project** – a game that will ultimately go into the student’s game design portfolio as a way of showing their skill at game design. You may consider doing this as well, depending on your situation and your career goals.
 
 The purpose of the Design Project is to gain some experience in taking a game through the entire process from concept to completion. Because of this, **do not** simply start with an existing design (such as an earlier game you created in this course, or an idea you’ve had floating around in your head for awhile). You have plenty of time – the entire rest of your life! – to take your existing projects further. For now, get some practice at *all* of the stages of designing a game.
 
-### The Process
+## The Process
 
 As you might guess from the syllabus, the process we will follow is going to go something like this:
 
@@ -48,7 +48,7 @@ As you might guess from the syllabus, the process we will follow is going to go 
 
 Keep in mind that game design is an iterative process, and that at any point in the process you may find a reason to return to earlier steps to redo something. This is fine, and it is to be expected. This is also the reason why it is better to kill an idea early than to abandon it late. If you find that you have to start over from scratch, you’ll have more time remaining if you start over in the first week (as opposed to restarting the project in the *last* week).
 
-### Idea Generation
+## Idea Generation
 
 Recall from Level 4 that there are many ways to start conceiving of ideas. Start with core aesthetics, or a core mechanic. Start with materials from other sources. Start with a narrative. And so on.
 
@@ -56,14 +56,13 @@ Today, start generating some ideas. Look in the world around you. What systems d
 
 The more you generate ideas, the easier it gets.
 
-### Design Project Constraints
+## Design Project Constraints
 
 I could leave this entire project open-ended, but in order to get you started I’m going to give you some constraints. Remember, constraints are your friends.
 
-#### Beginner
+### Beginner
 
-![Green Circle][]
-[Green Circle]: green_circle.pdf width=65px 
+![Green Circle](images/green_circle.pdf)
 
 **If you’ve never designed a complete game before this course, follow this set of constraints.** Create a board game, card game, or tile-laying game (that is, it must either have a board, cards, or tiles as physical components). It may have more than one of these components, and it may involve additional components beyond these (such as dice or pawns). You may choose any theme you want, as long as it is original – do not use an existing IP (intellectual property). In short, if your work would violate someone else’s trademark or copyright, don’t do it. You will undoubtedly work with other people’s IP at various points in your own career; take the opportunity now to do something original with *your own* IP.
 
@@ -71,10 +70,9 @@ I’m going to place two more restrictions to help you. First, you **may not** m
 
 Second, you **may not** use "roll-and-move" mechanics in any form. Do not throw dice and then move a pawn around the track. Do not use a spinner or a teetotum or card draws or any other random-number-generating device to determine what a player does on their turn. There are several reasons for this prohibition. First, the mechanic is highly overused, and it is practically impossible for you to make a game that will not feel like a clone of *Monopoly*, *Trouble*, *Sorry!*, *Chutes & Ladders*, or any of the other myriad games that rely on this as their core mechanic. Second, the mechanic essentially makes the key decision each turn for the player, so the *game* is making interesting decisions but the *player* is not. By divorcing player intentionality from the game’s outcome, you usually end up with a game that is not particularly fun to play (no matter how fun it is to design).
 
-#### Intermediate
+### Intermediate
 
-![Blue Square][]
-[Blue Square]: blue_square.pdf width=65px
+![Blue Square](images/blue_square.pdf)
 
 **If you have designed one or more complete games before but still do not feel like you are a strong game designer, follow this set of constraints.** Follow all of the Green Circle constraints above. In addition, add one of the following constraints. This is your choice, based entirely on your area of interest within game design:
 
@@ -86,16 +84,15 @@ Second, you **may not** use "roll-and-move" mechanics in any form. Do not throw 
 
 -   Create a game to teach any topic that is normally taught at the high school (pre-college) level. It is up to you whether to teach a narrow, specific fact or a broad concept. The challenge here, of course, is to start with a fun game and not have the focus on education get in the way of that. If you’re interested in "serious games" (games that have a purpose other than pure entertainment), then do this project.
 
-#### Advanced
+### Advanced
 
-![Black Diamond][]
-[Black Diamond]: black_diamond.pdf width=65px
+![Black Diamond](images/black_diamond.pdf)
 
 **If you have designed multiple games professionally and you consider yourself highly experienced, follow this set of constraints.** Ignore everything above. You must create a board game that uses a "roll-and-move" mechanic as the primary gameplay activity. **But make it good.**
 
 This mechanic is highly overused in games. It also creates a separation between the player’s decisions and the actions that the player takes on the board. It is therefore extremely challenging to design a game that uses this mechanic in a way that feels fresh, original, and compelling. But I’m sure if you have reached this point in your career, you are up to the challenge.
 
-### What If I Don’t Want To Make a Board Game?
+## What If I Don’t Want To Make a Board Game?
 
 Some of you expressed a strong interest in board games and are excited to get started. Don’t let me keep you. Realize that you are in the lucky minority.
 
@@ -105,7 +102,7 @@ Some of you expressed interest in creating tabletop role-playing games. I’ll r
 
 Some of you might have additional real-world constraints. You might be on a budget, and so you can’t spend more than a certain amount of money on your prototype. You might live in a remote location where prototyping materials are scarce, and you’ll have to make do with what you have. You might have less time than usual to devote to your project, in which case you’ll need to design a game that has a short play time (so that you can playtest and iterate more frequently in less time). If you have constraints from your life that affect this project, consider those to be part of the project. A designer should not complain that they lack the resources to make the game they want; rather, they should find a way to make the *best game possible* with the resources they have.
 
-### Homeplay
+## Homeplay
 
 I ask three things of you:
 
