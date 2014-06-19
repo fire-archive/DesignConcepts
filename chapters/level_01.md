@@ -97,7 +97,7 @@ Here are some definitions from various sources:
 
 -   A game has "ends and means": an objective, an outcome, and a set of rules to get there. (David Parlett)
 
--   A game is an activity involving player decisions, seeking objectives within a "limiting context" [i.e. rules]. (Clark C. Abt)
+-   A game is an activity involving player decisions, seeking objectives with\-in a "limiting context" [i.e. rules]. (Clark C. Abt)
 
 -   A game has six properties: it is "free" (playing is optional and not obligatory), "separate" (fixed in space and time, in advance), has an uncertain outcome, is "unproductive" (in the sense of creating neither goods nor wealth — note that wagering **transfers** wealth between players but does not create it), is governed by rules, and is "make believe" (accompanied by an awareness that the game is not Real Life, but is some kind of shared separate "reality"). (Roger Callois)
 
@@ -195,7 +195,7 @@ Before moving on to the next level, read the following:
 
 -   **Challenges for Game Designers**, Chapter 1 (Basics). This is just a short introduction to the text.
 
--   **I Have No Words and I Must Design** (available at [http://www.costik.com/nowords.html](http://www.costik.com/nowords.html)), by Greg Costikyan. To me (and I'm sure others will disagree), this essay is the turning point when game design started to become its own field of study. Since it all started here, for me at least, I think it only fitting to introduce it at the start of this course. (There is a newer version at [PDF](http://www.costik.com/nowords2002.pdf) if you are interested, but I prefer the original for its historical importance.)
+-   **I Have No Words and I Must Design** ([Available](http://www.costik.com/nowords.html), by Greg Costikyan. To me (and I'm sure others will disagree), this essay is the turning point when game design started to become its own field of study. Since it all started here, for me at least, I think it only fitting to introduce it at the start of this course. (There is a newer version at [PDF](http://www.costik.com/nowords2002.pdf) if you are interested, but I prefer the original for its historical importance.)
 
 -   **Understanding Games 1, Understanding Games 2, Understanding Games 3, and Understanding Games 4**. These are not readings, but playings. They are a series of short Flash games that attempt to explain some basic concepts of games in the form of a game. The name is a reference to Understanding Comics, a comic book that explains about comic books. Each one takes about five minutes. They are all available at [http://www.kongregate.com/](http://www.kongregate.com/).
 

@@ -14,7 +14,7 @@ And finally, I know just enough about art history and art criticism to be danger
 
 ## Course Announcements
 
-For those paying close attention, I recently changed my Twitter username from @ai864 to @IanSchreiber, after urging from co-author Brenda Brathwaite (@bbrathwaite). The theory is that my actual name will be easier to remember… provided people learn to spell it correctly. Keep in mind, for those of you who tweet about this course regularly.
+For those paying close attention, I recently changed my Twitter name from @ai864 to @IanSchreiber, after urging from co-author @br -- Brenda Brathwaite. The theory is that my actual name will be easier to remember... provided people learn to spell it correctly. Keep in mind, for those of you who tweet about this course regularly.
 
 ## Mini-Challenge Results
 
@@ -52,9 +52,9 @@ McCloud starts off by making an attempt to define "art" as **anything that is no
 
 I've heard the definition of art as something that is **communicative** and **transformative**. This is also overly broad, but also clearly includes games.
 
-Dictionary.com defines art as **the quality, production, expression, or realm, according to aesthetic principles, of what is beautiful, appealing, or of more than ordinary significance**. By that definition, a game with lots of "eye candy," *or* a game that is more than "just a game" for any reason, can be considered art.
+Dictionary.com defines art: **the quality, production, expression, or realm, according to aesthetic principles, of what is beautiful, appealing, or of more than ordinary significance**. By that definition, a game with lots of "eye candy," *or* a game that is more than "just a game" for any reason, can be considered art.
 
-Wikipedia defines art as **the process or product of deliberately arranging elements in a way that appeals to the senses or emotions**. Games have formal elements that can be deliberately designed. Games can appeal to senses, obviously, through their visual properties if nothing else. Games can also appeal to emotions – two oft-cited examples from the video game world are the death of Floyd in *Planetfall* and the death of Aerith in *Final Fantasy VII*, although notice how emotional some people can get even by watching a sports game on television, or how many friendships and romantic relationships have ended over a game of *Diplomacy*.
+Wikipedia defines art: **the process or product of deliberately arranging elements in a way that appeals to the senses or emotions**. Games have formal elements that can be deliberately designed. Games can appeal to senses, obviously, through their visual properties if nothing else. Games can also appeal to emotions – two oft-cited examples from the video game world are the death of Floyd in *Planetfall* and the death of Aerith in *Final Fantasy VII*, although notice how emotional some people can get even by watching a sports game on television, or how many friendships and romantic relationships have ended over a game of *Diplomacy*.
 
 My intent is not to define the term *art*; it is about as difficult and about as fruitless as the quest to define the word *game*. Rather, my point is that no matter what definition of "art" you find, it does not seem particularly difficult to include games within that definition.
 
@@ -199,9 +199,9 @@ Looking at these in the context of McCloud's six steps, we can see some patterns
 
 -   Use games as a medium of self-expression ("Idea/Purpose"). You might express a feeling, an idea, or an ideology. You may simply be presenting your expression, or actually persuading the audience to your point of view. For emotional expression, start with the Aesthetics (in the MDA sense) and work backwards: what emotion do you want the player to feel, what Dynamics would cause that emotion, and finally what Mechanics can create that kind of play? For expression of ideas, remember that games are systems; find the systems *behind* the ideas that you want to express, and then find the gameplay inherent in those systems. (I should mention my co-author's series of games in progress, including *Train*, which are exploring the systems behind human atrocity. Unfortunately these games are non-digital and therefore I cannot simply give you a link to play them. But I did want to point them out, lest anyone think that only *video* games are capable of being artistic.)
 
--   Use games to explore the limitations of games-as-artistic-medium ("Form"). In this case, start with a question: can games do X (whatever "X" is)? Then, try to answer that question by designing a game that tries to do X.
+-   Use games to explore the limitations of games as an artistic medium ("Form"). In this case, start with a question: can games do X (whatever "X" is)? Then, try to answer that question by designing a game that tries to do X.
 
--   Create a traditional work of art, with interactive game-like elements ("Surface"). In this case your creative process may be different than that of game design.
+-   Create a traditional work of art, with some sort of interactive game-like elements ("Surface"). In this case your creative process may be different than that of game design.
 
 
 Are there other artistic works you can do in the other steps? I think there are, but we have not heavily explored them yet.

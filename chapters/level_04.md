@@ -62,7 +62,7 @@ When you think of new ideas for games, what kinds of ideas do you have? What are
 
 ## Other Methods of Idea Generation
 
-If you are stuck with "designer's block" (the game design equivalent of "writer's block") there are a number of strategies you'll see mentioned in various places. Here are a few:
+If you are stuck with "designer's block" (the game design analog of "writer's block"), there are a number of strategies you'll see mentioned in various places. Here are a few:
 
 -   Keep a permanent collection of all of your ideas for games, mechanics, stories, and everything else. Look back through it from time to time to see if there's anything from years ago that you can use. Add to it whenever an idea occurs to you that you can't use immediately, but that you want to return to later.
 
@@ -93,7 +93,7 @@ Remember that the entire purpose of prototyping is to maximize the number of ite
 
 -   You can't really reduce the time it takes to design the rules of the game, without compromising your goals. You can't rush creativity.
 
--   You *can* reduce time spent in playtesting by being efficient about scheduling and designing playtests to give maximum information for minimum play time… but there is a natural limit to this, and beyond a certain point you can't rush through playing the game.
+-   By being efficient about scheduling and designing playtests to give maximum information for minimum play time.. you *can* reduce time spent in playtesting but there is a natural limit to this, and beyond a certain point you can't rush through playing the game.
 
 -   Evaluation doesn't take very long; you're making a simple yes/no decision of whether the game is "done" or "good enough" based on playtest results. There is little to be gained by rushing through this further.
 
@@ -132,7 +132,7 @@ You can call it "paper" or "cardboard" or "non-digital" or "analog" or any numbe
 
 Paper prototypes do have some limitations that you should be aware of:
 
--   They cannot always handle "twitch" (dexterity or timing based) mechanics… although be aware that there are many dexterity-based non-digital games. Consider the similarities and differences between the [*Street Fighter*](http://en.wikipedia.org/wiki/Street_Fighter_2) series of video games, and James Ernest's real-time card battle game [*Brawl*](http://en.wikipedia.org/wiki/Brawl_(game)). Some things carry over well… others, not so much.
+-   They cannot always handle "twitch" (dexterity or timing based) mechanics... although be aware that there are many dexterity-based non-digital games. Consider the similarities and differences between the [*Street Fighter*](http://en.wikipedia.org/wiki/Street_Fighter_2) series of video games, and James Ernest's real-time card battle game [*Brawl*](http://en.wikipedia.org/wiki/Brawl_(game)). Some things carry over well... others, not so much.
 
 -   Information that is hidden to both players but that still requires bookkeeping, such as the "Fog of War" mechanics prevalent in Real-Time Strategy video games. Again, note that this can sometimes be worked around — the classic children's game *Battleship* has "fog-of-war-like" mechanics, and the board game *Clue* has information hidden from all players.
 
@@ -182,12 +182,18 @@ Here are the rules for the classic children's game *Battleship*:
 
 -   Objective: sink all five ships in your opponent's fleet before they do the same to you.
 
--   Setup: Each player has a 10x10 grid of squares, with the rows labeled with numbers 1 through 10 and the columns labeled with letters A through J. Each player has five ships: one ship that is 2 squares long, two ships that are each 3 squares long, one ship that is 4 squares long and one ship that is 5 squares long. Each player secretly places their ships on their own grid, in such a way that each ship is oriented sideways or up-and-down (not diagonally) and that ships do not overlap. A player is chosen to go first.
+Setup: 
 
--   Progression of play: On a player's turn, they call out a single square by its coordinates (such as "B-5" or "H-10"). If the named square is not occupied by any of the opponent's ships, the opponent says "Miss". If the square *is* occupied, the opponent says "Hit". Additionally, if the square was a "hit" *and* the ship that was hit has had all of its sections hit, the ship is considered "sunk" and the opponent must tell you which ship was sunk. No matter what the result, after the action is resolved, play passes to the opponent.
+- Each player has a 10x10 grid of squares. 
+- The rows are labeled with numbers 1 through 10 
+- The columns labeled with letters A through J. 
+- Each player has five ships: one ship that is 2 squares long, two ships that are each 3 squares long, one ship that is 4 squares long and one ship that is 5 squares long. 
+- Each player secretly places their ships on their own grid, in such a way that each ship is oriented sideways or up-and-down (not diagonally) and that ships do not overlap. 
+- A player is chosen to go first.
 
--   Resolution: When one player sinks all five ships of the opponent's fleet, that player is the winner.
+Progression of play: On a player's turn, they call out a single square by its coordinates (such as "B-5" or "H-10"). If the named square is not occupied by any of the opponent's ships, the opponent says "Miss". If the square *is* occupied, the opponent says "Hit". Additionally, if the square was a "hit" *and* the ship that was hit has had all of its sections hit, the ship is considered "sunk" and the opponent must tell you which ship was sunk. No matter what the result, after the action is resolved, play passes to the opponent.
 
+Resolution: When one player sinks all five ships of the opponent's fleet, that player is the winner.
 
 Normally, this game is available in toy stores. It comes on a plastic board with plastic pegs. Some fancy electronic versions require batteries and have sound. But I bet if you think about it, you could prototype this game in paper in less than five minutes. How would you do this?
 

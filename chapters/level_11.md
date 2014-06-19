@@ -92,7 +92,7 @@ Second, you **may not** use "roll-and-move" mechanics in any form. Do not throw 
 
 This mechanic is highly overused in games. It also creates a separation between the player's decisions and the actions that the player takes on the board. It is therefore extremely challenging to design a game that uses this mechanic in a way that feels fresh, original, and compelling. But I'm sure if you have reached this point in your career, you are up to the challenge.
 
-## What If I Don't Want To Make a Board Game?
+## What If I Don't Want To Make a Board \protect\linebreak Game?
 
 Some of you expressed a strong interest in board games and are excited to get started. Don't let me keep you. Realize that you are in the lucky minority.
 

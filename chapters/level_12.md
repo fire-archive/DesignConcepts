@@ -156,5 +156,5 @@ Before Monday, August 10, noon GMT, **create a playable prototype** of your game
 
 Then, **play the game by yourself**, at least once. In your idea notebook, write down any problems you encountered or questions that you ran into. Trust me, no matter how obvious the things are that you need to fix, you will forget them if you don't write them down.
 
-Finally, **write down the rules** once your game is at least somewhat playable. This is also for your own reference, so that you do not forget.
+Finally, **write down the rules** once your game is at least somewhat play\-able. This is also for your own reference, so that you do not forget.
 

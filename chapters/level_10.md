@@ -30,8 +30,7 @@ Read the following:
 We can roughly classify different stories by their overall structure. The structure is determined by what kinds of choices are available to the player, how open or constrained those choices are, and what effect those choices have on both the ongoing story and the final ending. Each structure has its advantages and disadvantages, which we will discuss below.
 
 ### Linear Stories
-![Linear Story ][]
-[Linear Story ]: level_10_story_linear.pdf
+![Linear Story ](images/level_10_story_linear.pdf)
 
 Linear stories are the traditional narrative, with some gameplay elements thrown in that do not affect the story. In this case, the story and gameplay must be separate entities, because the story has no choices and the gameplay must include decision-making of some kind (else it is just a story and not a game). They can be thematically linked, and the story may influence gameplay (perhaps when a certain pre-scripted story element happens, it causes a new gameplay effect to come into play), but the gameplay cannot influence the story because there is only one story.
 
@@ -40,8 +39,7 @@ Linear stories have one major advantage over all other story structures: it is e
 Linear stories have the obvious disadvantage that, due to a lack of decisions, they are not very game-like. As stated above, there is a natural barrier between linear stories and game mechanics, which limits the effect the story can have.
 
 ### Branching Stories
-![Story Branching][]
-[Story Branching]: level_10_story_branching.pdf height=200px
+![Story Branching](images/level_10_story_branching.pdf)
 
 The first and most obvious thing to do to a linear story, if we want to add decisions, is to add choice points at various places. When the player reaches a certain point, they decide what to do, and then the story goes down one of several continuing paths until another choice point is reached. An example is the old-school *Phantasy Star III* for Sega Genesis; twice in the game, the main character is given a choice of which of two girls to marry (and then the story continues to the next generation of characters), leading to a total of four branches, each with its own story and its own ending.
 
@@ -52,8 +50,7 @@ However, there is one major drawback of using a branching story: it is expensive
 To make things worse, note that a player that goes through the game once will never even see the vast majority of content. It requires multiple replays just to see every path through the story… and even then, the player must decide which is the "real" story and which are the alternate timelines that didn't actually happen. (If the developers ever make a sequel to the game, they must deal with this problem as well.)
 
 ### Parallel Paths in Stories
-![Story Parallel][]
-[Story Parallel]: level_10_story_parallel.pdf
+![Story Parallel](images/level_10_story_parallel.pdf)
 
 This is Bateman's word for a branching story that collapses in on itself, allowing the player to make choices but then collapsing all of them eventually into several mandatory events. In *Silent Hill*, for example, there are several choices the player can make that may advance the story or reveal some additional story elements along the way, and these will influence the ending. However, there are certain events that the player is forced to encounter no matter what else they have or haven't done.
 
@@ -66,8 +63,7 @@ One potential solution is to have the player decisions alter the game's ending. 
 And, we still have the problem that the player must replay through the entire game multiple times just to see all the endings.
 
 ### Threaded Stories
-![Story Threaded][]
-[Story Threaded]: level_10_story_threaded.pdf height=120px
+![Story Threaded](images/level_10_story_threaded.pdf)
 
 This is Bateman's term to describe stories that are divided into small pieces, perhaps with several plot arcs going on at once that may or may not intersect. The player then chooses which paths to follow and in what order. One example of this is *World of Warcraft*, where the player can accept any of several quests to advance different elements of the story. Another example are the *Elder Scrolls* series of games (like *Morrowind* and *Oblivion*), where the player may follow certain storylines based on how they want to advance their character, and the player may find other quests or subplots that they choose to pursue (or not) along the way, and these subplots may or may not have their own effects on the main plot line.
 
@@ -82,8 +78,7 @@ Writing a threaded narrative is hard, because events can happen in any order, le
 Lastly, a threaded narrative runs the risk of confusing the player, if there are too many concurrent plots happening at a single time and the player does not immediately see the relationships between them. This is also a danger with books and movies that try to tell several stories at once.
 
 ### Dynamic Object-Oriented Narratives
-![Story Dynamic][]
-[Story Dynamic]: level_10_story_dynamic.pdf
+![Story Dynamic](images/level_10_story_dynamic.pdf)
 
 This last structure is Bateman's term that, as far as I can tell, he invented to describe the game [*Façade*](http://www.interactivestory.net/) (which you should absolutely download and play if you have not yet seen it). The idea is that there are several mini-stories, each with potentially several entry points and exit points. A single mini-story's exit point may lead to a final ending, *or* to another mini-story. The mini-stories may be thought of as "chapters" in a book or "acts" in a play (except that you may not "read" all of the chapters or may read them in a different order, depending on the choices you make and how you exit each chapter).
 
@@ -174,10 +169,9 @@ Here's a question I was once asked in a job interview: describe the terms "arche
 
 McKee says that story is about forms, not formulas. Archetypes are forms; stereotypes are formulas.
 
-"Villain" is an archetype. The Snidely Whiplash-esque, mustache-twirling, top-hat-and-black-cape-wearing, purely-mean-for-its-own-sake bad guy is a stereotype.
+"Villain" is an archetype. The Snidely Whip\-lash-esque, mustache-twirl\-ing, top-hat-and-black-cape-wearing, purely-mean-for-its-own-sake bad guy is a stereotype.
 
-![Snidely Whiplash][]
-[Snidely Whiplash]: level_10_snidely_whiplash.png "Snidely Whiplash Villain Stereotype" height=200px
+![Snidely Whiplash Villain Stereotype](images/level_10_snidely_whiplash.png)
 
 Archetypes are useful. They allow us to tell a story with believable characters that fit familiar forms. Stereotypes are overused, and typically make a story *less* believable because the audience has seen these same characters before from other stories, so they do not seem unique. Generally, avoid stereotypes, unless there is very good reason (such as if your story is a parody that is making fun of a particular character stereotype).
 
@@ -243,6 +237,6 @@ We have come a long way in only five weeks, and for those of you who have kept u
 
 -   When writing linear stories, we can learn a lot from the last couple of centuries. Aristotle tells us that stories should be a believable chain of causes and effects brought about by the main character, and that stories should have a beginning, middle and end. McKee tells us that story is about forms, that story is about change, and that character is more important than characterization. Campbell gives us the Hero's Journey story form, which is useful when writing stories about heros.
 
--   There are several different non-linear story structures that allow for player choices to influence the story. They all have advantages and disadvantages.
+-   There are several different non-linear story structures that allow for play\-er choices to influence the story. They all have advantages and disadvantages.
 
 Have a restful weekend, and I'll see you back here on Monday, August 3 at noon GMT.

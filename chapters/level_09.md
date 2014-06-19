@@ -39,7 +39,7 @@ Read the following:
 
 -   [*Into the Woods: a Practical Guide to the Hero's Journey*](http://www.gamasutra.com/features/20050617/bates_01.shtml) by Bob Bates. This article summarizes Joseph Campbell's work, as it is relevant to game design.
 
--   [*What Every Game Developer Needs to Know about Story*](http://www.gamasutra.com/features/20050727/sutherland_01.shtml), by John Sutherland. This article summarizes the book *Story* by Robert McKee (which itself is essentially a practical guide to Aristotle's *Poetics*), rounding out the Holy Trinity of storytelling for game designers.
+-   [*What Every Game Developer Needs to Know about Story*](http://www.gamasutra.com/features/20050727/sutherland_01.shtml) by John Sutherland. This article summarizes the book *Story* by Robert McKee (which itself is essentially a practical guide to Aristotle's *Poetics*), rounding out the Holy Trinity of storytelling for game designers.
 
 -   *Understanding Comics*, Chapters 2 and 3, if you have a copy of that book. As you read, pay particular attention to how any of this might apply to games. Scott McCloud isn't going to come out and say it, so you will have to connect the dots yourself.
 
@@ -159,7 +159,7 @@ On pages 44-45, McCloud notes that art styles can vary between iconic (like a sm
 
 What are the implications of this in games?
 
--   Consider the main characters in many video games – Master Chief, Samus Aran, Gordon Freeman, Chell. You do not typically see your own character much at all, nor do you hear them speak much. This is not an accident. It is done deliberately to allow the player to project their own personality onto the character. The character becomes an extension of you as the player, and you feel an emotional connection to the character specifically because they are *not* very well defined.
+-   Con\-sid\-er the main characters in many video games – Master Chief, Sam\-us Aran, Gordon Freeman, Chell. You do not typically see your own character much at all, nor do you hear them speak much. This is not an accident. It is done deliberately to allow the player to project their own personality onto the character. The character becomes an extension of you as the player, and you feel an emotional connection to the character specifically because they are *not* very well defined.
 
 -   On the other hand, you can also have a strong character that is *very* defined – Duke Nukem or Lara Croft, for example. In this case, we immediately recognize the main character as *not* ourselves. To compensate, they must show a strong personality.
 

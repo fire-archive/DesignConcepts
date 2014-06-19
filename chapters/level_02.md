@@ -1,4 +1,5 @@
 # Game Design / Iteration and Rapid Prototyping
+\chaptermark{Design / Iteration and Rapid Prototying}
 
 *Originally posted July 2, 2009*
 
@@ -12,7 +13,7 @@ Some administrative things that have come up since Monday:
 
 -   As of 5am GMT this morning, the [discussion forums](http://gamedesignconcepts.aceboard.com/) are set up and operational. I look forward to seeing some really great discussion. There were quite a few spambots that tried to register, so I had to check every forum account against course registrations. If you got an email that your account was rejected, it just means I was unable to match it up to a course registration; please try again. If you have not yet created a forum account, you can make it easiest for me by using the same email on the forums that you used to register for this course… and if you're unwilling to do that, at least put some kind of identifying information in there (like your name and location) so I can find you in the list. Thank you.
 
--   Lastly, to those of you who sent in a registration email after the course started (that is, if your email was timestamped after Monday, noon GMT), I apologize for not being able to add you after the fact. Registration emails have taken a lot of my time prior to the start of the course, and if I accept late registrations I will not have the time to do other things for the course. Whether you are registered or not, this blog is free and open to the public (as is the [Twitter feed](https://twitter.com/#search?q=%23GDCU)), and I hope you do still follow along and get a lot out of the experience.
+-   Finally, to those of you who sent in a registration email after the course started (that is, if your email was timestamped after Monday,\linebreak noon GMT), I apologize for not being able to add you after the fact. Registration emails have taken a lot of my time prior to the start of the course, and if I accept late registrations I will not have the time to do other things for the course. Whether you are registered or not, this blog is free and open to the public (as is the [Twitter feed](https://twitter.com/#search?q=%23GDCU)), and I hope you do still follow along and get a lot out of the experience.
 
 
 ## Game Design
@@ -40,9 +41,9 @@ If you look back at *Three-to-Fifteen* from Monday, you'll notice those very sim
 
 As you may have noticed, game design is an incredibly broad field. Those of us who are professional designers sometimes have trouble explaining what we do to our families and friends. Part of the reason for this is that we do so many things. Here are some analogies I've seen when trying to explain what it is like to be a game designer:
 
--   Game designers are **artists**. The term "art" is just as difficult to define as the word "game"… but if games can be a form of art (as we saw in Costikyan's definition, at least), then designers would be artists.
+-   Game designers are **artists**. The term "art" is just as difficult to define as the word "game"... but if games can be a form of art (as we saw in Costikyan's definition, at least), then designers would be artists.
 
--   Game designers are **architects**. Architects do not build physical structures; they create blueprints. Video game designers also create "blueprints" which are referred to as "design docs." Board game designers create "blueprints" as well — in the form of prototypes — which are then mass-produced by publishers.
+-   Game designers are **architects**. Architects do not build physical structures; they create blueprints. Video game designers also create "blueprints" known as "design docs." Board game designers create "blueprints" as well — in the form of prototypes — which are then mass-produced by publishers.
 
 -   Game designers are **party hosts**. As designers, we invite players into our space and try our best to show them a good time.
 
@@ -63,7 +64,7 @@ Is a game designer all of these things? None of them? It is open for discussion,
 
 How is a game designed? There are many methods.
 
-Historically, the first design methodology was known as the **waterfall** method: first you design the entire game on paper, then you implement it (using programming in a video game, or creating the board and pieces for a non-digital game), then you test it to make sure the rules work properly, add some graphical polish to make it look nice, and then you ship it.
+Historically known as the **waterfall** method, as the first design methodology, you first you design the entire game on paper, then you implement it (using programming in a video game, or creating the board and pieces for a non-digital game), then you test it to make sure the rules work properly, add some graphical polish to make it look nice, and then you ship it.
 
 ![Waterfall](images/level_2_waterfall.pdf)
 

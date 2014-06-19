@@ -21,7 +21,7 @@ Read the following:
 
 I have mentioned before that an important game design skill to have is the ability to critically analyze *other* people's games. I think about half of the reason why I am as far along as I am in my career, personally, is that I have the ability to play a game and offer direct constructive feedback that is useful to another designer. My usefulness to designers makes me friends in a lot of places, and I want you to have the same opportunity.
 
-Consider your own Design Project to be, if not finished, then at least "handed in" (if this were a normal class). Put it aside, and let us examine some other projects. It's good practice, and it may even make you some friends that extend beyond this course.
+Consider your De\-sign Project to be, if not finished, then at least "handed in" (if this were a normal class). Put it aside, and let us examine some other projects. It's good practice, and it may even make you some friends that extend beyond this course.
 
 This time, we will follow a process that is a bit different than before. We are going to take off our game designer hats for a moment, and put on our *game critic* hats.
 

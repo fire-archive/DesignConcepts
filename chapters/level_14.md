@@ -67,7 +67,7 @@ How do you make a prototype that looks better than hand-drawn, without taking to
 -   You may find other tools that you like to use. Feel free to post them here!
 
 
-## Running a Playtest Session with Non-Designers
+## Running a Playtest Session with Non-Design\-ers
 
 Since you are going to spend so much time taking notes and observing, you will probably find it easiest if you do not actually *play* the game. You may be able to take the role of a player when testing with other designers, and you're obviously taking on the role of *all* players when solo testing, but in the kind of testing we're talking about today you should avoid playing so that you can focus all of your attention on how your testers are interacting with the game and with each other.
 

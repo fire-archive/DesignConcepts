@@ -22,7 +22,7 @@ You might wonder, then, what is the next step on this journey? I have created a 
 
 There are some questions I've been asked a bit during this course, about what happens when it all ends. Here are my answers.
 
-**I want to pass some of this material along to other students/friends/colleagues. Can I get the rights to use it? Can I link to it from my own blog/course/whatever?**
+**I want to pass some of this material along to other students or friends or colleagues. Can I get the rights to use it? Can I link to it from my own blog or course or whatever?**
 
 I've received a number of emails asking about permissions, and I have just upgraded the blog with a fresh new Creative Commons license that should make it clear. Bottom line: feel free to use any or all of the content that I've posted here. I created this class to share information, after all. However, please do credit me as the original source if you use my content. My name is Ian Schreiber, and the title of this course/blog is Game Design Concepts.
 
@@ -80,7 +80,7 @@ At the end of most college courses, students are given an evaluation to fill out
 
 I want to know what I did right, and more importantly, what I did wrong.
 
-I have set up a survey here: [http://survey.constantcontact.com/survey/a07e2kh03mmfz3laohv/start](http://survey.constantcontact.com/survey/a07e2kh03mmfz3laohv/start)
+I have set up a [survey](http://survey.constantcontact.com/survey/a07e2kh03mmfz3laohv/start) here: 
 
 If you are reading this at all, I would like to hear from you. This is true whether you originally signed up for the course, or came in late; whether you kept up with the coursework, or not; whether you enjoyed yourself or whether you thought this was a complete waste of time.
 

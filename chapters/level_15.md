@@ -45,7 +45,7 @@ The purpose of blindtesting is to catch the non-obvious problems that you may no
 
 ## Who to Blindtest With?
 
-Most board games require multiple players. For practical reasons, most blindtests done with professional games are done with regular game groups. Some companies keep a list of volunteer groups and put out calls to their private list for playtesters; they will then send out advance copies of their game in exchange for feedback. For our purposes, this is unhelpful, because most of you do not work at such a company and do not have a database of volunteers to call at a moment's notice.
+Most board games require multiple players. For practical reasons, most blind\-tests done with professional games are done with regular game groups. Some companies keep a list of volunteer groups and put out calls to their private list for playtesters; they will then send out advance copies of their game in exchange for feedback. For our purposes, this is unhelpful, because most of you do not work at such a company and do not have a database of volunteers to call at a moment's notice.
 
 Ideally, your blindtest should be with people who are in the target audience for your game. If you're making a children's game, your blindtest should involve kids in your target age range (and perhaps their parents). If your game is made for people who are already avid Eurogame players, you'd do well to find a group that plays these kinds of games regularly. And so on.
 
@@ -94,7 +94,7 @@ You have three options for dealing with this potential hazard. It is up to you w
 
 Your homeplay this past Thursday was to arrange for a playtest session with non-designers. You may have already performed this playtest, or you may have just scheduled it to take place over the first part of this week, but that playtest session should be concluded before this Thursday, August 20, noon GMT.
 
-In addition, you should **find a blindtest group and arrange for a blindtesting session, to take place *after* the non-designer playtest.** If possible, you should plan to have blindtest results on or before Thursday, August 27.
+In addition, you should **find a blindtest group and arrange for a blind\protect\-testing session, to take place *after* the non-designer playtest.** If possible, you should plan to have blindtest results on or before Thursday, August 27.
 
 ## Feedback
 

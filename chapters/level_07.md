@@ -51,7 +51,7 @@ As Costikyan pointed out in *I Have No Words*, we often use the buzzword "intera
 
 You might wonder, what is it about children's games that allow them to be completely devoid of decisions? We'll get to that in a bit.
 
-Other than those two exceptions, most games have some manner of decision-making, and it is here that a game can be made more or less interesting. Sid Meier has been quoted as saying that a good game is a series of interesting decisions (or something like that), and there is some truth there. But what makes a decision "interesting"? *Battleship* is a game that has plenty of decisions but is not particularly interesting for most adults; why not? What makes the decisions in *Settlers of Catan* more interesting than *Monopoly*? Most importantly, how can you design your own games to have decisions that are actually compelling?
+Other than those two exceptions, most games have some manner of making decisions, and it is here that a game can be made more or less interesting. Sid Meier has been quoted as saying that a good game is a series of interesting decisions (or something like that), and there is some truth there. But what makes a decision "interesting"? *Battleship* is a game that has plenty of decisions but is not particularly interesting for most adults; why not? What makes the decisions in *Settlers of Catan* more interesting than *Monopoly*? Most importantly, how can you design your own games to have decisions that are actually compelling?
 
 ## Things Not To Do
 
@@ -132,7 +132,7 @@ If you think about it, these requirements make sense. Why would your brain need 
 
 Csikszentmihalyi also gave five effects of being in a flow state:
 
--   A merging of action and awareness: spontaneous, automatic action/reaction. In other words, you go on autopilot, doing things without thinking about them. (In fact, your brain is moving faster than the speed of thought – think of a time when you played a game like *Tetris* and got into a flow state, and then at some point it occurred to you that you were doing really well, and then you wondered how you could keep up with the blocks falling so fast, and as soon as you started to think about it the blocks *were* moving too fast and you lost. Or maybe that's just me.)
+-   A merging of action and awareness: spontaneous, automatic action/re\-ac\-tion. In other words, you go on autopilot, doing things without thinking about them. (In fact, your brain is moving faster than the speed of thought – think of a time when you played a game like *Tetris* and got into a flow state, and then at some point it occurred to you that you were doing really well, and then you wondered how you could keep up with the blocks falling so fast, and as soon as you started to think about it the blocks *were* moving too fast and you lost. Or maybe that's just me.)
 
 -   Concentration on immediate tasks: complete focus, without any mind-wandering. You are not thinking about long-term tradeoffs or other tasks; your mind is in the here-and-now, because it *has* to be.
 
@@ -250,22 +250,19 @@ Post in the forum that most closely resembles your skill and experience level as
 
 ### Beginner
 
-![Green Circle][]
-[Green Circle]: green_circle.pdf width=65px
+![Green Circle](images/green_circle.pdf)
 
 Beginner, little or no experience prior to taking this course.
 
 ### Intermediate
 
-![Blue Square][]
-[Blue Square]: blue_square.pdf width=65px
+![Blue Square](images/blue_square.pdf)
 
 Intermediate, some coursework or exposure to game design but little or no professional experience.
 
 ### Advanced
 
-![Black Diamond][]
-[Black Diamond]: black_diamond.pdf width=65px
+![Black Diamond](images/black_diamond.pdf)
 
 Advanced, at least some professional experience as a published game designer.
 
@@ -279,5 +276,5 @@ Add a rule that gives interesting decisions to *Trivial Pursuit* that can be exp
 
 ## Parting Shot
 
-If you're still curious, "Csikszentmihalyi" is pronounced "Chick-sent-me-high". Seriously, I'm not making this up. It's not exact, but it's about as close as you can get with an English-language transliteration.
+If you're still curious, the name "Csikszentmihalyi" is pronounced "Chick-sent-me-high". Seriously, I'm not making this up. It's not exact, but it's about as close as you can get with an English-language transliteration.
 
