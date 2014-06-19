@@ -46,7 +46,7 @@ The book is free. There are some minor costs:
 
 -   There is a required textbook. It retails for under $25 US.
 
--   Part of the course will involve the creation of a fully realized non-digital project, so you may need to purchase materials. These usually range from $25 to $50, depending on the game.It's still cheaper than college tuition.
+-   Part of the course will involve the creation of a fully realized non-digital project, so you may need to purchase materials. These usually range from $25 to $50, depending on the game. It's still cheaper than college tuition.
 
 
 ## Textbooks
